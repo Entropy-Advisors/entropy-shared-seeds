@@ -1,0 +1,9 @@
+name: 'entropy_shared_seeds'
+version: '0.1.0'
+config-version: 2
+
+seed-paths: ["seeds"]
+
+seeds:
+  entropy_shared_seeds:
+    +quote_columns: true
