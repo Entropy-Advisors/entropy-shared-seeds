@@ -1,481 +1,166 @@
 address,blockchain,address_type,symbol,name,entity,entity_type,category,start_block,source,date_added,track_holders
 0xe67192302e444a8d28f60f6737a8bc7c672b8ac6,arbitrum,entity,,Event Horizon: Voter Enfranchisement Pool,event-horizon,dao,,,manual,2026-03-16,false
-0xe67192302e444a8d28f60f6737a8bc7c672b8ac6,arbitrum,entity,,Event Horizon: Voter Enfranchisement Pool,event-horizon,dao,,,manual,2026-03-16,false
-0xe67192302e444a8d28f60f6737a8bc7c672b8ac6,arbitrum,entity,,Event Horizon: Voter Enfranchisement Pool,event-horizon,dao,,,manual,2026-03-16,
 0x53877685abc912c3c4624dce647e4e17a15c07f6,arbitrum,entity,,Arbitrum DAO: Expansion Program,arbitrum-dao,dao,arbitrum-expansion-program,,manual,2026-03-16,false
-0x53877685abc912c3c4624dce647e4e17a15c07f6,arbitrum,entity,,Arbitrum DAO: Expansion Program,arbitrum-dao,dao,arbitrum-expansion-program,,manual,2026-03-16,false
-0x53877685abc912c3c4624dce647e4e17a15c07f6,arbitrum,entity,,Arbitrum DAO: Expansion Program,arbitrum-dao,dao,arbitrum-expansion-program,,manual,2026-03-16,
 0x40cd7d713d7ae463f95ce5d342ea6e7f5cf7c999,ethereum,entity,,Arbitrum DAO: ParentToChildRewardRouter,arbitrum-dao,dao,arbitrum-expansion-program,,manual,2026-03-16,false
-0x40cd7d713d7ae463f95ce5d342ea6e7f5cf7c999,ethereum,entity,,Arbitrum DAO: ParentToChildRewardRouter,arbitrum-dao,dao,arbitrum-expansion-program,,manual,2026-03-16,false
-0x40cd7d713d7ae463f95ce5d342ea6e7f5cf7c999,ethereum,entity,,Arbitrum DAO: ParentToChildRewardRouter,arbitrum-dao,dao,arbitrum-expansion-program,,manual,2026-03-16,
 0x54fe3425f09854e15081fa5b3276afcb4c46fca2,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,arbitrum-expansion-program,,manual,2026-03-16,false
-0x54fe3425f09854e15081fa5b3276afcb4c46fca2,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,arbitrum-expansion-program,,manual,2026-03-16,false
-0x54fe3425f09854e15081fa5b3276afcb4c46fca2,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,arbitrum-expansion-program,,manual,2026-03-16,
 0x13d4ff2a83fbcb8f5fc73ce66cf5928ed0943cb0,arbitrum,entity,,Arbitrum DAO: ADPC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x13d4ff2a83fbcb8f5fc73ce66cf5928ed0943cb0,arbitrum,entity,,Arbitrum DAO: ADPC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x13d4ff2a83fbcb8f5fc73ce66cf5928ed0943cb0,arbitrum,entity,,Arbitrum DAO: ADPC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x2b04e32ece44ea0725cba5d6f2846257b7f910be,arbitrum,entity,,Arbitrum DAO: ADPC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x2b04e32ece44ea0725cba5d6f2846257b7f910be,arbitrum,entity,,Arbitrum DAO: ADPC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x2b04e32ece44ea0725cba5d6f2846257b7f910be,arbitrum,entity,,Arbitrum DAO: ADPC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x524e480dc669592757b3f22140cc0950a9c2f489,arbitrum,entity,,Arbitrum DAO: ADPC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x524e480dc669592757b3f22140cc0950a9c2f489,arbitrum,entity,,Arbitrum DAO: ADPC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x524e480dc669592757b3f22140cc0950a9c2f489,arbitrum,entity,,Arbitrum DAO: ADPC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x46658a4395fa8847b97aa0db19a65e1f36bfb23f,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x46658a4395fa8847b97aa0db19a65e1f36bfb23f,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x46658a4395fa8847b97aa0db19a65e1f36bfb23f,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x4d06cef7fa8e0f386bc97492e4ce1f663fb6cdca,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x4d06cef7fa8e0f386bc97492e4ce1f663fb6cdca,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x4d06cef7fa8e0f386bc97492e4ce1f663fb6cdca,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x9271a08958c0406f59fc0e0510141563a2ffcd28,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x9271a08958c0406f59fc0e0510141563a2ffcd28,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x9271a08958c0406f59fc0e0510141563a2ffcd28,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xae8cbcef7de8664c3ff5bfc58536c183ffa60b51,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xae8cbcef7de8664c3ff5bfc58536c183ffa60b51,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xae8cbcef7de8664c3ff5bfc58536c183ffa60b51,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xc5698b7143f0f74a8f2b709876ad25c268e8d3fe,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xc5698b7143f0f74a8f2b709876ad25c268e8d3fe,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xc5698b7143f0f74a8f2b709876ad25c268e8d3fe,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xcae481c31b702a68d1c47f84c456983bec994f0f,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xcae481c31b702a68d1c47f84c456983bec994f0f,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xcae481c31b702a68d1c47f84c456983bec994f0f,arbitrum,entity,,Arbitrum DAO: AGV,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x38429f9e67559cda82eed04a5895c5c11e779e05,arbitrum,entity,,Arbitrum DAO: Arbitrum Audit Program,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x38429f9e67559cda82eed04a5895c5c11e779e05,arbitrum,entity,,Arbitrum DAO: Arbitrum Audit Program,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x38429f9e67559cda82eed04a5895c5c11e779e05,arbitrum,entity,,Arbitrum DAO: Arbitrum Audit Program,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x04f399a34077bf9cd984dcf855839fd2031e863b,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x04f399a34077bf9cd984dcf855839fd2031e863b,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x04f399a34077bf9cd984dcf855839fd2031e863b,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x22a017676274d67dec950391569b3a13d5199a4a,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x22a017676274d67dec950391569b3a13d5199a4a,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x22a017676274d67dec950391569b3a13d5199a4a,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x2aaf7f872e3dee9c824d3336df48c23840a25f22,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x2aaf7f872e3dee9c824d3336df48c23840a25f22,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x2aaf7f872e3dee9c824d3336df48c23840a25f22,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x8deba81c874c68c27a09706cdea50d4f727e0711,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x8deba81c874c68c27a09706cdea50d4f727e0711,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x8deba81c874c68c27a09706cdea50d4f727e0711,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xca3373e6b9e4ece34b0f786c9e9c0be749944d73,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xca3373e6b9e4ece34b0f786c9e9c0be749944d73,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xca3373e6b9e4ece34b0f786c9e9c0be749944d73,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xd19ed0e8e723fdb85a6a1480e5345fbcce0bff85,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xd19ed0e8e723fdb85a6a1480e5345fbcce0bff85,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xd19ed0e8e723fdb85a6a1480e5345fbcce0bff85,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x5e7071e5572e32b61122e5c04b8f591804b34b06,arbitrum,entity,,Arbitrum DAO: Bootstrap the first BoLD validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x5e7071e5572e32b61122e5c04b8f591804b34b06,arbitrum,entity,,Arbitrum DAO: Bootstrap the first BoLD validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x5e7071e5572e32b61122e5c04b8f591804b34b06,arbitrum,entity,,Arbitrum DAO: Bootstrap the first BoLD validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xa02cbbb00c17882f19d53fc5db35e5f5f2d039b5,arbitrum,entity,,Arbitrum DAO: Bootstrap the first BoLD validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xa02cbbb00c17882f19d53fc5db35e5f5f2d039b5,arbitrum,entity,,Arbitrum DAO: Bootstrap the first BoLD validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xa02cbbb00c17882f19d53fc5db35e5f5f2d039b5,arbitrum,entity,,Arbitrum DAO: Bootstrap the first BoLD validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x569bcbcf747a2b67355c242137a0b903c9f72a2b,ethereum,entity,,Arbitrum DAO: Bootstrap the first BoLD validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x569bcbcf747a2b67355c242137a0b903c9f72a2b,ethereum,entity,,Arbitrum DAO: Bootstrap the first BoLD validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x569bcbcf747a2b67355c242137a0b903c9f72a2b,ethereum,entity,,Arbitrum DAO: Bootstrap the first BoLD validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x073a8f65ed92da9f9f64db0d69f424aa978e1ccd,arbitrum,entity,,Arbitrum DAO: DAO Subsidy Fund,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x073a8f65ed92da9f9f64db0d69f424aa978e1ccd,arbitrum,entity,,Arbitrum DAO: DAO Subsidy Fund,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x073a8f65ed92da9f9f64db0d69f424aa978e1ccd,arbitrum,entity,,Arbitrum DAO: DAO Subsidy Fund,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x40fce28c9f3a0d7b75b917c95960d61d930dca54,arbitrum,entity,,Arbitrum DAO: DAO Subsidy Fund,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x40fce28c9f3a0d7b75b917c95960d61d930dca54,arbitrum,entity,,Arbitrum DAO: DAO Subsidy Fund,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x40fce28c9f3a0d7b75b917c95960d61d930dca54,arbitrum,entity,,Arbitrum DAO: DAO Subsidy Fund,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x945f1a4f856f90e8b466a4cf70acfb8f78fa1915,arbitrum,entity,,Arbitrum DAO: DAO Subsidy Fund,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x945f1a4f856f90e8b466a4cf70acfb8f78fa1915,arbitrum,entity,,Arbitrum DAO: DAO Subsidy Fund,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x945f1a4f856f90e8b466a4cf70acfb8f78fa1915,arbitrum,entity,,Arbitrum DAO: DAO Subsidy Fund,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x0cb87fde334cd0334ce85dc787c24a76efcda44d,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x0cb87fde334cd0334ce85dc787c24a76efcda44d,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x0cb87fde334cd0334ce85dc787c24a76efcda44d,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x1191efe82884ea1089ac51e894d1559df2e350c0,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x1191efe82884ea1089ac51e894d1559df2e350c0,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x1191efe82884ea1089ac51e894d1559df2e350c0,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x120c1920656188d4f00f6de37d1da7fdccac4a9a,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x120c1920656188d4f00f6de37d1da7fdccac4a9a,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x120c1920656188d4f00f6de37d1da7fdccac4a9a,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x30786e59d5210b5e9c4f7707c70c9356b10148a6,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x30786e59d5210b5e9c4f7707c70c9356b10148a6,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x30786e59d5210b5e9c4f7707c70c9356b10148a6,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x3dfe378547104ddf6e80ff26d1681a6d7a9f1af0,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x3dfe378547104ddf6e80ff26d1681a6d7a9f1af0,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x3dfe378547104ddf6e80ff26d1681a6d7a9f1af0,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x58fab6d931b5a7c38b2e428d6cfea7f071a1a225,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x58fab6d931b5a7c38b2e428d6cfea7f071a1a225,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x58fab6d931b5a7c38b2e428d6cfea7f071a1a225,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x65b902a3fe7eb2fbc437548f5cf5607c771be6d0,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x65b902a3fe7eb2fbc437548f5cf5607c771be6d0,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x65b902a3fe7eb2fbc437548f5cf5607c771be6d0,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x85c34d6121934e329ca91bfe34007dbc61688f9f,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x85c34d6121934e329ca91bfe34007dbc61688f9f,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x85c34d6121934e329ca91bfe34007dbc61688f9f,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x94eda9f9dfc38043d33439c5696bc585702e492b,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x94eda9f9dfc38043d33439c5696bc585702e492b,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x94eda9f9dfc38043d33439c5696bc585702e492b,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xb7c1551bbeb47eb86266153df5f9d7da47f08308,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xb7c1551bbeb47eb86266153df5f9d7da47f08308,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xb7c1551bbeb47eb86266153df5f9d7da47f08308,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xb9a05fccc841202f1ee0deee557c6abe5cbb6615,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xb9a05fccc841202f1ee0deee557c6abe5cbb6615,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xb9a05fccc841202f1ee0deee557c6abe5cbb6615,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xc5d8884254bd8a92a491d9737221dafac7dd2b9c,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xc5d8884254bd8a92a491d9737221dafac7dd2b9c,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xc5d8884254bd8a92a491d9737221dafac7dd2b9c,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xce05db9821c753439fbad2a1ed99fd7f26b3a423,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xce05db9821c753439fbad2a1ed99fd7f26b3a423,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xce05db9821c753439fbad2a1ed99fd7f26b3a423,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xd206e15da4cdbdd51c88336a5932e516206311e7,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xd206e15da4cdbdd51c88336a5932e516206311e7,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xd206e15da4cdbdd51c88336a5932e516206311e7,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xdac9e80e7eb7529286c028f0c11c0f94befee728,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xdac9e80e7eb7529286c028f0c11c0f94befee728,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xdac9e80e7eb7529286c028f0c11c0f94befee728,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xdafa9908d9ebe0ad98f739197a6e085830137383,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xdafa9908d9ebe0ad98f739197a6e085830137383,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xdafa9908d9ebe0ad98f739197a6e085830137383,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xe435a0bcda6134ce9a9e8d2dc2b1beb10c0059a7,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xe435a0bcda6134ce9a9e8d2dc2b1beb10c0059a7,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xe435a0bcda6134ce9a9e8d2dc2b1beb10c0059a7,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xebe67f2ced2780321903ca7c6602c914262eb2dc,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xebe67f2ced2780321903ca7c6602c914262eb2dc,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xebe67f2ced2780321903ca7c6602c914262eb2dc,arbitrum,entity,,Arbitrum DAO: DDA,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x07e7ef4b87bb4115f7f507c89c2bac5f3342cc3c,arbitrum,entity,,Arbitrum DAO: Delegate Incentive Program v1.5,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x07e7ef4b87bb4115f7f507c89c2bac5f3342cc3c,arbitrum,entity,,Arbitrum DAO: Delegate Incentive Program v1.5,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x07e7ef4b87bb4115f7f507c89c2bac5f3342cc3c,arbitrum,entity,,Arbitrum DAO: Delegate Incentive Program v1.5,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x7b79108e99b8ace932a8737c471235f5fb7647df,arbitrum,entity,,Arbitrum DAO: Delegate Incentive Program v1.5,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x7b79108e99b8ace932a8737c471235f5fb7647df,arbitrum,entity,,Arbitrum DAO: Delegate Incentive Program v1.5,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x7b79108e99b8ace932a8737c471235f5fb7647df,arbitrum,entity,,Arbitrum DAO: Delegate Incentive Program v1.5,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xff1f38f8cdae7c1b1b289fcf6f5c1aa234df1443,arbitrum,entity,,Arbitrum DAO: DIP,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xff1f38f8cdae7c1b1b289fcf6f5c1aa234df1443,arbitrum,entity,,Arbitrum DAO: DIP,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xff1f38f8cdae7c1b1b289fcf6f5c1aa234df1443,arbitrum,entity,,Arbitrum DAO: DIP,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x7d0a9493edecf7112486319e0fdba72fc7a62468,arbitrum,entity,,Arbitrum DAO: DRIP,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x7d0a9493edecf7112486319e0fdba72fc7a62468,arbitrum,entity,,Arbitrum DAO: DRIP,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x7d0a9493edecf7112486319e0fdba72fc7a62468,arbitrum,entity,,Arbitrum DAO: DRIP,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xef297424bbc64b21fb405532b58fe77299f1e1f4,arbitrum,entity,,Arbitrum DAO: DRIP,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xef297424bbc64b21fb405532b58fe77299f1e1f4,arbitrum,entity,,Arbitrum DAO: DRIP,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xef297424bbc64b21fb405532b58fe77299f1e1f4,arbitrum,entity,,Arbitrum DAO: DRIP,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x08cc5726b84863ab502541e39e3255bab0413441,arbitrum,entity,,Arbitrum DAO: Entropy Advisors Y2-Y3,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x08cc5726b84863ab502541e39e3255bab0413441,arbitrum,entity,,Arbitrum DAO: Entropy Advisors Y2-Y3,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x08cc5726b84863ab502541e39e3255bab0413441,arbitrum,entity,,Arbitrum DAO: Entropy Advisors Y2-Y3,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x15c4edf2cf2f36335e42c19e506ed6cb16a57d8f,arbitrum,entity,,Arbitrum DAO: Event Horizon,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x15c4edf2cf2f36335e42c19e506ed6cb16a57d8f,arbitrum,entity,,Arbitrum DAO: Event Horizon,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x15c4edf2cf2f36335e42c19e506ed6cb16a57d8f,arbitrum,entity,,Arbitrum DAO: Event Horizon,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x7c599660c84ed5b92d1878518ab1fafe006bd311,arbitrum,entity,,Arbitrum DAO: Event Horizon,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x7c599660c84ed5b92d1878518ab1fafe006bd311,arbitrum,entity,,Arbitrum DAO: Event Horizon,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x7c599660c84ed5b92d1878518ab1fafe006bd311,arbitrum,entity,,Arbitrum DAO: Event Horizon,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x8eaaf63346caa4048e98e5502cdd1e38b9e5ff20,arbitrum,entity,,Arbitrum DAO: Event Horizon,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x8eaaf63346caa4048e98e5502cdd1e38b9e5ff20,arbitrum,entity,,Arbitrum DAO: Event Horizon,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x8eaaf63346caa4048e98e5502cdd1e38b9e5ff20,arbitrum,entity,,Arbitrum DAO: Event Horizon,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x1a5184b21a8731e60a98511edee1c917744267c0,arbitrum,entity,,Arbitrum DAO: Events Budget 2025,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x1a5184b21a8731e60a98511edee1c917744267c0,arbitrum,entity,,Arbitrum DAO: Events Budget 2025,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x1a5184b21a8731e60a98511edee1c917744267c0,arbitrum,entity,,Arbitrum DAO: Events Budget 2025,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xd767eaf0cb35b55587a2e12f387c2aad65b5930c,arbitrum,entity,,Arbitrum DAO: Events Budget 2025,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xd767eaf0cb35b55587a2e12f387c2aad65b5930c,arbitrum,entity,,Arbitrum DAO: Events Budget 2025,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xd767eaf0cb35b55587a2e12f387c2aad65b5930c,arbitrum,entity,,Arbitrum DAO: Events Budget 2025,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x61f839515f1b4567061d1adda009627ba4e5796a,arbitrum,entity,,Arbitrum DAO: Grants Framework,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x61f839515f1b4567061d1adda009627ba4e5796a,arbitrum,entity,,Arbitrum DAO: Grants Framework,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x61f839515f1b4567061d1adda009627ba4e5796a,arbitrum,entity,,Arbitrum DAO: Grants Framework,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xc158b555f0b1ddd7f4d4f97fd2a9acd144f8e0d4,arbitrum,entity,,Arbitrum DAO: Grants Framework,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xc158b555f0b1ddd7f4d4f97fd2a9acd144f8e0d4,arbitrum,entity,,Arbitrum DAO: Grants Framework,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xc158b555f0b1ddd7f4d4f97fd2a9acd144f8e0d4,arbitrum,entity,,Arbitrum DAO: Grants Framework,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x0b682597ccba615d7cb59ebe3c89f9307f393c67,arbitrum,entity,,Arbitrum DAO: Hackathon Builder Continuation Program,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x0b682597ccba615d7cb59ebe3c89f9307f393c67,arbitrum,entity,,Arbitrum DAO: Hackathon Builder Continuation Program,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x0b682597ccba615d7cb59ebe3c89f9307f393c67,arbitrum,entity,,Arbitrum DAO: Hackathon Builder Continuation Program,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x0f84fa246941883ff9ab114382aa221cf8b6d650,arbitrum,entity,,Arbitrum DAO: Hackathon Builder Continuation Program,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x0f84fa246941883ff9ab114382aa221cf8b6d650,arbitrum,entity,,Arbitrum DAO: Hackathon Builder Continuation Program,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x0f84fa246941883ff9ab114382aa221cf8b6d650,arbitrum,entity,,Arbitrum DAO: Hackathon Builder Continuation Program,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x544cbe6698e2e3b676c76097305bba588defb13a,arbitrum,entity,,"Arbitrum DAO: LTIPP, STIP Bridge & Kwenta Incentives",arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x544cbe6698e2e3b676c76097305bba588defb13a,arbitrum,entity,,"Arbitrum DAO: LTIPP, STIP Bridge & Kwenta Incentives",arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x544cbe6698e2e3b676c76097305bba588defb13a,arbitrum,entity,,"Arbitrum DAO: LTIPP, STIP Bridge & Kwenta Incentives",arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x97859ee242fcffbf16521cfb144e9ba02c773a2f,arbitrum,entity,,Arbitrum DAO: Multi-sig Support Service & Token Flow Reporting,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x97859ee242fcffbf16521cfb144e9ba02c773a2f,arbitrum,entity,,Arbitrum DAO: Multi-sig Support Service & Token Flow Reporting,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x97859ee242fcffbf16521cfb144e9ba02c773a2f,arbitrum,entity,,Arbitrum DAO: Multi-sig Support Service & Token Flow Reporting,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xf67db74dec758fe7c3fb521ab0db77e8df9c8178,arbitrum,entity,,Arbitrum DAO: OpCo,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xf67db74dec758fe7c3fb521ab0db77e8df9c8178,arbitrum,entity,,Arbitrum DAO: OpCo,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xf67db74dec758fe7c3fb521ab0db77e8df9c8178,arbitrum,entity,,Arbitrum DAO: OpCo,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x4074ffbed76e82fd350871e75a14790c742a7cd4,arbitrum,entity,,Arbitrum DAO: RAD Program,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x4074ffbed76e82fd350871e75a14790c742a7cd4,arbitrum,entity,,Arbitrum DAO: RAD Program,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x4074ffbed76e82fd350871e75a14790c742a7cd4,arbitrum,entity,,Arbitrum DAO: RAD Program,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x5bb0a919345af084854bcdc9a6ddde8b7fee79ad,arbitrum,entity,,Arbitrum DAO: Safeguarding Software Developers' Rights,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x5bb0a919345af084854bcdc9a6ddde8b7fee79ad,arbitrum,entity,,Arbitrum DAO: Safeguarding Software Developers' Rights,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x5bb0a919345af084854bcdc9a6ddde8b7fee79ad,arbitrum,entity,,Arbitrum DAO: Safeguarding Software Developers' Rights,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x5a5c8da41220eef8e7f423f6e9028da5b9e70f8b,arbitrum,entity,,Arbitrum DAO: STIP,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x5a5c8da41220eef8e7f423f6e9028da5b9e70f8b,arbitrum,entity,,Arbitrum DAO: STIP,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x5a5c8da41220eef8e7f423f6e9028da5b9e70f8b,arbitrum,entity,,Arbitrum DAO: STIP,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x140e4d8d4229d5437efd6fc1beeb86cb2bcf9d98,arbitrum,entity,,Arbitrum DAO: Strategic Partnerships Budget,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x140e4d8d4229d5437efd6fc1beeb86cb2bcf9d98,arbitrum,entity,,Arbitrum DAO: Strategic Partnerships Budget,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x140e4d8d4229d5437efd6fc1beeb86cb2bcf9d98,arbitrum,entity,,Arbitrum DAO: Strategic Partnerships Budget,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x0bdafb92718759fdb1a90af6a7455e7cf300eb73,arbitrum,entity,,Arbitrum DAO: Stylus Sprint,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x0bdafb92718759fdb1a90af6a7455e7cf300eb73,arbitrum,entity,,Arbitrum DAO: Stylus Sprint,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x0bdafb92718759fdb1a90af6a7455e7cf300eb73,arbitrum,entity,,Arbitrum DAO: Stylus Sprint,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x272bbebf956d65178f184b0f8d859fdc7ea3f5b4,arbitrum,entity,,Arbitrum DAO: Stylus Sprint,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x272bbebf956d65178f184b0f8d859fdc7ea3f5b4,arbitrum,entity,,Arbitrum DAO: Stylus Sprint,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x272bbebf956d65178f184b0f8d859fdc7ea3f5b4,arbitrum,entity,,Arbitrum DAO: Stylus Sprint,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0x9cfcf93dc53df1c7986eb5ec3cf07a234d94b635,arbitrum,entity,,Arbitrum DAO: Watchdog,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x9cfcf93dc53df1c7986eb5ec3cf07a234d94b635,arbitrum,entity,,Arbitrum DAO: Watchdog,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x9cfcf93dc53df1c7986eb5ec3cf07a234d94b635,arbitrum,entity,,Arbitrum DAO: Watchdog,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,
 0xcdc8a164272de1e6ba118228c2a71bbe3684cfa4,arbitrum,entity,,Arbitrum DAO: Steakhouse Fee Rebate,arbitrum-dao,dao,fee-rebate,,manual,2026-03-16,false
-0xcdc8a164272de1e6ba118228c2a71bbe3684cfa4,arbitrum,entity,,Arbitrum DAO: Steakhouse Fee Rebate,arbitrum-dao,dao,fee-rebate,,manual,2026-03-16,false
-0xcdc8a164272de1e6ba118228c2a71bbe3684cfa4,arbitrum,entity,,Arbitrum DAO: Steakhouse Fee Rebate,arbitrum-dao,dao,fee-rebate,,manual,2026-03-16,
 0xe6ec2174539a849f9f3ec973c66b333ed08c0c18,arbitrum,entity,,Arbitrum DAO: L1 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0xe6ec2174539a849f9f3ec973c66b333ed08c0c18,arbitrum,entity,,Arbitrum DAO: L1 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0xe6ec2174539a849f9f3ec973c66b333ed08c0c18,arbitrum,entity,,Arbitrum DAO: L1 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,
 0x2e041280627800801e90e9ac83532fadb6cad99a,arbitrum,entity,,Arbitrum DAO: L1 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0x2e041280627800801e90e9ac83532fadb6cad99a,arbitrum,entity,,Arbitrum DAO: L1 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0x2e041280627800801e90e9ac83532fadb6cad99a,arbitrum,entity,,Arbitrum DAO: L1 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,
 0xbf5041fc07e1c866d15c749156657b8eed0fb649,arbitrum,entity,,Arbitrum DAO: L2 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0xbf5041fc07e1c866d15c749156657b8eed0fb649,arbitrum,entity,,Arbitrum DAO: L2 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0xbf5041fc07e1c866d15c749156657b8eed0fb649,arbitrum,entity,,Arbitrum DAO: L2 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,
 0x32e7af5a8151934f3787d0cd59eb6edd0a736b1d,arbitrum,entity,,Arbitrum DAO: L2 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0x32e7af5a8151934f3787d0cd59eb6edd0a736b1d,arbitrum,entity,,Arbitrum DAO: L2 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0x32e7af5a8151934f3787d0cd59eb6edd0a736b1d,arbitrum,entity,,Arbitrum DAO: L2 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,
 0xf7951d92b0c345144506576ec13ecf5103ac905a,nova,entity,,Arbitrum DAO: Legacy Nova Fees,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0xf7951d92b0c345144506576ec13ecf5103ac905a,nova,entity,,Arbitrum DAO: Legacy Nova Fees,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0xf7951d92b0c345144506576ec13ecf5103ac905a,nova,entity,,Arbitrum DAO: Legacy Nova Fees,arbitrum-dao,dao,fees,,manual,2026-03-16,
 0xc9722cfddfbc6af4e77023e8b5bd87489efebf5f,nova,entity,,Arbitrum DAO: Nova L1 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0xc9722cfddfbc6af4e77023e8b5bd87489efebf5f,nova,entity,,Arbitrum DAO: Nova L1 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0xc9722cfddfbc6af4e77023e8b5bd87489efebf5f,nova,entity,,Arbitrum DAO: Nova L1 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,
 0x509386dbf5c0be6fd68df97a05fdb375136c32de,nova,entity,,Arbitrum DAO: Nova L1 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0x509386dbf5c0be6fd68df97a05fdb375136c32de,nova,entity,,Arbitrum DAO: Nova L1 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0x509386dbf5c0be6fd68df97a05fdb375136c32de,nova,entity,,Arbitrum DAO: Nova L1 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,
 0x9fcb6f75d99029f28f6f4a1d277bae49c5cac79f,nova,entity,,Arbitrum DAO: Nova L2 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0x9fcb6f75d99029f28f6f4a1d277bae49c5cac79f,nova,entity,,Arbitrum DAO: Nova L2 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0x9fcb6f75d99029f28f6f4a1d277bae49c5cac79f,nova,entity,,Arbitrum DAO: Nova L2 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,
 0x3b68a689c929327224dbfce31c1bf72ffd2559ce,nova,entity,,Arbitrum DAO: Nova L2 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0x3b68a689c929327224dbfce31c1bf72ffd2559ce,nova,entity,,Arbitrum DAO: Nova L2 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0x3b68a689c929327224dbfce31c1bf72ffd2559ce,nova,entity,,Arbitrum DAO: Nova L2 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,
 0x5fcb496a31b7ae91e7c9078ec662bd7a55cd3079,arbitrum,entity,,Arbitrum DAO: Timeboost Auction Contract,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0x5fcb496a31b7ae91e7c9078ec662bd7a55cd3079,arbitrum,entity,,Arbitrum DAO: Timeboost Auction Contract,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0x5fcb496a31b7ae91e7c9078ec662bd7a55cd3079,arbitrum,entity,,Arbitrum DAO: Timeboost Auction Contract,arbitrum-dao,dao,fees,,manual,2026-03-16,
 0x453fc9b6e5991c574349da4b7849e2b2bad4e99e,arbitrum,entity,,Arbitrum DAO: Multi-Purpose Wallet,arbitrum-dao,dao,multi-purpose-wallet,,manual,2026-03-16,false
-0x453fc9b6e5991c574349da4b7849e2b2bad4e99e,arbitrum,entity,,Arbitrum DAO: Multi-Purpose Wallet,arbitrum-dao,dao,multi-purpose-wallet,,manual,2026-03-16,false
-0x453fc9b6e5991c574349da4b7849e2b2bad4e99e,arbitrum,entity,,Arbitrum DAO: Multi-Purpose Wallet,arbitrum-dao,dao,multi-purpose-wallet,,manual,2026-03-16,
 0x7983403dda368aa7d67145a9b81c5c517f364c42,ethereum,entity,,gravity,gravity,dao,orbit-chain,,manual,2026-03-16,false
-0x7983403dda368aa7d67145a9b81c5c517f364c42,ethereum,entity,,gravity,gravity,dao,orbit-chain,,manual,2026-03-16,false
-0x7983403dda368aa7d67145a9b81c5c517f364c42,ethereum,entity,,gravity,gravity,dao,orbit-chain,,manual,2026-03-16,
 0x1eee9b9f024188e54930d2927d7a28e66e7649a7,ethereum,entity,,lasernet,lasernet,dao,orbit-chain,,manual,2026-03-16,false
-0x1eee9b9f024188e54930d2927d7a28e66e7649a7,ethereum,entity,,lasernet,lasernet,dao,orbit-chain,,manual,2026-03-16,false
-0x1eee9b9f024188e54930d2927d7a28e66e7649a7,ethereum,entity,,lasernet,lasernet,dao,orbit-chain,,manual,2026-03-16,
 0x35381f63091926750f43b2a7401b083263adef83,ethereum,entity,,plume,plume,dao,orbit-chain,,manual,2026-03-16,false
-0x35381f63091926750f43b2a7401b083263adef83,ethereum,entity,,plume,plume,dao,orbit-chain,,manual,2026-03-16,false
-0x35381f63091926750f43b2a7401b083263adef83,ethereum,entity,,plume,plume,dao,orbit-chain,,manual,2026-03-16,
 0x53b168016aa2e3469b5d76315311aac4ce0020db,ethereum,entity,,powerloom,powerloom,dao,orbit-chain,,manual,2026-03-16,false
-0x53b168016aa2e3469b5d76315311aac4ce0020db,ethereum,entity,,powerloom,powerloom,dao,orbit-chain,,manual,2026-03-16,false
-0x53b168016aa2e3469b5d76315311aac4ce0020db,ethereum,entity,,powerloom,powerloom,dao,orbit-chain,,manual,2026-03-16,
 0xb900fac6622503b73e0e022ec482b488aa38ea64,ethereum,entity,,renta,renta,dao,orbit-chain,,manual,2026-03-16,false
-0xb900fac6622503b73e0e022ec482b488aa38ea64,ethereum,entity,,renta,renta,dao,orbit-chain,,manual,2026-03-16,false
-0xb900fac6622503b73e0e022ec482b488aa38ea64,ethereum,entity,,renta,renta,dao,orbit-chain,,manual,2026-03-16,
 0x88276b87e2738e58f0b2c149bfc9456b85c5ea9a,arbitrum,entity,,JetBuilder,jetbuilder,dao,timeboost-bidder,,manual,2026-03-16,false
-0x88276b87e2738e58f0b2c149bfc9456b85c5ea9a,arbitrum,entity,,JetBuilder,jetbuilder,dao,timeboost-bidder,,manual,2026-03-16,false
-0x88276b87e2738e58f0b2c149bfc9456b85c5ea9a,arbitrum,entity,,JetBuilder,jetbuilder,dao,timeboost-bidder,,manual,2026-03-16,
 0x2b38a73dd32a2eafe849825a4b515ae5187eda42,arbitrum,entity,,Kairos,kairos,dao,timeboost-bidder,,manual,2026-03-16,false
-0x2b38a73dd32a2eafe849825a4b515ae5187eda42,arbitrum,entity,,Kairos,kairos,dao,timeboost-bidder,,manual,2026-03-16,false
-0x2b38a73dd32a2eafe849825a4b515ae5187eda42,arbitrum,entity,,Kairos,kairos,dao,timeboost-bidder,,manual,2026-03-16,
 0x95c0d21482fd6bc204e588c06632fdb1cf51b018,arbitrum,entity,,Selini Capital,selini-capital,dao,timeboost-bidder,,manual,2026-03-16,false
-0x95c0d21482fd6bc204e588c06632fdb1cf51b018,arbitrum,entity,,Selini Capital,selini-capital,dao,timeboost-bidder,,manual,2026-03-16,false
-0x95c0d21482fd6bc204e588c06632fdb1cf51b018,arbitrum,entity,,Selini Capital,selini-capital,dao,timeboost-bidder,,manual,2026-03-16,
 0x60e6a31591392f926e627ed871e670c3e81f1ab8,arbitrum,entity,,Titan,titan,dao,timeboost-bidder,,manual,2026-03-16,false
-0x60e6a31591392f926e627ed871e670c3e81f1ab8,arbitrum,entity,,Titan,titan,dao,timeboost-bidder,,manual,2026-03-16,false
-0x60e6a31591392f926e627ed871e670c3e81f1ab8,arbitrum,entity,,Titan,titan,dao,timeboost-bidder,,manual,2026-03-16,
 0x8c6ffc5501aca218f5f60e140d2c2461092ec3e2,arbitrum,entity,,Wintermute,wintermute,dao,timeboost-bidder,,manual,2026-03-16,false
-0x8c6ffc5501aca218f5f60e140d2c2461092ec3e2,arbitrum,entity,,Wintermute,wintermute,dao,timeboost-bidder,,manual,2026-03-16,false
-0x8c6ffc5501aca218f5f60e140d2c2461092ec3e2,arbitrum,entity,,Wintermute,wintermute,dao,timeboost-bidder,,manual,2026-03-16,
 0xbfc1feca8b09a5c5d3effe7429ebe24b9c09ef58,arbitrum,entity,,Arbitrum DAO Treasury,arbitrum-dao,dao,treasury,,manual,2026-03-16,false
-0xbfc1feca8b09a5c5d3effe7429ebe24b9c09ef58,arbitrum,entity,,Arbitrum DAO Treasury,arbitrum-dao,dao,treasury,,manual,2026-03-16,false
-0xbfc1feca8b09a5c5d3effe7429ebe24b9c09ef58,arbitrum,entity,,Arbitrum DAO Treasury,arbitrum-dao,dao,treasury,,manual,2026-03-16,
 0xe6841d92b0c345144506576ec13ecf5103ac7f49,arbitrum,entity,,Arbitrum DAO Treasury,arbitrum-dao,dao,treasury,,manual,2026-03-16,false
-0xe6841d92b0c345144506576ec13ecf5103ac7f49,arbitrum,entity,,Arbitrum DAO Treasury,arbitrum-dao,dao,treasury,,manual,2026-03-16,false
-0xe6841d92b0c345144506576ec13ecf5103ac7f49,arbitrum,entity,,Arbitrum DAO Treasury,arbitrum-dao,dao,treasury,,manual,2026-03-16,
 0xf3fc178157fb3c87548baa86f9d24ba38e649b58,arbitrum,entity,,Arbitrum DAO Treasury,arbitrum-dao,dao,treasury,,manual,2026-03-16,false
-0xf3fc178157fb3c87548baa86f9d24ba38e649b58,arbitrum,entity,,Arbitrum DAO Treasury,arbitrum-dao,dao,treasury,,manual,2026-03-16,false
-0xf3fc178157fb3c87548baa86f9d24ba38e649b58,arbitrum,entity,,Arbitrum DAO Treasury,arbitrum-dao,dao,treasury,,manual,2026-03-16,
 0x1afa41c006da1605846271e7bdae942f2787f941,ethereum,entity,,Arbitrum DAO: Expansion Program,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
-0x1afa41c006da1605846271e7bdae942f2787f941,ethereum,entity,,Arbitrum DAO: Expansion Program,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
-0x1afa41c006da1605846271e7bdae942f2787f941,ethereum,entity,,Arbitrum DAO: Expansion Program,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,
 0x9e49cefab0e640dd767bef40cd3f8722229b968e,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
-0x9e49cefab0e640dd767bef40cd3f8722229b968e,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
-0x9e49cefab0e640dd767bef40cd3f8722229b968e,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,
 0xcd69da735fc5f794bddb4dbcbc645e3096b8512d,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
-0xcd69da735fc5f794bddb4dbcbc645e3096b8512d,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
-0xcd69da735fc5f794bddb4dbcbc645e3096b8512d,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,
 0xe41d54471efa03eff6365795f60545f3caf7c97e,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
-0xe41d54471efa03eff6365795f60545f3caf7c97e,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
-0xe41d54471efa03eff6365795f60545f3caf7c97e,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,
 0x54fe3425f09854e15081fa5b3276afcb4c46fca2,ethereum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
-0x54fe3425f09854e15081fa5b3276afcb4c46fca2,ethereum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
-0x54fe3425f09854e15081fa5b3276afcb4c46fca2,ethereum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,
 0xe93d59cc0bcecfd4ac204827ef67c5266079e2b5,arbitrum,entity,,404 DAO,404-dao,delegate,,,manual,2026-03-16,false
-0xe93d59cc0bcecfd4ac204827ef67c5266079e2b5,arbitrum,entity,,404 DAO,404-dao,delegate,,,manual,2026-03-16,false
-0xe93d59cc0bcecfd4ac204827ef67c5266079e2b5,arbitrum,entity,,404 DAO,404-dao,delegate,,,manual,2026-03-16,
 0xa71a021ef66b03e45e0d85590432dfcfa1b7174c,arbitrum,entity,,Abracadabra DAO,abracadabra-dao,delegate,,,manual,2026-03-16,false
-0xa71a021ef66b03e45e0d85590432dfcfa1b7174c,arbitrum,entity,,Abracadabra DAO,abracadabra-dao,delegate,,,manual,2026-03-16,false
-0xa71a021ef66b03e45e0d85590432dfcfa1b7174c,arbitrum,entity,,Abracadabra DAO,abracadabra-dao,delegate,,,manual,2026-03-16,
 0x3d1846ea60001a3bc21438d76f3958422fe89adb,arbitrum,entity,,Alpha Insiders,alpha-insiders,delegate,,,manual,2026-03-16,false
-0x3d1846ea60001a3bc21438d76f3958422fe89adb,arbitrum,entity,,Alpha Insiders,alpha-insiders,delegate,,,manual,2026-03-16,false
-0x3d1846ea60001a3bc21438d76f3958422fe89adb,arbitrum,entity,,Alpha Insiders,alpha-insiders,delegate,,,manual,2026-03-16,
 0xa9e777d56c0ad861f6a03967e080e767ad8d39b6,arbitrum,entity,,APE - AAVE Protocol Embassy,ape-aave-protocol-embassy,delegate,,,manual,2026-03-16,false
-0xa9e777d56c0ad861f6a03967e080e767ad8d39b6,arbitrum,entity,,APE - AAVE Protocol Embassy,ape-aave-protocol-embassy,delegate,,,manual,2026-03-16,false
-0xa9e777d56c0ad861f6a03967e080e767ad8d39b6,arbitrum,entity,,APE - AAVE Protocol Embassy,ape-aave-protocol-embassy,delegate,,,manual,2026-03-16,
 0x8b37a5af68d315cf5a64097d96621f64b5502a22,arbitrum,entity,,Areta,areta,delegate,,,manual,2026-03-16,false
-0x8b37a5af68d315cf5a64097d96621f64b5502a22,arbitrum,entity,,Areta,areta,delegate,,,manual,2026-03-16,false
-0x8b37a5af68d315cf5a64097d96621f64b5502a22,arbitrum,entity,,Areta,areta,delegate,,,manual,2026-03-16,
 0x7ae109a63ff4dc852e063a673b40bed85d22e585,arbitrum,entity,,Blockchain at Berkeley,blockchain-at-berkeley,delegate,,,manual,2026-03-16,false
-0x7ae109a63ff4dc852e063a673b40bed85d22e585,arbitrum,entity,,Blockchain at Berkeley,blockchain-at-berkeley,delegate,,,manual,2026-03-16,false
-0x7ae109a63ff4dc852e063a673b40bed85d22e585,arbitrum,entity,,Blockchain at Berkeley,blockchain-at-berkeley,delegate,,,manual,2026-03-16,
 0xa5df0cf3f95c6cd97d998b9d990a86864095d9b0,arbitrum,entity,,Blockworks Research,blockworks-research,delegate,,,manual,2026-03-16,false
-0xa5df0cf3f95c6cd97d998b9d990a86864095d9b0,arbitrum,entity,,Blockworks Research,blockworks-research,delegate,,,manual,2026-03-16,false
-0xa5df0cf3f95c6cd97d998b9d990a86864095d9b0,arbitrum,entity,,Blockworks Research,blockworks-research,delegate,,,manual,2026-03-16,
 0x6a26afb01ff57e827079658238858d55774ca2d5,arbitrum,entity,,BrianFakhoury,brianfakhoury,delegate,,,manual,2026-03-16,false
-0x6a26afb01ff57e827079658238858d55774ca2d5,arbitrum,entity,,BrianFakhoury,brianfakhoury,delegate,,,manual,2026-03-16,false
-0x6a26afb01ff57e827079658238858d55774ca2d5,arbitrum,entity,,BrianFakhoury,brianfakhoury,delegate,,,manual,2026-03-16,
 0x88bd639d6b029596b029c61490f29f57b0bf4a3f,arbitrum,entity,,Bruce1,bruce1,delegate,,,manual,2026-03-16,false
-0x88bd639d6b029596b029c61490f29f57b0bf4a3f,arbitrum,entity,,Bruce1,bruce1,delegate,,,manual,2026-03-16,false
-0x88bd639d6b029596b029c61490f29f57b0bf4a3f,arbitrum,entity,,Bruce1,bruce1,delegate,,,manual,2026-03-16,
 0x2e3bef6830ae84bb4225d318f9f61b6b88c147bf,arbitrum,entity,,Camelot,camelot,delegate,,,manual,2026-03-16,false
-0x2e3bef6830ae84bb4225d318f9f61b6b88c147bf,arbitrum,entity,,Camelot,camelot,delegate,,,manual,2026-03-16,false
-0x2e3bef6830ae84bb4225d318f9f61b6b88c147bf,arbitrum,entity,,Camelot,camelot,delegate,,,manual,2026-03-16,
 0x190473b3071946df65306989972706a4c006a561,arbitrum,entity,,ChainLinkGod,chainlinkgod,delegate,,,manual,2026-03-16,false
-0x190473b3071946df65306989972706a4c006a561,arbitrum,entity,,ChainLinkGod,chainlinkgod,delegate,,,manual,2026-03-16,false
-0x190473b3071946df65306989972706a4c006a561,arbitrum,entity,,ChainLinkGod,chainlinkgod,delegate,,,manual,2026-03-16,
 0xf92f185abd9e00f56cb11b0b709029633d1e37b4,arbitrum,entity,,coinflipcanda,coinflipcanda,delegate,,,manual,2026-03-16,false
-0xf92f185abd9e00f56cb11b0b709029633d1e37b4,arbitrum,entity,,coinflipcanda,coinflipcanda,delegate,,,manual,2026-03-16,false
-0xf92f185abd9e00f56cb11b0b709029633d1e37b4,arbitrum,entity,,coinflipcanda,coinflipcanda,delegate,,,manual,2026-03-16,
 0x3070feeafd678751c29171bacd0042fb370dee00,arbitrum,entity,,Cornell Blockchain,cornell-blockchain,delegate,,,manual,2026-03-16,false
-0x3070feeafd678751c29171bacd0042fb370dee00,arbitrum,entity,,Cornell Blockchain,cornell-blockchain,delegate,,,manual,2026-03-16,false
-0x3070feeafd678751c29171bacd0042fb370dee00,arbitrum,entity,,Cornell Blockchain,cornell-blockchain,delegate,,,manual,2026-03-16,
 0x6f9bb7e454f5b3eb2310343f0e99269dc2bb8a1d,arbitrum,entity,,cp0x,cp0x,delegate,,,manual,2026-03-16,false
-0x6f9bb7e454f5b3eb2310343f0e99269dc2bb8a1d,arbitrum,entity,,cp0x,cp0x,delegate,,,manual,2026-03-16,false
-0x6f9bb7e454f5b3eb2310343f0e99269dc2bb8a1d,arbitrum,entity,,cp0x,cp0x,delegate,,,manual,2026-03-16,
 0x5b39c3907bd9db69b435a6cbf485915135ffffd6,arbitrum,entity,,DefragDAO,defragdao,delegate,,,manual,2026-03-16,false
-0x5b39c3907bd9db69b435a6cbf485915135ffffd6,arbitrum,entity,,DefragDAO,defragdao,delegate,,,manual,2026-03-16,false
-0x5b39c3907bd9db69b435a6cbf485915135ffffd6,arbitrum,entity,,DefragDAO,defragdao,delegate,,,manual,2026-03-16,
 0xad16ebe6ffc7d96624a380f394cd64395b0c6144,arbitrum,entity,,DK (Premia),dk-premia,delegate,,,manual,2026-03-16,false
-0xad16ebe6ffc7d96624a380f394cd64395b0c6144,arbitrum,entity,,DK (Premia),dk-premia,delegate,,,manual,2026-03-16,false
-0xad16ebe6ffc7d96624a380f394cd64395b0c6144,arbitrum,entity,,DK (Premia),dk-premia,delegate,,,manual,2026-03-16,
 0xb4c064f466931b8d0f637654c916e3f203c46f13,arbitrum,entity,,Entropy Advisors,entropy-advisors,delegate,,,manual,2026-03-16,false
-0xb4c064f466931b8d0f637654c916e3f203c46f13,arbitrum,entity,,Entropy Advisors,entropy-advisors,delegate,,,manual,2026-03-16,false
-0xb4c064f466931b8d0f637654c916e3f203c46f13,arbitrum,entity,,Entropy Advisors,entropy-advisors,delegate,,,manual,2026-03-16,
 0xe48c655276c23f1534ae2a87a2bf8a8a6585df70,arbitrum,entity,,Eric Wall,eric-wall,delegate,,,manual,2026-03-16,false
-0xe48c655276c23f1534ae2a87a2bf8a8a6585df70,arbitrum,entity,,Eric Wall,eric-wall,delegate,,,manual,2026-03-16,false
-0xe48c655276c23f1534ae2a87a2bf8a8a6585df70,arbitrum,entity,,Eric Wall,eric-wall,delegate,,,manual,2026-03-16,
 0x0edb976ce9b3b08c7e0a20a89bf1bce0e5f99356,arbitrum,entity,,Event Horizon (Arbitrum Community),event-horizon,delegate,,,manual,2026-03-16,false
-0x0edb976ce9b3b08c7e0a20a89bf1bce0e5f99356,arbitrum,entity,,Event Horizon (Arbitrum Community),event-horizon,delegate,,,manual,2026-03-16,false
-0x0edb976ce9b3b08c7e0a20a89bf1bce0e5f99356,arbitrum,entity,,Event Horizon (Arbitrum Community),event-horizon,delegate,,,manual,2026-03-16,
 0x070341aa5ed571f0fb2c4a5641409b1a46b4961b,arbitrum,entity,,Franklin DAO,franklin-dao,delegate,,,manual,2026-03-16,false
-0x070341aa5ed571f0fb2c4a5641409b1a46b4961b,arbitrum,entity,,Franklin DAO,franklin-dao,delegate,,,manual,2026-03-16,false
-0x070341aa5ed571f0fb2c4a5641409b1a46b4961b,arbitrum,entity,,Franklin DAO,franklin-dao,delegate,,,manual,2026-03-16,
 0xb5b069370ef24bc67f114e185d185063ce3479f8,arbitrum,entity,,Frisson,frisson,delegate,,,manual,2026-03-16,false
-0xb5b069370ef24bc67f114e185d185063ce3479f8,arbitrum,entity,,Frisson,frisson,delegate,,,manual,2026-03-16,false
-0xb5b069370ef24bc67f114e185d185063ce3479f8,arbitrum,entity,,Frisson,frisson,delegate,,,manual,2026-03-16,
 0xf8e93a7d954f7d31d5fa54bc0eb0e384412a158d,arbitrum,entity,,Gains Network,gains-network,delegate,,,manual,2026-03-16,false
-0xf8e93a7d954f7d31d5fa54bc0eb0e384412a158d,arbitrum,entity,,Gains Network,gains-network,delegate,,,manual,2026-03-16,false
-0xf8e93a7d954f7d31d5fa54bc0eb0e384412a158d,arbitrum,entity,,Gains Network,gains-network,delegate,,,manual,2026-03-16,
 0x5ab0fdc6f0ca9ea178c95ceccf944a4ce1aedddd,arbitrum,entity,,Galxe,galxe,delegate,,,manual,2026-03-16,false
-0x5ab0fdc6f0ca9ea178c95ceccf944a4ce1aedddd,arbitrum,entity,,Galxe,galxe,delegate,,,manual,2026-03-16,false
-0x5ab0fdc6f0ca9ea178c95ceccf944a4ce1aedddd,arbitrum,entity,,Galxe,galxe,delegate,,,manual,2026-03-16,
 0x683a4f9915d6216f73d6df50151725036bd26c02,arbitrum,entity,,Gauntlet,gauntlet,delegate,,,manual,2026-03-16,false
-0x683a4f9915d6216f73d6df50151725036bd26c02,arbitrum,entity,,Gauntlet,gauntlet,delegate,,,manual,2026-03-16,false
-0x683a4f9915d6216f73d6df50151725036bd26c02,arbitrum,entity,,Gauntlet,gauntlet,delegate,,,manual,2026-03-16,
 0x11cd09a0c5b1dc674615783b0772a9bfd53e3a8f,arbitrum,entity,,Gauntlet - Arbitrum,gauntlet-arbitrum,delegate,,,manual,2026-03-16,false
-0x11cd09a0c5b1dc674615783b0772a9bfd53e3a8f,arbitrum,entity,,Gauntlet - Arbitrum,gauntlet-arbitrum,delegate,,,manual,2026-03-16,false
-0x11cd09a0c5b1dc674615783b0772a9bfd53e3a8f,arbitrum,entity,,Gauntlet - Arbitrum,gauntlet-arbitrum,delegate,,,manual,2026-03-16,
 0xa6e8772af29b29b9202a073f8e36f447689beef6,arbitrum,entity,,GFX Labs,gfx-labs,delegate,,,manual,2026-03-16,false
-0xa6e8772af29b29b9202a073f8e36f447689beef6,arbitrum,entity,,GFX Labs,gfx-labs,delegate,,,manual,2026-03-16,false
-0xa6e8772af29b29b9202a073f8e36f447689beef6,arbitrum,entity,,GFX Labs,gfx-labs,delegate,,,manual,2026-03-16,
 0x183d275ac4a046d549ad4dc89c41bff49d632fa3,arbitrum,entity,,GMX,gmx,delegate,,,manual,2026-03-16,false
-0x183d275ac4a046d549ad4dc89c41bff49d632fa3,arbitrum,entity,,GMX,gmx,delegate,,,manual,2026-03-16,false
-0x183d275ac4a046d549ad4dc89c41bff49d632fa3,arbitrum,entity,,GMX,gmx,delegate,,,manual,2026-03-16,
 0x839395e20bbb182fa440d08f850e6c7a8f6f0780,arbitrum,entity,,Griff Green,griff-green,delegate,,,manual,2026-03-16,false
-0x839395e20bbb182fa440d08f850e6c7a8f6f0780,arbitrum,entity,,Griff Green,griff-green,delegate,,,manual,2026-03-16,false
-0x839395e20bbb182fa440d08f850e6c7a8f6f0780,arbitrum,entity,,Griff Green,griff-green,delegate,,,manual,2026-03-16,
 0x4f685b29514eed0c9d929386e86d9cd81981118b,arbitrum,entity,,JoJoTheCow,jojothecow,delegate,,,manual,2026-03-16,false
-0x4f685b29514eed0c9d929386e86d9cd81981118b,arbitrum,entity,,JoJoTheCow,jojothecow,delegate,,,manual,2026-03-16,false
-0x4f685b29514eed0c9d929386e86d9cd81981118b,arbitrum,entity,,JoJoTheCow,jojothecow,delegate,,,manual,2026-03-16,
 0x583e3edc26e1b8620341bce90547197bfe2c1ddd,arbitrum,entity,,karpatkey,karpatkey,delegate,,,manual,2026-03-16,false
-0x583e3edc26e1b8620341bce90547197bfe2c1ddd,arbitrum,entity,,karpatkey,karpatkey,delegate,,,manual,2026-03-16,false
-0x583e3edc26e1b8620341bce90547197bfe2c1ddd,arbitrum,entity,,karpatkey,karpatkey,delegate,,,manual,2026-03-16,
 0x1b686ee8e31c5959d9f5bbd8122a58682788eead,arbitrum,entity,,L2BEAT,l2beat,delegate,,,manual,2026-03-16,false
-0x1b686ee8e31c5959d9f5bbd8122a58682788eead,arbitrum,entity,,L2BEAT,l2beat,delegate,,,manual,2026-03-16,false
-0x1b686ee8e31c5959d9f5bbd8122a58682788eead,arbitrum,entity,,L2BEAT,l2beat,delegate,,,manual,2026-03-16,
 0x067b9bbbbc42d2ab9b9ab6bb62646daf7f344a76,arbitrum,entity,,lay2000lbs,lay2000lbs,delegate,,,manual,2026-03-16,false
-0x067b9bbbbc42d2ab9b9ab6bb62646daf7f344a76,arbitrum,entity,,lay2000lbs,lay2000lbs,delegate,,,manual,2026-03-16,false
-0x067b9bbbbc42d2ab9b9ab6bb62646daf7f344a76,arbitrum,entity,,lay2000lbs,lay2000lbs,delegate,,,manual,2026-03-16,
 0x5318f07a3a20a2f8bb0ddf14f1dd58c517a76508,arbitrum,entity,,Layer2DAO,layer2dao,delegate,,,manual,2026-03-16,false
-0x5318f07a3a20a2f8bb0ddf14f1dd58c517a76508,arbitrum,entity,,Layer2DAO,layer2dao,delegate,,,manual,2026-03-16,false
-0x5318f07a3a20a2f8bb0ddf14f1dd58c517a76508,arbitrum,entity,,Layer2DAO,layer2dao,delegate,,,manual,2026-03-16,
 0x7b0befc5b043148cd7bd5cfeeef7bc63d28edec0,arbitrum,entity,,Layer3,layer3,delegate,,,manual,2026-03-16,false
-0x7b0befc5b043148cd7bd5cfeeef7bc63d28edec0,arbitrum,entity,,Layer3,layer3,delegate,,,manual,2026-03-16,false
-0x7b0befc5b043148cd7bd5cfeeef7bc63d28edec0,arbitrum,entity,,Layer3,layer3,delegate,,,manual,2026-03-16,
 0x79c4213a328e3b4f1d87b4953c14759399db25e2,arbitrum,entity,,litocoen,litocoen,delegate,,,manual,2026-03-16,false
-0x79c4213a328e3b4f1d87b4953c14759399db25e2,arbitrum,entity,,litocoen,litocoen,delegate,,,manual,2026-03-16,false
-0x79c4213a328e3b4f1d87b4953c14759399db25e2,arbitrum,entity,,litocoen,litocoen,delegate,,,manual,2026-03-16,
 0x7a45ee0be5c4bdc938a5f00a2aef393f46502d26,arbitrum,entity,,LobbyFi,lobbyfi,delegate,,,manual,2026-03-16,false
-0x7a45ee0be5c4bdc938a5f00a2aef393f46502d26,arbitrum,entity,,LobbyFi,lobbyfi,delegate,,,manual,2026-03-16,false
-0x7a45ee0be5c4bdc938a5f00a2aef393f46502d26,arbitrum,entity,,LobbyFi,lobbyfi,delegate,,,manual,2026-03-16,
 0xd333bc5c9670c9ceb18f9a2cf02c6e86807a8227,arbitrum,entity,,MaxLomu,maxlomu,delegate,,,manual,2026-03-16,false
-0xd333bc5c9670c9ceb18f9a2cf02c6e86807a8227,arbitrum,entity,,MaxLomu,maxlomu,delegate,,,manual,2026-03-16,false
-0xd333bc5c9670c9ceb18f9a2cf02c6e86807a8227,arbitrum,entity,,MaxLomu,maxlomu,delegate,,,manual,2026-03-16,
 0x0eb5b03c0303f2f47cd81d7be4275af8ed347576,arbitrum,entity,,Merlyn Labs,merlyn-labs,delegate,,,manual,2026-03-16,false
-0x0eb5b03c0303f2f47cd81d7be4275af8ed347576,arbitrum,entity,,Merlyn Labs,merlyn-labs,delegate,,,manual,2026-03-16,false
-0x0eb5b03c0303f2f47cd81d7be4275af8ed347576,arbitrum,entity,,Merlyn Labs,merlyn-labs,delegate,,,manual,2026-03-16,
 0x13bdae8c5f0fc40231f0e6a4ad70196f59138548,arbitrum,entity,,Michigan Blockchain,michigan-blockchain,delegate,,,manual,2026-03-16,false
-0x13bdae8c5f0fc40231f0e6a4ad70196f59138548,arbitrum,entity,,Michigan Blockchain,michigan-blockchain,delegate,,,manual,2026-03-16,false
-0x13bdae8c5f0fc40231f0e6a4ad70196f59138548,arbitrum,entity,,Michigan Blockchain,michigan-blockchain,delegate,,,manual,2026-03-16,
 0x2ef27b114917dd53f8633440a7c0328fef132e2f,arbitrum,entity,,Mux Protocol,mux-protocol,delegate,,,manual,2026-03-16,false
-0x2ef27b114917dd53f8633440a7c0328fef132e2f,arbitrum,entity,,Mux Protocol,mux-protocol,delegate,,,manual,2026-03-16,false
-0x2ef27b114917dd53f8633440a7c0328fef132e2f,arbitrum,entity,,Mux Protocol,mux-protocol,delegate,,,manual,2026-03-16,
 0xf4b0556b9b6f53e00a1fdd2b0478ce841991d8fa,arbitrum,entity,,Olimpio,olimpio,delegate,,,manual,2026-03-16,false
-0xf4b0556b9b6f53e00a1fdd2b0478ce841991d8fa,arbitrum,entity,,Olimpio,olimpio,delegate,,,manual,2026-03-16,false
-0xf4b0556b9b6f53e00a1fdd2b0478ce841991d8fa,arbitrum,entity,,Olimpio,olimpio,delegate,,,manual,2026-03-16,
 0x4149dfbe618d83c80b0d4d537a7827f3d537b45c,arbitrum,entity,,P2P.org,p2p-org,delegate,,,manual,2026-03-16,false
-0x4149dfbe618d83c80b0d4d537a7827f3d537b45c,arbitrum,entity,,P2P.org,p2p-org,delegate,,,manual,2026-03-16,false
-0x4149dfbe618d83c80b0d4d537a7827f3d537b45c,arbitrum,entity,,P2P.org,p2p-org,delegate,,,manual,2026-03-16,
 0x56721131d21a170fbb084734dcc399a278234298,arbitrum,entity,,Pantera Capital,pantera-capital,delegate,,,manual,2026-03-16,false
-0x56721131d21a170fbb084734dcc399a278234298,arbitrum,entity,,Pantera Capital,pantera-capital,delegate,,,manual,2026-03-16,false
-0x56721131d21a170fbb084734dcc399a278234298,arbitrum,entity,,Pantera Capital,pantera-capital,delegate,,,manual,2026-03-16,
 0xe594469fde6ae29943a64f81d95c20f5f8eb2e04,arbitrum,entity,,Paulo Fonseca,paulo-fonseca,delegate,,,manual,2026-03-16,false
-0xe594469fde6ae29943a64f81d95c20f5f8eb2e04,arbitrum,entity,,Paulo Fonseca,paulo-fonseca,delegate,,,manual,2026-03-16,false
-0xe594469fde6ae29943a64f81d95c20f5f8eb2e04,arbitrum,entity,,Paulo Fonseca,paulo-fonseca,delegate,,,manual,2026-03-16,
 0xbbe98d590d7eb99f4a236587f2441826396053d3,arbitrum,entity,,PlutusDAO,plutusdao,delegate,,,manual,2026-03-16,false
-0xbbe98d590d7eb99f4a236587f2441826396053d3,arbitrum,entity,,PlutusDAO,plutusdao,delegate,,,manual,2026-03-16,false
-0xbbe98d590d7eb99f4a236587f2441826396053d3,arbitrum,entity,,PlutusDAO,plutusdao,delegate,,,manual,2026-03-16,
 0x18bf1a97744539a348304e9d266aac7d446a1582,arbitrum,entity,,Princeton Blockchain Club,princeton-blockchain-club,delegate,,,manual,2026-03-16,false
-0x18bf1a97744539a348304e9d266aac7d446a1582,arbitrum,entity,,Princeton Blockchain Club,princeton-blockchain-club,delegate,,,manual,2026-03-16,false
-0x18bf1a97744539a348304e9d266aac7d446a1582,arbitrum,entity,,Princeton Blockchain Club,princeton-blockchain-club,delegate,,,manual,2026-03-16,
 0x5663d01d8109ddfc8aacf09fbe51f2d341bb3643,arbitrum,entity,,Reverie,reverie,delegate,,,manual,2026-03-16,false
-0x5663d01d8109ddfc8aacf09fbe51f2d341bb3643,arbitrum,entity,,Reverie,reverie,delegate,,,manual,2026-03-16,false
-0x5663d01d8109ddfc8aacf09fbe51f2d341bb3643,arbitrum,entity,,Reverie,reverie,delegate,,,manual,2026-03-16,
 0xd35629a2b7fb9f232fda6c29b72035a7dbafa3c1,arbitrum,entity,,Seamus,seamus,delegate,,,manual,2026-03-16,false
-0xd35629a2b7fb9f232fda6c29b72035a7dbafa3c1,arbitrum,entity,,Seamus,seamus,delegate,,,manual,2026-03-16,false
-0xd35629a2b7fb9f232fda6c29b72035a7dbafa3c1,arbitrum,entity,,Seamus,seamus,delegate,,,manual,2026-03-16,
 0xababe91a907fadff921720c43abe4098e7245e99,arbitrum,entity,,SEED Gov,seed-gov,delegate,,,manual,2026-03-16,false
-0xababe91a907fadff921720c43abe4098e7245e99,arbitrum,entity,,SEED Gov,seed-gov,delegate,,,manual,2026-03-16,false
-0xababe91a907fadff921720c43abe4098e7245e99,arbitrum,entity,,SEED Gov,seed-gov,delegate,,,manual,2026-03-16,
 0x9808e45c613eba00ba18fb3d314dc4d4712c4a85,arbitrum,entity,,Soby,soby,delegate,,,manual,2026-03-16,false
-0x9808e45c613eba00ba18fb3d314dc4d4712c4a85,arbitrum,entity,,Soby,soby,delegate,,,manual,2026-03-16,false
-0x9808e45c613eba00ba18fb3d314dc4d4712c4a85,arbitrum,entity,,Soby,soby,delegate,,,manual,2026-03-16,
 0x978982772b8e4055b921bf9295c0d74eb36bc54e,arbitrum,entity,,Sushi,sushi,delegate,,,manual,2026-03-16,false
-0x978982772b8e4055b921bf9295c0d74eb36bc54e,arbitrum,entity,,Sushi,sushi,delegate,,,manual,2026-03-16,false
-0x978982772b8e4055b921bf9295c0d74eb36bc54e,arbitrum,entity,,Sushi,sushi,delegate,,,manual,2026-03-16,
 0x05bd5b09e673405e671493b24ecbf43188d5d4c3,arbitrum,entity,,Utopia Labs,utopia-labs,delegate,,,manual,2026-03-16,false
-0x05bd5b09e673405e671493b24ecbf43188d5d4c3,arbitrum,entity,,Utopia Labs,utopia-labs,delegate,,,manual,2026-03-16,false
-0x05bd5b09e673405e671493b24ecbf43188d5d4c3,arbitrum,entity,,Utopia Labs,utopia-labs,delegate,,,manual,2026-03-16,
 0x9d64c41ec3a1f49952de2e16ebb0723022f75008,arbitrum,entity,,Vertex DAO,vertex-dao,delegate,,,manual,2026-03-16,false
-0x9d64c41ec3a1f49952de2e16ebb0723022f75008,arbitrum,entity,,Vertex DAO,vertex-dao,delegate,,,manual,2026-03-16,false
-0x9d64c41ec3a1f49952de2e16ebb0723022f75008,arbitrum,entity,,Vertex DAO,vertex-dao,delegate,,,manual,2026-03-16,
 0xd4aa67f778bba2805bc122f18f3d61df59c7a542,arbitrum,entity,,Whiz Wang,whiz-wang,delegate,,,manual,2026-03-16,false
-0xd4aa67f778bba2805bc122f18f3d61df59c7a542,arbitrum,entity,,Whiz Wang,whiz-wang,delegate,,,manual,2026-03-16,false
-0xd4aa67f778bba2805bc122f18f3d61df59c7a542,arbitrum,entity,,Whiz Wang,whiz-wang,delegate,,,manual,2026-03-16,
 0xb933aee47c438f22de0747d57fc239fe37878dd1,arbitrum,entity,,Wintermute Governance,wintermute-governance,delegate,,,manual,2026-03-16,false
-0xb933aee47c438f22de0747d57fc239fe37878dd1,arbitrum,entity,,Wintermute Governance,wintermute-governance,delegate,,,manual,2026-03-16,false
-0xb933aee47c438f22de0747d57fc239fe37878dd1,arbitrum,entity,,Wintermute Governance,wintermute-governance,delegate,,,manual,2026-03-16,
 0x0a9eeddaa65546ad35d3f0ac9e6f09575e4c9297,arbitrum,entity,,WOOFi,woofi,delegate,,,manual,2026-03-16,false
-0x0a9eeddaa65546ad35d3f0ac9e6f09575e4c9297,arbitrum,entity,,WOOFi,woofi,delegate,,,manual,2026-03-16,false
-0x0a9eeddaa65546ad35d3f0ac9e6f09575e4c9297,arbitrum,entity,,WOOFi,woofi,delegate,,,manual,2026-03-16,
 0xa6a7020b3276e86011a33638f3cd8fe02d5e4b61,arbitrum,entity,,Curve Finance: Curve Finance Grant Request,curve-finance,dex,,,manual,2026-03-16,false
-0xa6a7020b3276e86011a33638f3cd8fe02d5e4b61,arbitrum,entity,,Curve Finance: Curve Finance Grant Request,curve-finance,dex,,,manual,2026-03-16,false
-0xa6a7020b3276e86011a33638f3cd8fe02d5e4b61,arbitrum,entity,,Curve Finance: Curve Finance Grant Request,curve-finance,dex,,,manual,2026-03-16,
 0xd6c8a4e72584f24bd5517afed6c01d21477c17f6,arbitrum,entity,,Arbitrum Foundation: Foundation Administrative Budget,arbitrum-foundation,foundation,foundation-administrative-budget,,manual,2026-03-16,false
-0xd6c8a4e72584f24bd5517afed6c01d21477c17f6,arbitrum,entity,,Arbitrum Foundation: Foundation Administrative Budget,arbitrum-foundation,foundation,foundation-administrative-budget,,manual,2026-03-16,false
-0xd6c8a4e72584f24bd5517afed6c01d21477c17f6,arbitrum,entity,,Arbitrum Foundation: Foundation Administrative Budget,arbitrum-foundation,foundation,foundation-administrative-budget,,manual,2026-03-16,
 0x15533b77981cda0f85c4f9a485237df4285d6844,arbitrum,entity,,Arbitrum Foundation: Vesting Vault,arbitrum-foundation,foundation,vesting,,manual,2026-03-16,false
-0x15533b77981cda0f85c4f9a485237df4285d6844,arbitrum,entity,,Arbitrum Foundation: Vesting Vault,arbitrum-foundation,foundation,vesting,,manual,2026-03-16,false
-0x15533b77981cda0f85c4f9a485237df4285d6844,arbitrum,entity,,Arbitrum Foundation: Vesting Vault,arbitrum-foundation,foundation,vesting,,manual,2026-03-16,
 0x8ac412f1eb56b01ba910c71f4fad1c7f70efb4e5,arbitrum,entity,,Rarible: Rarible Protocol Integration,rarible,nft,,,manual,2026-03-16,false
-0x8ac412f1eb56b01ba910c71f4fad1c7f70efb4e5,arbitrum,entity,,Rarible: Rarible Protocol Integration,rarible,nft,,,manual,2026-03-16,false
-0x8ac412f1eb56b01ba910c71f4fad1c7f70efb4e5,arbitrum,entity,,Rarible: Rarible Protocol Integration,rarible,nft,,,manual,2026-03-16,
+0x327aea20163f61421d85b8147781b8676763b467,arbitrum,entity,,OLP Hedging EVM,variational,perps,hedging,302622314,manual,2026-04-09,false
+0x5e91b40467fb8902c46a7b6cb90482363188d645,arbitrum,entity,,Treasury,variational,perps,treasury,400333228,manual,2026-04-09,false
+0x74bbbb0e7f0bad6938509dd4b556a39a4db1f2cd,arbitrum,entity,,Core OLP Vault,variational,perps,vault,300671840,manual,2026-04-09,false
 0xb71ca4ffbb7b58d75ba29891ab45e9dc12b444ed,arbitrum,entity,,0xhombre,0xhombre,security-council,nominee,,manual,2026-04-09,
 0x093f1f3af6f573b854144e8842a5b20276b4512b,arbitrum,entity,,0xJiro,0xjiro,security-council,nominee,,manual,2026-04-09,
 0x20712ff85833d99e7b15af8d0be885d90cf1a354,arbitrum,entity,,0xPrepop,0xprepop,security-council,nominee,,manual,2026-04-09,
@@ -515,7 +200,6 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0xd8d4cec103c0b6d7166405f0ebd7087c75a1528e,arbitrum,entity,,fred,fred,security-council,nominee,,manual,2026-04-09,
 0xee7fb91d5b776c326a728dc70e917f82d6809e3c,arbitrum,entity,,fred,fred,security-council,nominee,,manual,2026-04-09,
 0xf8d47784ee7f3ebd40bd83cb822e3161742b1988,arbitrum,entity,,Gauntlet,gauntlet,security-council,nominee,,manual,2026-04-09,
-0x839395e20bbb182fa440d08f850e6c7a8f6f0780,arbitrum,entity,,Griff Green,griff-green,security-council,nominee,,manual,2026-04-09,
 0x882c6fcb3d358b9d70b97c6999159cea64168b6f,arbitrum,entity,,Griff Green,griff-green,security-council,nominee,,manual,2026-04-09,
 0xbb6f6a8af43ea7fe787dff8e79d70f411e217783,arbitrum,entity,,Gustavo Grieco,gustavo-grieco,security-council,nominee,,manual,2026-04-09,
 0xef7b13326c7c680735d792b63587096cf1b273aa,arbitrum,entity,,Gustavo Grieco,gustavo-grieco,security-council,nominee,,manual,2026-04-09,
@@ -567,709 +251,252 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0x875573b973f7e9ca54eb34a59180c70ee1128208,arbitrum,entity,,ZachXBT,zachxbt,security-council,nominee,,manual,2026-04-09,
 0xa0683d725420e2f75415806352cd9c3fe10fa960,arbitrum,entity,,Zellic,zellic,security-council,nominee,,manual,2026-04-09,
 0x03d47b06cc95baff2a408cd7c735ed7e7142edb9,arbitrum,entity,,Hack Humanity: GovHack at ETH CC (Brussels),hack-humanity,service-provider,,,manual,2026-03-16,false
-0x03d47b06cc95baff2a408cd7c735ed7e7142edb9,arbitrum,entity,,Hack Humanity: GovHack at ETH CC (Brussels),hack-humanity,service-provider,,,manual,2026-03-16,false
-0x03d47b06cc95baff2a408cd7c735ed7e7142edb9,arbitrum,entity,,Hack Humanity: GovHack at ETH CC (Brussels),hack-humanity,service-provider,,,manual,2026-03-16,
 0xd4427b312d42191640ea12c97457636bb807d65e,arbitrum,entity,,Immunefi: Ethereum Protocol Attackathon Sponsorship,immunefi,service-provider,,,manual,2026-03-16,false
-0xd4427b312d42191640ea12c97457636bb807d65e,arbitrum,entity,,Immunefi: Ethereum Protocol Attackathon Sponsorship,immunefi,service-provider,,,manual,2026-03-16,false
-0xd4427b312d42191640ea12c97457636bb807d65e,arbitrum,entity,,Immunefi: Ethereum Protocol Attackathon Sponsorship,immunefi,service-provider,,,manual,2026-03-16,
 0x50db58e1774cb7922d1bf96a267b52e8bb41c0ce,arbitrum,entity,,Tally: ARB Staking & Tally Support,tally,service-provider,,,manual,2026-03-16,false
-0x50db58e1774cb7922d1bf96a267b52e8bb41c0ce,arbitrum,entity,,Tally: ARB Staking & Tally Support,tally,service-provider,,,manual,2026-03-16,false
-0x50db58e1774cb7922d1bf96a267b52e8bb41c0ce,arbitrum,entity,,Tally: ARB Staking & Tally Support,tally,service-provider,,,manual,2026-03-16,
 0x5c04e7808455ee0e22c2773328c151d0dd79dc62,arbitrum,entity,,Tally: ARB Staking & Tally Support,tally,service-provider,,,manual,2026-03-16,false
-0x5c04e7808455ee0e22c2773328c151d0dd79dc62,arbitrum,entity,,Tally: ARB Staking & Tally Support,tally,service-provider,,,manual,2026-03-16,false
-0x5c04e7808455ee0e22c2773328c151d0dd79dc62,arbitrum,entity,,Tally: ARB Staking & Tally Support,tally,service-provider,,,manual,2026-03-16,
 0xc98786d5a7a03c1e74affcb97ff7ef8a710da09b,arbitrum,entity,,Tally: ARB Staking & Tally Support,tally,service-provider,,,manual,2026-03-16,false
-0xc98786d5a7a03c1e74affcb97ff7ef8a710da09b,arbitrum,entity,,Tally: ARB Staking & Tally Support,tally,service-provider,,,manual,2026-03-16,false
-0xc98786d5a7a03c1e74affcb97ff7ef8a710da09b,arbitrum,entity,,Tally: ARB Staking & Tally Support,tally,service-provider,,,manual,2026-03-16,
 0x912ce59144191c1204e64559fe8253a0e49e6548,arbitrum,token,ARB,Arbitrum,arbitrum,governance,,70398215,manual,2026-03-16,false
-0x912ce59144191c1204e64559fe8253a0e49e6548,arbitrum,token,ARB,Arbitrum,arbitrum,governance,,70398215,manual,2026-03-16,false
-0x912ce59144191c1204e64559fe8253a0e49e6548,arbitrum,token,ARB,Arbitrum,arbitrum,governance,,70398215,manual,2026-03-16,
 0x5a0f93d040de44e78f251b03c43be9cf317dcf64,ethereum,token,JAAA,Janus Henderson Anemoy AAA CLO Fund,centrifuge,rwa,bond-etf,22297839,manual,2026-03-16,false
-0x5a0f93d040de44e78f251b03c43be9cf317dcf64,ethereum,token,JAAA,Janus Henderson Anemoy AAA CLO Fund,centrifuge,rwa,bond-etf,22297839,manual,2026-03-16,false
-0x5a0f93d040de44e78f251b03c43be9cf317dcf64,ethereum,token,JAAA,Janus Henderson Anemoy AAA CLO Fund,centrifuge,rwa,bond-etf,22297839,manual,2026-03-16,
 0x57fcbd6503c8be3b1abad191bc7799ef414a5b31,polygon,token,TXAG,Aurus Tokenized Silver,aurus,rwa,commodities,34297772,manual,2026-03-16,false
-0x57fcbd6503c8be3b1abad191bc7799ef414a5b31,polygon,token,TXAG,Aurus Tokenized Silver,aurus,rwa,commodities,34297772,manual,2026-03-16,false
-0x57fcbd6503c8be3b1abad191bc7799ef414a5b31,polygon,token,TXAG,Aurus Tokenized Silver,aurus,rwa,commodities,34297772,manual,2026-03-16,
 0xa6da8c8999c094432c77e7d318951d34019af24b,polygon,token,TXAU,Aurus Tokenized Gold,aurus,rwa,commodities,34296886,manual,2026-03-16,false
-0xa6da8c8999c094432c77e7d318951d34019af24b,polygon,token,TXAU,Aurus Tokenized Gold,aurus,rwa,commodities,34296886,manual,2026-03-16,false
-0xa6da8c8999c094432c77e7d318951d34019af24b,polygon,token,TXAU,Aurus Tokenized Gold,aurus,rwa,commodities,34296886,manual,2026-03-16,
 0x2e6978ceea865948f4c5685e35aec72652e3cb88,polygon,token,TXPT,Aurus Tokenized Platinum,aurus,rwa,commodities,34297971,manual,2026-03-16,false
-0x2e6978ceea865948f4c5685e35aec72652e3cb88,polygon,token,TXPT,Aurus Tokenized Platinum,aurus,rwa,commodities,34297971,manual,2026-03-16,false
-0x2e6978ceea865948f4c5685e35aec72652e3cb88,polygon,token,TXPT,Aurus Tokenized Platinum,aurus,rwa,commodities,34297971,manual,2026-03-16,
 0x45804880de22913dafe09f4980848ece6ecbaf78,ethereum,token,PAXG,Paxos Gold,paxos,rwa,commodities,8426430,manual,2026-03-16,false
-0x45804880de22913dafe09f4980848ece6ecbaf78,ethereum,token,PAXG,Paxos Gold,paxos,rwa,commodities,8426430,manual,2026-03-16,false
-0x45804880de22913dafe09f4980848ece6ecbaf78,ethereum,token,PAXG,Paxos Gold,paxos,rwa,commodities,8426430,manual,2026-03-16,
 0x3e76bb02286bfeaa89dd35f11253f2cbce634f91,arbitrum,token,PGOLD,Pleasing Gold,pleasing-gold,rwa,commodities,389365902,manual,2026-03-16,false
-0x3e76bb02286bfeaa89dd35f11253f2cbce634f91,arbitrum,token,PGOLD,Pleasing Gold,pleasing-gold,rwa,commodities,389365902,manual,2026-03-16,false
-0x3e76bb02286bfeaa89dd35f11253f2cbce634f91,arbitrum,token,PGOLD,Pleasing Gold,pleasing-gold,rwa,commodities,389365902,manual,2026-03-16,
 0x40461291347e1ecbb09499f3371d3f17f10d7159,arbitrum,token,XAUt,Tether Gold,tether,rwa,commodities,329163015,manual,2026-03-16,false
-0x40461291347e1ecbb09499f3371d3f17f10d7159,arbitrum,token,XAUt,Tether Gold,tether,rwa,commodities,329163015,manual,2026-03-16,false
-0x40461291347e1ecbb09499f3371d3f17f10d7159,arbitrum,token,XAUt,Tether Gold,tether,rwa,commodities,329163015,manual,2026-03-16,
 0x68749665ff8d2d112fa859aa293f07a622782f38,ethereum,token,XAUT,Tether Gold,tether,rwa,commodities,13524498,manual,2026-03-16,false
-0x68749665ff8d2d112fa859aa293f07a622782f38,ethereum,token,XAUT,Tether Gold,tether,rwa,commodities,13524498,manual,2026-03-16,false
-0x68749665ff8d2d112fa859aa293f07a622782f38,ethereum,token,XAUT,Tether Gold,tether,rwa,commodities,13524498,manual,2026-03-16,
 0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,arbitrum,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,124435382,manual,2026-03-16,false
-0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,arbitrum,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,124435382,manual,2026-03-16,false
-0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,arbitrum,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,124435382,manual,2026-03-16,
 0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,avalanche-c,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,34311088,manual,2026-03-16,
 0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,avalanche_c,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,34311088,manual,2026-03-16,false
-0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,avalanche_c,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,34311088,manual,2026-03-16,false
 0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,bnb,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,31126931,manual,2026-03-16,false
-0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,bnb,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,31126931,manual,2026-03-16,false
-0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,bnb,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,31126931,manual,2026-03-16,
 0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,ethereum,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,17983172,manual,2026-03-16,false
-0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,ethereum,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,17983172,manual,2026-03-16,false
-0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,ethereum,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,17983172,manual,2026-03-16,
 0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,fantom,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,67362631,manual,2026-03-16,false
-0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,fantom,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,67362631,manual,2026-03-16,false
-0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,fantom,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,67362631,manual,2026-03-16,
 0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,gnosis,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,29702383,manual,2026-03-16,false
-0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,gnosis,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,29702383,manual,2026-03-16,false
-0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,gnosis,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,29702383,manual,2026-03-16,
 0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,polygon,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,46688483,manual,2026-03-16,false
-0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,polygon,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,46688483,manual,2026-03-16,false
-0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245,polygon,token,bERNA,Backed ERNA Corporate Bond,backed-finance,rwa,corporate-bonds,46688483,manual,2026-03-16,
 0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,arbitrum,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,133146892,manual,2026-03-16,false
-0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,arbitrum,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,133146892,manual,2026-03-16,false
-0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,arbitrum,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,133146892,manual,2026-03-16,
 0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,avalanche-c,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,35466293,manual,2026-03-16,
 0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,avalanche_c,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,35466293,manual,2026-03-16,false
-0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,avalanche_c,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,35466293,manual,2026-03-16,false
 0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,bnb,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,31932919,manual,2026-03-16,false
-0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,bnb,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,31932919,manual,2026-03-16,false
-0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,bnb,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,31932919,manual,2026-03-16,
 0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,ethereum,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,18183497,manual,2026-03-16,false
-0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,ethereum,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,18183497,manual,2026-03-16,false
-0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,ethereum,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,18183497,manual,2026-03-16,
 0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,fantom,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,68406790,manual,2026-03-16,false
-0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,fantom,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,68406790,manual,2026-03-16,false
-0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,fantom,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,68406790,manual,2026-03-16,
 0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,gnosis,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,30079809,manual,2026-03-16,false
-0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,gnosis,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,30079809,manual,2026-03-16,false
-0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,gnosis,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,30079809,manual,2026-03-16,
 0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,polygon,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,47805308,manual,2026-03-16,false
-0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,polygon,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,47805308,manual,2026-03-16,false
-0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9,polygon,token,bERNX,Backed ERNX Corporate Bond,backed-finance,rwa,corporate-bonds,47805308,manual,2026-03-16,
 0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,arbitrum,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,110742787,manual,2026-03-16,false
-0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,arbitrum,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,110742787,manual,2026-03-16,false
-0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,arbitrum,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,110742787,manual,2026-03-16,
 0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,avalanche-c,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,32543400,manual,2026-03-16,
 0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,avalanche_c,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,32543400,manual,2026-03-16,false
-0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,avalanche_c,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,32543400,manual,2026-03-16,false
 0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,bnb,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,29923504,manual,2026-03-16,false
-0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,bnb,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,29923504,manual,2026-03-16,false
-0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,bnb,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,29923504,manual,2026-03-16,
 0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,ethereum,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,17371182,manual,2026-03-16,false
-0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,ethereum,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,17371182,manual,2026-03-16,false
-0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,ethereum,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,17371182,manual,2026-03-16,
 0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,fantom,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,65703246,manual,2026-03-16,false
-0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,fantom,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,65703246,manual,2026-03-16,false
-0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,fantom,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,65703246,manual,2026-03-16,
 0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,gnosis,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,28201080,manual,2026-03-16,false
-0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,gnosis,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,28201080,manual,2026-03-16,false
-0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,gnosis,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,28201080,manual,2026-03-16,
 0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,polygon,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,43324928,manual,2026-03-16,false
-0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,polygon,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,43324928,manual,2026-03-16,false
-0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a,polygon,token,bHIGH,Backed HIGH Corporate Bond,backed-finance,rwa,corporate-bonds,43324928,manual,2026-03-16,
 0x884911971d1e3fec48227c944bd00aa4ef216f41,polygon,token,DE000A30V6H0,Siemens Digital Bond,obligate,rwa,corporate-bonds,39139889,manual,2026-03-16,false
-0x884911971d1e3fec48227c944bd00aa4ef216f41,polygon,token,DE000A30V6H0,Siemens Digital Bond,obligate,rwa,corporate-bonds,39139889,manual,2026-03-16,false
-0x884911971d1e3fec48227c944bd00aa4ef216f41,polygon,token,DE000A30V6H0,Siemens Digital Bond,obligate,rwa,corporate-bonds,39139889,manual,2026-03-16,
 0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,arbitrum,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,120334313,manual,2026-03-16,false
-0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,arbitrum,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,120334313,manual,2026-03-16,false
-0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,arbitrum,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,120334313,manual,2026-03-16,
 0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,avalanche-c,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,33743060,manual,2026-03-16,
 0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,avalanche_c,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,33743060,manual,2026-03-16,false
-0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,avalanche_c,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,33743060,manual,2026-03-16,false
 0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,bnb,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,30733859,manual,2026-03-16,false
-0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,bnb,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,30733859,manual,2026-03-16,false
-0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,bnb,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,30733859,manual,2026-03-16,
 0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,ethereum,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,16239702,manual,2026-03-16,false
-0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,ethereum,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,16239702,manual,2026-03-16,false
-0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,ethereum,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,16239702,manual,2026-03-16,
 0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,fantom,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,66836483,manual,2026-03-16,false
-0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,fantom,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,66836483,manual,2026-03-16,false
-0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,fantom,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,66836483,manual,2026-03-16,
 0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,gnosis,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,26441512,manual,2026-03-16,false
-0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,gnosis,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,26441512,manual,2026-03-16,false
-0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,gnosis,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,26441512,manual,2026-03-16,
 0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,polygon,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,43591156,manual,2026-03-16,false
-0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,polygon,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,43591156,manual,2026-03-16,false
-0x1e2c4fb7ede391d116e6b41cd0608260e8801d59,polygon,token,bCSPX,Backed CSPX S&P 500 ETF,backed-finance,rwa,etfs,43591156,manual,2026-03-16,
 0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,arbitrum,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,110756942,manual,2026-03-16,false
-0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,arbitrum,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,110756942,manual,2026-03-16,false
-0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,arbitrum,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,110756942,manual,2026-03-16,
 0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,avalanche-c,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,32545164,manual,2026-03-16,
 0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,avalanche_c,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,32545164,manual,2026-03-16,false
-0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,avalanche_c,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,32545164,manual,2026-03-16,false
 0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,bnb,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,29924685,manual,2026-03-16,false
-0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,bnb,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,29924685,manual,2026-03-16,false
-0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,bnb,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,29924685,manual,2026-03-16,
 0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,ethereum,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,17485361,manual,2026-03-16,false
-0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,ethereum,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,17485361,manual,2026-03-16,false
-0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,ethereum,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,17485361,manual,2026-03-16,
 0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,fantom,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,65705133,manual,2026-03-16,false
-0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,fantom,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,65705133,manual,2026-03-16,false
-0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,fantom,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,65705133,manual,2026-03-16,
 0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,gnosis,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,28466558,manual,2026-03-16,false
-0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,gnosis,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,28466558,manual,2026-03-16,false
-0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,gnosis,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,28466558,manual,2026-03-16,
 0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,polygon,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,43939219,manual,2026-03-16,false
-0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,polygon,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,43939219,manual,2026-03-16,false
-0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7,polygon,token,bC3M,Backed C3M EU Government Bond,backed-finance,rwa,eu-gov-bonds,43939219,manual,2026-03-16,
 0xcbeb19549054cc0a6257a77736fc78c367216ce7,arbitrum,token,EUTBL,Spiko Euro Government Bond Fund,spiko,rwa,eu-gov-bonds,267473436,manual,2026-03-16,false
-0xcbeb19549054cc0a6257a77736fc78c367216ce7,arbitrum,token,EUTBL,Spiko Euro Government Bond Fund,spiko,rwa,eu-gov-bonds,267473436,manual,2026-03-16,false
-0xcbeb19549054cc0a6257a77736fc78c367216ce7,arbitrum,token,EUTBL,Spiko Euro Government Bond Fund,spiko,rwa,eu-gov-bonds,267473436,manual,2026-03-16,
 0xa0769f7a8fc65e47de93797b4e21c073c117fc80,ethereum,token,EUTBL,Spiko Euro Government Bond Fund,spiko,rwa,eu-gov-bonds,19690261,manual,2026-03-16,false
-0xa0769f7a8fc65e47de93797b4e21c073c117fc80,ethereum,token,EUTBL,Spiko Euro Government Bond Fund,spiko,rwa,eu-gov-bonds,19690261,manual,2026-03-16,false
-0xa0769f7a8fc65e47de93797b4e21c073c117fc80,ethereum,token,EUTBL,Spiko Euro Government Bond Fund,spiko,rwa,eu-gov-bonds,19690261,manual,2026-03-16,
 0xa0769f7a8fc65e47de93797b4e21c073c117fc80,polygon,token,EUTBL,Spiko Euro Government Bond Fund,spiko,rwa,eu-gov-bonds,56007420,manual,2026-03-16,false
-0xa0769f7a8fc65e47de93797b4e21c073c117fc80,polygon,token,EUTBL,Spiko Euro Government Bond Fund,spiko,rwa,eu-gov-bonds,56007420,manual,2026-03-16,false
-0xa0769f7a8fc65e47de93797b4e21c073c117fc80,polygon,token,EUTBL,Spiko Euro Government Bond Fund,spiko,rwa,eu-gov-bonds,56007420,manual,2026-03-16,
 0x2b5802f1492369c93650fb8c7ec1d8573d40cbdb,polygon,token,HLEOVUS,Hamilton Lane Equity Opportunity Fund V US,hamilton-lane,rwa,private-funds,40124720,manual,2026-03-16,false
-0x2b5802f1492369c93650fb8c7ec1d8573d40cbdb,polygon,token,HLEOVUS,Hamilton Lane Equity Opportunity Fund V US,hamilton-lane,rwa,private-funds,40124720,manual,2026-03-16,false
-0x2b5802f1492369c93650fb8c7ec1d8573d40cbdb,polygon,token,HLEOVUS,Hamilton Lane Equity Opportunity Fund V US,hamilton-lane,rwa,private-funds,40124720,manual,2026-03-16,
 0x2ccf3aba74d2544805e4196487e74030e0952349,polygon,token,HLEOVWW,Hamilton Lane Equity Opportunity Fund V Global,hamilton-lane,rwa,private-funds,40125088,manual,2026-03-16,false
-0x2ccf3aba74d2544805e4196487e74030e0952349,polygon,token,HLEOVWW,Hamilton Lane Equity Opportunity Fund V Global,hamilton-lane,rwa,private-funds,40125088,manual,2026-03-16,false
-0x2ccf3aba74d2544805e4196487e74030e0952349,polygon,token,HLEOVWW,Hamilton Lane Equity Opportunity Fund V Global,hamilton-lane,rwa,private-funds,40125088,manual,2026-03-16,
 0x6461b7fa6d2701d66f8af07960e044faf010d932,polygon,token,HLSCOPE,Hamilton Lane Senior Credit Opportunities Fund,hamilton-lane,rwa,private-funds,42071912,manual,2026-03-16,false
-0x6461b7fa6d2701d66f8af07960e044faf010d932,polygon,token,HLSCOPE,Hamilton Lane Senior Credit Opportunities Fund,hamilton-lane,rwa,private-funds,42071912,manual,2026-03-16,false
-0x6461b7fa6d2701d66f8af07960e044faf010d932,polygon,token,HLSCOPE,Hamilton Lane Senior Credit Opportunities Fund,hamilton-lane,rwa,private-funds,42071912,manual,2026-03-16,
 0x0b84f124596dac26010a9f79b7d8feade4ebbdbf,avalanche-c,token,SKHC,KKR Health Care Growth II Tokenized Fund,kkr,rwa,private-funds,21226725,manual,2026-03-16,
 0x0b84f124596dac26010a9f79b7d8feade4ebbdbf,avalanche_c,token,SKHC,KKR Health Care Growth II Tokenized Fund,kkr,rwa,private-funds,21226725,manual,2026-03-16,false
-0x0b84f124596dac26010a9f79b7d8feade4ebbdbf,avalanche_c,token,SKHC,KKR Health Care Growth II Tokenized Fund,kkr,rwa,private-funds,21226725,manual,2026-03-16,false
 0x14d60e7fdc0d71d8611742720e4c50e7a974020c,ethereum,token,USCC,Superstate Crypto Carry Fund,superstate,rwa,private-funds,20270220,manual,2026-03-16,false
-0x14d60e7fdc0d71d8611742720e4c50e7a974020c,ethereum,token,USCC,Superstate Crypto Carry Fund,superstate,rwa,private-funds,20270220,manual,2026-03-16,false
-0x14d60e7fdc0d71d8611742720e4c50e7a974020c,ethereum,token,USCC,Superstate Crypto Carry Fund,superstate,rwa,private-funds,20270220,manual,2026-03-16,
 0x4c21b7577c8fe8b0b0669165ee7c8f67fa1454cf,plume,token,USCC,Superstate Crypto Carry Fund,superstate,rwa,private-funds,30277,manual,2026-03-16,false
-0x4c21b7577c8fe8b0b0669165ee7c8f67fa1454cf,plume,token,USCC,Superstate Crypto Carry Fund,superstate,rwa,private-funds,30277,manual,2026-03-16,false
-0x4c21b7577c8fe8b0b0669165ee7c8f67fa1454cf,plume,token,USCC,Superstate Crypto Carry Fund,superstate,rwa,private-funds,30277,manual,2026-03-16,
 0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,arbitrum,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,110744922,manual,2026-03-16,false
-0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,arbitrum,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,110744922,manual,2026-03-16,false
-0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,arbitrum,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,110744922,manual,2026-03-16,
 0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,avalanche-c,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,32543665,manual,2026-03-16,
 0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,avalanche_c,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,32543665,manual,2026-03-16,false
-0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,avalanche_c,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,32543665,manual,2026-03-16,false
 0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,bnb,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,29923681,manual,2026-03-16,false
-0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,bnb,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,29923681,manual,2026-03-16,false
-0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,bnb,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,29923681,manual,2026-03-16,
 0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,ethereum,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,16664934,manual,2026-03-16,false
-0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,ethereum,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,16664934,manual,2026-03-16,false
-0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,ethereum,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,16664934,manual,2026-03-16,
 0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,fantom,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,65703748,manual,2026-03-16,false
-0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,fantom,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,65703748,manual,2026-03-16,false
-0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,fantom,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,65703748,manual,2026-03-16,
 0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,gnosis,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,26561788,manual,2026-03-16,false
-0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,gnosis,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,26561788,manual,2026-03-16,false
-0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,gnosis,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,26561788,manual,2026-03-16,
 0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,polygon,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,43563660,manual,2026-03-16,false
-0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,polygon,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,43563660,manual,2026-03-16,false
-0xbbcb0356bb9e6b3faa5cbf9e5f36185d53403ac9,polygon,token,bCOIN,Backed Coinbase Stock,backed-finance,rwa,stocks,43563660,manual,2026-03-16,
 0x116998824ff90532906bab91becea4a8e4ce06db,arbitrum,token,EXOD,Exodus Movement Inc,exodus,rwa,stocks,384099366,manual,2026-03-16,false
-0x116998824ff90532906bab91becea4a8e4ce06db,arbitrum,token,EXOD,Exodus Movement Inc,exodus,rwa,stocks,384099366,manual,2026-03-16,false
-0x116998824ff90532906bab91becea4a8e4ce06db,arbitrum,token,EXOD,Exodus Movement Inc,exodus,rwa,stocks,384099366,manual,2026-03-16,
 0xa13e07b145cd28294447dd271ea0f158727976be,polygon,token,APPL,Swarm Apple Stock,swarm,rwa,stocks,42249458,manual,2026-03-16,false
-0xa13e07b145cd28294447dd271ea0f158727976be,polygon,token,APPL,Swarm Apple Stock,swarm,rwa,stocks,42249458,manual,2026-03-16,false
-0xa13e07b145cd28294447dd271ea0f158727976be,polygon,token,APPL,Swarm Apple Stock,swarm,rwa,stocks,42249458,manual,2026-03-16,
 0x7f72de249ed11d8d33845b8459105caf6ac604a5,polygon,token,BLK,Swarm Blackrock Stock,swarm,rwa,stocks,42265857,manual,2026-03-16,false
-0x7f72de249ed11d8d33845b8459105caf6ac604a5,polygon,token,BLK,Swarm Blackrock Stock,swarm,rwa,stocks,42265857,manual,2026-03-16,false
-0x7f72de249ed11d8d33845b8459105caf6ac604a5,polygon,token,BLK,Swarm Blackrock Stock,swarm,rwa,stocks,42265857,manual,2026-03-16,
 0x1020d03b5c19d3963484cd8ad8af7e159fd5e261,polygon,token,COIN,Swarm Coinbase Stock,swarm,rwa,stocks,42251311,manual,2026-03-16,false
-0x1020d03b5c19d3963484cd8ad8af7e159fd5e261,polygon,token,COIN,Swarm Coinbase Stock,swarm,rwa,stocks,42251311,manual,2026-03-16,false
-0x1020d03b5c19d3963484cd8ad8af7e159fd5e261,polygon,token,COIN,Swarm Coinbase Stock,swarm,rwa,stocks,42251311,manual,2026-03-16,
 0xe979088ba73977ee0095a30a43f44aec1d45ca0e,polygon,token,CPNG,Swarm Coupang Stock,swarm,rwa,stocks,42251512,manual,2026-03-16,false
-0xe979088ba73977ee0095a30a43f44aec1d45ca0e,polygon,token,CPNG,Swarm Coupang Stock,swarm,rwa,stocks,42251512,manual,2026-03-16,false
-0xe979088ba73977ee0095a30a43f44aec1d45ca0e,polygon,token,CPNG,Swarm Coupang Stock,swarm,rwa,stocks,42251512,manual,2026-03-16,
 0x4bcdb11ac9ed682db431ccdddbdb0ea7d6a0f9d2,polygon,token,INTC,Swarm Intel Stock,swarm,rwa,stocks,42251475,manual,2026-03-16,false
-0x4bcdb11ac9ed682db431ccdddbdb0ea7d6a0f9d2,polygon,token,INTC,Swarm Intel Stock,swarm,rwa,stocks,42251475,manual,2026-03-16,false
-0x4bcdb11ac9ed682db431ccdddbdb0ea7d6a0f9d2,polygon,token,INTC,Swarm Intel Stock,swarm,rwa,stocks,42251475,manual,2026-03-16,
 0x7a0c829bc6c06ec71bf0db04e62cdc8863133553,polygon,token,MSFT,Swarm Microsoft Stock,swarm,rwa,stocks,42251387,manual,2026-03-16,false
-0x7a0c829bc6c06ec71bf0db04e62cdc8863133553,polygon,token,MSFT,Swarm Microsoft Stock,swarm,rwa,stocks,42251387,manual,2026-03-16,false
-0x7a0c829bc6c06ec71bf0db04e62cdc8863133553,polygon,token,MSFT,Swarm Microsoft Stock,swarm,rwa,stocks,42251387,manual,2026-03-16,
 0xe61aa4e693d3ef8ebc8cd901df2fe1f0a6e2ce78,polygon,token,MSTR,Swarm Microstrategy Stock,swarm,rwa,stocks,42251439,manual,2026-03-16,false
-0xe61aa4e693d3ef8ebc8cd901df2fe1f0a6e2ce78,polygon,token,MSTR,Swarm Microstrategy Stock,swarm,rwa,stocks,42251439,manual,2026-03-16,false
-0xe61aa4e693d3ef8ebc8cd901df2fe1f0a6e2ce78,polygon,token,MSTR,Swarm Microstrategy Stock,swarm,rwa,stocks,42251439,manual,2026-03-16,
 0x0493fa5965963ab9fc587e1dd165c03cc8304226,polygon,token,NVDA,Swarm Nvidia Stock,swarm,rwa,stocks,42251201,manual,2026-03-16,false
-0x0493fa5965963ab9fc587e1dd165c03cc8304226,polygon,token,NVDA,Swarm Nvidia Stock,swarm,rwa,stocks,42251201,manual,2026-03-16,false
-0x0493fa5965963ab9fc587e1dd165c03cc8304226,polygon,token,NVDA,Swarm Nvidia Stock,swarm,rwa,stocks,42251201,manual,2026-03-16,
 0x7fcfa7f21c9390eeb2c0158a892b817bca5fbafb,polygon,token,TSLA,Swarm Tesla Stock,swarm,rwa,stocks,42249561,manual,2026-03-16,false
-0x7fcfa7f21c9390eeb2c0158a892b817bca5fbafb,polygon,token,TSLA,Swarm Tesla Stock,swarm,rwa,stocks,42249561,manual,2026-03-16,false
-0x7fcfa7f21c9390eeb2c0158a892b817bca5fbafb,polygon,token,TSLA,Swarm Tesla Stock,swarm,rwa,stocks,42249561,manual,2026-03-16,
 0x252739487c1fa66eaeae7ced41d6358ab2a6bca9,ethereum,token,ARCOIN,ARCA U.S. Treasury Fund,arca-labs,rwa,us-treasuries,13058484,manual,2026-03-16,false
-0x252739487c1fa66eaeae7ced41d6358ab2a6bca9,ethereum,token,ARCOIN,ARCA U.S. Treasury Fund,arca-labs,rwa,us-treasuries,13058484,manual,2026-03-16,false
-0x252739487c1fa66eaeae7ced41d6358ab2a6bca9,ethereum,token,ARCOIN,ARCA U.S. Treasury Fund,arca-labs,rwa,us-treasuries,13058484,manual,2026-03-16,
 0xca30c93b02514f86d5c86a6e375e3a330b435fb5,arbitrum,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,110745954,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,arbitrum,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,110745954,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,arbitrum,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,110745954,manual,2026-03-16,
 0xca30c93b02514f86d5c86a6e375e3a330b435fb5,avalanche-c,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,32543792,manual,2026-03-16,
 0xca30c93b02514f86d5c86a6e375e3a330b435fb5,avalanche_c,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,32543792,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,avalanche_c,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,32543792,manual,2026-03-16,false
 0xca30c93b02514f86d5c86a6e375e3a330b435fb5,base,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,3302728,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,base,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,3302728,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,base,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,3302728,manual,2026-03-16,
 0xca30c93b02514f86d5c86a6e375e3a330b435fb5,bnb,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,29923776,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,bnb,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,29923776,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,bnb,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,29923776,manual,2026-03-16,
 0xca30c93b02514f86d5c86a6e375e3a330b435fb5,ethereum,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,16739405,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,ethereum,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,16739405,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,ethereum,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,16739405,manual,2026-03-16,
 0xca30c93b02514f86d5c86a6e375e3a330b435fb5,fantom,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,65703989,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,fantom,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,65703989,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,fantom,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,65703989,manual,2026-03-16,
 0xca30c93b02514f86d5c86a6e375e3a330b435fb5,gnosis,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,26805994,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,gnosis,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,26805994,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,gnosis,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,26805994,manual,2026-03-16,
 0xca30c93b02514f86d5c86a6e375e3a330b435fb5,polygon,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,40027206,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,polygon,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,40027206,manual,2026-03-16,false
-0xca30c93b02514f86d5c86a6e375e3a330b435fb5,polygon,token,bIB01,Backed IB01 US Treasury Bond,backed-finance,rwa,us-treasuries,40027206,manual,2026-03-16,
 0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,arbitrum,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,110745493,manual,2026-03-16,false
-0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,arbitrum,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,110745493,manual,2026-03-16,false
-0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,arbitrum,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,110745493,manual,2026-03-16,
 0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,avalanche-c,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,32543734,manual,2026-03-16,
 0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,avalanche_c,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,32543734,manual,2026-03-16,false
-0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,avalanche_c,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,32543734,manual,2026-03-16,false
 0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,bnb,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,29923729,manual,2026-03-16,false
-0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,bnb,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,29923729,manual,2026-03-16,false
-0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,bnb,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,29923729,manual,2026-03-16,
 0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,ethereum,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,16739369,manual,2026-03-16,false
-0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,ethereum,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,16739369,manual,2026-03-16,false
-0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,ethereum,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,16739369,manual,2026-03-16,
 0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,fantom,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,65703891,manual,2026-03-16,false
-0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,fantom,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,65703891,manual,2026-03-16,false
-0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,fantom,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,65703891,manual,2026-03-16,
 0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,gnosis,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,26805969,manual,2026-03-16,false
-0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,gnosis,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,26805969,manual,2026-03-16,false
-0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,gnosis,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,26805969,manual,2026-03-16,
 0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,polygon,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,40030275,manual,2026-03-16,false
-0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,polygon,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,40030275,manual,2026-03-16,false
-0x52d134c6db5889fad3542a09eaf7aa90c0fdf9e4,polygon,token,bIBTA,Backed IBTA US Treasury Bond,backed-finance,rwa,us-treasuries,40030275,manual,2026-03-16,
 0xa6525ae43edcd03dc08e775774dcabd3bb925872,arbitrum,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,270969308,manual,2026-03-16,false
-0xa6525ae43edcd03dc08e775774dcabd3bb925872,arbitrum,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,270969308,manual,2026-03-16,false
-0xa6525ae43edcd03dc08e775774dcabd3bb925872,arbitrum,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,270969308,manual,2026-03-16,
 0x53fc82f14f009009b440a706e31c9021e1196a2f,avalanche-c,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,52649153,manual,2026-03-16,
 0x53fc82f14f009009b440a706e31c9021e1196a2f,avalanche_c,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,52649153,manual,2026-03-16,false
-0x53fc82f14f009009b440a706e31c9021e1196a2f,avalanche_c,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,52649153,manual,2026-03-16,false
 0x2d5bdc96d9c8aabbdb38c9a27398513e7e5ef84f,bnb,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,63931579,manual,2026-03-16,false
-0x2d5bdc96d9c8aabbdb38c9a27398513e7e5ef84f,bnb,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,63931579,manual,2026-03-16,false
-0x2d5bdc96d9c8aabbdb38c9a27398513e7e5ef84f,bnb,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,63931579,manual,2026-03-16,
 0x7712c34205737192402172409a8f7ccef8aa2aec,ethereum,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,19343293,manual,2026-03-16,false
-0x7712c34205737192402172409a8f7ccef8aa2aec,ethereum,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,19343293,manual,2026-03-16,false
-0x7712c34205737192402172409a8f7ccef8aa2aec,ethereum,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,19343293,manual,2026-03-16,
 0xa1cdab15bba75a80df4089cafba013e376957cf5,optimism,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,127565419,manual,2026-03-16,false
-0xa1cdab15bba75a80df4089cafba013e376957cf5,optimism,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,127565419,manual,2026-03-16,false
-0xa1cdab15bba75a80df4089cafba013e376957cf5,optimism,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,127565419,manual,2026-03-16,
 0x2893ef551b6dd69f661ac00f11d93e5dc5dc0e99,polygon,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,63877025,manual,2026-03-16,false
-0x2893ef551b6dd69f661ac00f11d93e5dc5dc0e99,polygon,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,63877025,manual,2026-03-16,false
-0x2893ef551b6dd69f661ac00f11d93e5dc5dc0e99,polygon,token,BUIDL,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,63877025,manual,2026-03-16,
 0x6a9da2d710bb9b700acde7cb81f10f1ff8c89041,ethereum,token,BUIDL-I,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,21423175,manual,2026-03-16,false
-0x6a9da2d710bb9b700acde7cb81f10f1ff8c89041,ethereum,token,BUIDL-I,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,21423175,manual,2026-03-16,false
-0x6a9da2d710bb9b700acde7cb81f10f1ff8c89041,ethereum,token,BUIDL-I,BlackRock USD Institutional Digital Liquidity Fund,blackrock,rwa,us-treasuries,21423175,manual,2026-03-16,
 0x8c213ee79581ff4984583c6a801e5263418c4b86,arbitrum,token,JTRSY,Janus Henderson Anemoy Treasury Fund,centrifuge,rwa,us-treasuries,273790735,manual,2026-03-16,false
-0x8c213ee79581ff4984583c6a801e5263418c4b86,arbitrum,token,JTRSY,Janus Henderson Anemoy Treasury Fund,centrifuge,rwa,us-treasuries,273790735,manual,2026-03-16,false
-0x8c213ee79581ff4984583c6a801e5263418c4b86,arbitrum,token,JTRSY,Janus Henderson Anemoy Treasury Fund,centrifuge,rwa,us-treasuries,273790735,manual,2026-03-16,
 0x8c213ee79581ff4984583c6a801e5263418c4b86,base,token,JTRSY,Janus Henderson Anemoy Treasury Fund,centrifuge,rwa,us-treasuries,18044669,manual,2026-03-16,false
-0x8c213ee79581ff4984583c6a801e5263418c4b86,base,token,JTRSY,Janus Henderson Anemoy Treasury Fund,centrifuge,rwa,us-treasuries,18044669,manual,2026-03-16,false
-0x8c213ee79581ff4984583c6a801e5263418c4b86,base,token,JTRSY,Janus Henderson Anemoy Treasury Fund,centrifuge,rwa,us-treasuries,18044669,manual,2026-03-16,
 0x27e8c820d05aea8824b1ac35116f63f9833b54c8,celo,token,JTRSY,Janus Henderson Anemoy Treasury Fund,centrifuge,rwa,us-treasuries,27041497,manual,2026-03-16,false
-0x27e8c820d05aea8824b1ac35116f63f9833b54c8,celo,token,JTRSY,Janus Henderson Anemoy Treasury Fund,centrifuge,rwa,us-treasuries,27041497,manual,2026-03-16,false
-0x27e8c820d05aea8824b1ac35116f63f9833b54c8,celo,token,JTRSY,Janus Henderson Anemoy Treasury Fund,centrifuge,rwa,us-treasuries,27041497,manual,2026-03-16,
 0x8c213ee79581ff4984583c6a801e5263418c4b86,ethereum,token,JTRSY,Janus Henderson Anemoy Treasury Fund,centrifuge,rwa,us-treasuries,20460672,manual,2026-03-16,false
-0x8c213ee79581ff4984583c6a801e5263418c4b86,ethereum,token,JTRSY,Janus Henderson Anemoy Treasury Fund,centrifuge,rwa,us-treasuries,20460672,manual,2026-03-16,false
-0x8c213ee79581ff4984583c6a801e5263418c4b86,ethereum,token,JTRSY,Janus Henderson Anemoy Treasury Fund,centrifuge,rwa,us-treasuries,20460672,manual,2026-03-16,
 0x8d0fa28f221eb5735bc71d3a0da67ee5bc821311,bnb,token,USYC,Hashnote US Yield Coin,circle,rwa,us-treasuries,51996645,manual,2026-03-16,false
-0x8d0fa28f221eb5735bc71d3a0da67ee5bc821311,bnb,token,USYC,Hashnote US Yield Coin,circle,rwa,us-treasuries,51996645,manual,2026-03-16,false
-0x8d0fa28f221eb5735bc71d3a0da67ee5bc821311,bnb,token,USYC,Hashnote US Yield Coin,circle,rwa,us-treasuries,51996645,manual,2026-03-16,
 0x136471a34f6ef19fe571effc1ca711fdb8e49f2b,ethereum,token,USYC,Hashnote US Yield Coin,circle,rwa,us-treasuries,17381914,manual,2026-03-16,false
-0x136471a34f6ef19fe571effc1ca711fdb8e49f2b,ethereum,token,USYC,Hashnote US Yield Coin,circle,rwa,us-treasuries,17381914,manual,2026-03-16,false
-0x136471a34f6ef19fe571effc1ca711fdb8e49f2b,ethereum,token,USYC,Hashnote US Yield Coin,circle,rwa,us-treasuries,17381914,manual,2026-03-16,
 0x48ab4e39ac59f4e88974804b04a991b3a402717f,ethereum,token,FDIT,Fidelity Digital Interest Token,fidelity,rwa,us-treasuries,22588721,manual,2026-03-16,false
-0x48ab4e39ac59f4e88974804b04a991b3a402717f,ethereum,token,FDIT,Fidelity Digital Interest Token,fidelity,rwa,us-treasuries,22588721,manual,2026-03-16,false
-0x48ab4e39ac59f4e88974804b04a991b3a402717f,ethereum,token,FDIT,Fidelity Digital Interest Token,fidelity,rwa,us-treasuries,22588721,manual,2026-03-16,
 0xb9e4765bce2609bc1949592059b17ea72fee6c6a,arbitrum,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,147814765,manual,2026-03-16,false
-0xb9e4765bce2609bc1949592059b17ea72fee6c6a,arbitrum,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,147814765,manual,2026-03-16,false
-0xb9e4765bce2609bc1949592059b17ea72fee6c6a,arbitrum,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,147814765,manual,2026-03-16,
 0xe08b4c1005603427420e64252a8b120cace4d122,avalanche-c,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,47841266,manual,2026-03-16,
 0xe08b4c1005603427420e64252a8b120cace4d122,avalanche_c,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,47841266,manual,2026-03-16,false
-0xe08b4c1005603427420e64252a8b120cace4d122,avalanche_c,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,47841266,manual,2026-03-16,false
 0x60cfc2b186a4cf647486e42c42b11cc6d571d1e4,base,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,21244682,manual,2026-03-16,false
-0x60cfc2b186a4cf647486e42c42b11cc6d571d1e4,base,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,21244682,manual,2026-03-16,false
-0x60cfc2b186a4cf647486e42c42b11cc6d571d1e4,base,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,21244682,manual,2026-03-16,
 0x3d0a2a3a30a43a2c1c4b92033609245e819ae6a6,bnb,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,55760997,manual,2026-03-16,false
-0x3d0a2a3a30a43a2c1c4b92033609245e819ae6a6,bnb,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,55760997,manual,2026-03-16,false
-0x3d0a2a3a30a43a2c1c4b92033609245e819ae6a6,bnb,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,55760997,manual,2026-03-16,
 0x3ddc84940ab509c11b20b76b466933f40b750dc9,ethereum,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,20587120,manual,2026-03-16,false
-0x3ddc84940ab509c11b20b76b466933f40b750dc9,ethereum,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,20587120,manual,2026-03-16,false
-0x3ddc84940ab509c11b20b76b466933f40b750dc9,ethereum,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,20587120,manual,2026-03-16,
 0x408a634b8a8f0de729b48574a3a7ec3fe820b00a,polygon,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,48275966,manual,2026-03-16,false
-0x408a634b8a8f0de729b48574a3a7ec3fe820b00a,polygon,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,48275966,manual,2026-03-16,false
-0x408a634b8a8f0de729b48574a3a7ec3fe820b00a,polygon,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,48275966,manual,2026-03-16,
 0xa1e4e13c43eb3e24cde4cd15bb6d4b021b5bf79c,polygon,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,42000442,manual,2026-03-16,false
-0xa1e4e13c43eb3e24cde4cd15bb6d4b021b5bf79c,polygon,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,42000442,manual,2026-03-16,false
-0xa1e4e13c43eb3e24cde4cd15bb6d4b021b5bf79c,polygon,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,42000442,manual,2026-03-16,
 0x530824da86689c9c17cdc2871ff29b058345b44a,ethereum,token,STBT,Matrixdock Short-term Treasury Bill Token,matrixdock,rwa,us-treasuries,16431887,manual,2026-03-16,false
-0x530824da86689c9c17cdc2871ff29b058345b44a,ethereum,token,STBT,Matrixdock Short-term Treasury Bill Token,matrixdock,rwa,us-treasuries,16431887,manual,2026-03-16,false
-0x530824da86689c9c17cdc2871ff29b058345b44a,ethereum,token,STBT,Matrixdock Short-term Treasury Bill Token,matrixdock,rwa,us-treasuries,16431887,manual,2026-03-16,
 0x59d9356e565ab3a36dd77763fc0d87feaf85508c,arbitrum,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,151351929,manual,2026-03-16,false
-0x59d9356e565ab3a36dd77763fc0d87feaf85508c,arbitrum,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,151351929,manual,2026-03-16,false
-0x59d9356e565ab3a36dd77763fc0d87feaf85508c,arbitrum,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,151351929,manual,2026-03-16,
 0x59d9356e565ab3a36dd77763fc0d87feaf85508c,base,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,6698526,manual,2026-03-16,false
-0x59d9356e565ab3a36dd77763fc0d87feaf85508c,base,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,6698526,manual,2026-03-16,false
-0x59d9356e565ab3a36dd77763fc0d87feaf85508c,base,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,6698526,manual,2026-03-16,
 0x59d9356e565ab3a36dd77763fc0d87feaf85508c,ethereum,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,17993230,manual,2026-03-16,false
-0x59d9356e565ab3a36dd77763fc0d87feaf85508c,ethereum,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,17993230,manual,2026-03-16,false
-0x59d9356e565ab3a36dd77763fc0d87feaf85508c,ethereum,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,17993230,manual,2026-03-16,
 0x59d9356e565ab3a36dd77763fc0d87feaf85508c,optimism,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,112316948,manual,2026-03-16,false
-0x59d9356e565ab3a36dd77763fc0d87feaf85508c,optimism,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,112316948,manual,2026-03-16,false
-0x59d9356e565ab3a36dd77763fc0d87feaf85508c,optimism,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,112316948,manual,2026-03-16,
 0x59d9356e565ab3a36dd77763fc0d87feaf85508c,polygon,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,50033798,manual,2026-03-16,false
-0x59d9356e565ab3a36dd77763fc0d87feaf85508c,polygon,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,50033798,manual,2026-03-16,false
-0x59d9356e565ab3a36dd77763fc0d87feaf85508c,polygon,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,50033798,manual,2026-03-16,
 0x7715c206a14ac93cb1a6c0316a6e5f8ad7c9dc31,zksync,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,46587176,manual,2026-03-16,false
-0x7715c206a14ac93cb1a6c0316a6e5f8ad7c9dc31,zksync,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,46587176,manual,2026-03-16,false
-0x7715c206a14ac93cb1a6c0316a6e5f8ad7c9dc31,zksync,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,46587176,manual,2026-03-16,
 0x1b19c19393e2d034d8ff31ff34c81252fcbbee92,ethereum,token,OUSG,Ondo Short-Term US Treasuries Fund,ondo finance,rwa,us-treasuries,16234210,manual,2026-03-16,false
-0x1b19c19393e2d034d8ff31ff34c81252fcbbee92,ethereum,token,OUSG,Ondo Short-Term US Treasuries Fund,ondo finance,rwa,us-treasuries,16234210,manual,2026-03-16,false
-0x1b19c19393e2d034d8ff31ff34c81252fcbbee92,ethereum,token,OUSG,Ondo Short-Term US Treasuries Fund,ondo finance,rwa,us-treasuries,16234210,manual,2026-03-16,
 0xba11c5effa33c4d6f8f593cfa394241cfe925811,polygon,token,OUSG,Ondo Short-Term US Treasuries Fund,ondo finance,rwa,us-treasuries,43452884,manual,2026-03-16,false
-0xba11c5effa33c4d6f8f593cfa394241cfe925811,polygon,token,OUSG,Ondo Short-Term US Treasuries Fund,ondo finance,rwa,us-treasuries,43452884,manual,2026-03-16,false
-0xba11c5effa33c4d6f8f593cfa394241cfe925811,polygon,token,OUSG,Ondo Short-Term US Treasuries Fund,ondo finance,rwa,us-treasuries,43452884,manual,2026-03-16,
 0x35e050d3c0ec2d29d269a8ecea763a183bdf9a9d,arbitrum,token,USDY,Ondo US Dollar Yield Token,ondo finance,rwa,us-treasuries,240467591,manual,2026-03-16,false
-0x35e050d3c0ec2d29d269a8ecea763a183bdf9a9d,arbitrum,token,USDY,Ondo US Dollar Yield Token,ondo finance,rwa,us-treasuries,240467591,manual,2026-03-16,false
-0x35e050d3c0ec2d29d269a8ecea763a183bdf9a9d,arbitrum,token,USDY,Ondo US Dollar Yield Token,ondo finance,rwa,us-treasuries,240467591,manual,2026-03-16,
 0x96f6ef951840721adbf46ac996b59e0235cb985c,ethereum,token,USDY,Ondo US Dollar Yield Token,ondo finance,rwa,us-treasuries,17672244,manual,2026-03-16,false
-0x96f6ef951840721adbf46ac996b59e0235cb985c,ethereum,token,USDY,Ondo US Dollar Yield Token,ondo finance,rwa,us-treasuries,17672244,manual,2026-03-16,false
-0x96f6ef951840721adbf46ac996b59e0235cb985c,ethereum,token,USDY,Ondo US Dollar Yield Token,ondo finance,rwa,us-treasuries,17672244,manual,2026-03-16,
 0x5be26527e817998a7206475496fde1e68957c5a6,mantle,token,USDY,Ondo US Dollar Yield Token,ondo finance,rwa,us-treasuries,17335134,manual,2026-03-16,false
-0x5be26527e817998a7206475496fde1e68957c5a6,mantle,token,USDY,Ondo US Dollar Yield Token,ondo finance,rwa,us-treasuries,17335134,manual,2026-03-16,false
-0x5be26527e817998a7206475496fde1e68957c5a6,mantle,token,USDY,Ondo US Dollar Yield Token,ondo finance,rwa,us-treasuries,17335134,manual,2026-03-16,
 0xf84d28a8d28292842dd73d1c5f99476a80b6666a,arbitrum,token,TBILL,OpenEden TBILL Fund,openeden,rwa,us-treasuries,180302248,manual,2026-03-16,false
-0xf84d28a8d28292842dd73d1c5f99476a80b6666a,arbitrum,token,TBILL,OpenEden TBILL Fund,openeden,rwa,us-treasuries,180302248,manual,2026-03-16,false
-0xf84d28a8d28292842dd73d1c5f99476a80b6666a,arbitrum,token,TBILL,OpenEden TBILL Fund,openeden,rwa,us-treasuries,180302248,manual,2026-03-16,
 0xdd50c053c096cb04a3e3362e2b622529ec5f2e8a,ethereum,token,TBILL,OpenEden TBILL Fund,openeden,rwa,us-treasuries,18376020,manual,2026-03-16,false
-0xdd50c053c096cb04a3e3362e2b622529ec5f2e8a,ethereum,token,TBILL,OpenEden TBILL Fund,openeden,rwa,us-treasuries,18376020,manual,2026-03-16,false
-0xdd50c053c096cb04a3e3362e2b622529ec5f2e8a,ethereum,token,TBILL,OpenEden TBILL Fund,openeden,rwa,us-treasuries,18376020,manual,2026-03-16,
 0x021289588cd81dc1ac87ea91e91607eef68303f5,arbitrum,token,USTBL,Spiko Dollar Government Bond Fund,spiko,rwa,us-treasuries,267473526,manual,2026-03-16,false
-0x021289588cd81dc1ac87ea91e91607eef68303f5,arbitrum,token,USTBL,Spiko Dollar Government Bond Fund,spiko,rwa,us-treasuries,267473526,manual,2026-03-16,false
-0x021289588cd81dc1ac87ea91e91607eef68303f5,arbitrum,token,USTBL,Spiko Dollar Government Bond Fund,spiko,rwa,us-treasuries,267473526,manual,2026-03-16,
 0xe4880249745eac5f1ed9d8f7df844792d560e750,ethereum,token,USTBL,Spiko Dollar Government Bond Fund,spiko,rwa,us-treasuries,19690265,manual,2026-03-16,false
-0xe4880249745eac5f1ed9d8f7df844792d560e750,ethereum,token,USTBL,Spiko Dollar Government Bond Fund,spiko,rwa,us-treasuries,19690265,manual,2026-03-16,false
-0xe4880249745eac5f1ed9d8f7df844792d560e750,ethereum,token,USTBL,Spiko Dollar Government Bond Fund,spiko,rwa,us-treasuries,19690265,manual,2026-03-16,
 0xe4880249745eac5f1ed9d8f7df844792d560e750,polygon,token,USTBL,Spiko Dollar Government Bond Fund,spiko,rwa,us-treasuries,56007435,manual,2026-03-16,false
-0xe4880249745eac5f1ed9d8f7df844792d560e750,polygon,token,USTBL,Spiko Dollar Government Bond Fund,spiko,rwa,us-treasuries,56007435,manual,2026-03-16,false
-0xe4880249745eac5f1ed9d8f7df844792d560e750,polygon,token,USTBL,Spiko Dollar Government Bond Fund,spiko,rwa,us-treasuries,56007435,manual,2026-03-16,
 0x43415eb6ff9db7e26a15b704e7a3edce97d31c4e,ethereum,token,USTB,Superstate Short Duration US Government Securities Fund,superstate,rwa,us-treasuries,18725909,manual,2026-03-16,false
-0x43415eb6ff9db7e26a15b704e7a3edce97d31c4e,ethereum,token,USTB,Superstate Short Duration US Government Securities Fund,superstate,rwa,us-treasuries,18725909,manual,2026-03-16,false
-0x43415eb6ff9db7e26a15b704e7a3edce97d31c4e,ethereum,token,USTB,Superstate Short Duration US Government Securities Fund,superstate,rwa,us-treasuries,18725909,manual,2026-03-16,
 0xe4fa682f94610ccd170680cc3b045d77d9e528a8,plume,token,USTB,Superstate Short Duration US Government Securities Fund,superstate,rwa,us-treasuries,29326,manual,2026-03-16,false
-0xe4fa682f94610ccd170680cc3b045d77d9e528a8,plume,token,USTB,Superstate Short Duration US Government Securities Fund,superstate,rwa,us-treasuries,29326,manual,2026-03-16,false
-0xe4fa682f94610ccd170680cc3b045d77d9e528a8,plume,token,USTB,Superstate Short Duration US Government Securities Fund,superstate,rwa,us-treasuries,29326,manual,2026-03-16,
 0xf4d24f4e0ce54760788b0a0fb352bcc34e7d045f,polygon,token,TBONDS01,Swarm IB01 Treasury Bond,swarm,rwa,us-treasuries,42249632,manual,2026-03-16,false
-0xf4d24f4e0ce54760788b0a0fb352bcc34e7d045f,polygon,token,TBONDS01,Swarm IB01 Treasury Bond,swarm,rwa,us-treasuries,42249632,manual,2026-03-16,false
-0xf4d24f4e0ce54760788b0a0fb352bcc34e7d045f,polygon,token,TBONDS01,Swarm IB01 Treasury Bond,swarm,rwa,us-treasuries,42249632,manual,2026-03-16,
 0x60f9971aea32b1b3b369a1fabc435a15c048d0f0,polygon,token,TBONDS13,Swarm IBTA Treasury Bond,swarm,rwa,us-treasuries,42249676,manual,2026-03-16,false
-0x60f9971aea32b1b3b369a1fabc435a15c048d0f0,polygon,token,TBONDS13,Swarm IBTA Treasury Bond,swarm,rwa,us-treasuries,42249676,manual,2026-03-16,false
-0x60f9971aea32b1b3b369a1fabc435a15c048d0f0,polygon,token,TBONDS13,Swarm IBTA Treasury Bond,swarm,rwa,us-treasuries,42249676,manual,2026-03-16,
 0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a,arbitrum,token,thBILL,Theo Short Duration US Treasury Fund,theo,rwa,us-treasuries,364722303,manual,2026-03-16,false
-0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a,arbitrum,token,thBILL,Theo Short Duration US Treasury Fund,theo,rwa,us-treasuries,364722303,manual,2026-03-16,false
-0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a,arbitrum,token,thBILL,Theo Short Duration US Treasury Fund,theo,rwa,us-treasuries,364722303,manual,2026-03-16,
 0xa1f3aca66403d29b909605040c30ae1f1245d14c,ethereum,token,tfBILL,TrueFi tfBILL,truefi,rwa,us-treasuries,18178394,manual,2026-03-16,false
-0xa1f3aca66403d29b909605040c30ae1f1245d14c,ethereum,token,tfBILL,TrueFi tfBILL,truefi,rwa,us-treasuries,18178394,manual,2026-03-16,false
-0xa1f3aca66403d29b909605040c30ae1f1245d14c,ethereum,token,tfBILL,TrueFi tfBILL,truefi,rwa,us-treasuries,18178394,manual,2026-03-16,
 0x7f4546ef315efc65336187fe3765ea779ac90183,avalanche-c,token,VBILL,VanEck Treasury Fund,vaneck,rwa,us-treasuries,61900242,manual,2026-03-16,
 0x7f4546ef315efc65336187fe3765ea779ac90183,avalanche_c,token,VBILL,VanEck Treasury Fund,vaneck,rwa,us-treasuries,61900242,manual,2026-03-16,false
-0x7f4546ef315efc65336187fe3765ea779ac90183,avalanche_c,token,VBILL,VanEck Treasury Fund,vaneck,rwa,us-treasuries,61900242,manual,2026-03-16,false
 0x14d72634328c4d03bba184a48081df65f1911279,bnb,token,VBILL,VanEck Treasury Fund,vaneck,rwa,us-treasuries,49547463,manual,2026-03-16,false
-0x14d72634328c4d03bba184a48081df65f1911279,bnb,token,VBILL,VanEck Treasury Fund,vaneck,rwa,us-treasuries,49547463,manual,2026-03-16,false
-0x14d72634328c4d03bba184a48081df65f1911279,bnb,token,VBILL,VanEck Treasury Fund,vaneck,rwa,us-treasuries,49547463,manual,2026-03-16,
 0x2255718832bc9fd3be1caf75084f4803da14ff01,ethereum,token,VBILL,VanEck Treasury Fund,vaneck,rwa,us-treasuries,22468469,manual,2026-03-16,false
-0x2255718832bc9fd3be1caf75084f4803da14ff01,ethereum,token,VBILL,VanEck Treasury Fund,vaneck,rwa,us-treasuries,22468469,manual,2026-03-16,false
-0x2255718832bc9fd3be1caf75084f4803da14ff01,ethereum,token,VBILL,VanEck Treasury Fund,vaneck,rwa,us-treasuries,22468469,manual,2026-03-16,
 0xc26af85ede9cc25d449bcebef866bb85afd5d346,arbitrum,token,ULTRA,Delta Wellington Ultra Short Treasury On-Chain Fund,wellington-management,rwa,us-treasuries,358954981,manual,2026-03-16,false
-0xc26af85ede9cc25d449bcebef866bb85afd5d346,arbitrum,token,ULTRA,Delta Wellington Ultra Short Treasury On-Chain Fund,wellington-management,rwa,us-treasuries,358954981,manual,2026-03-16,false
-0xc26af85ede9cc25d449bcebef866bb85afd5d346,arbitrum,token,ULTRA,Delta Wellington Ultra Short Treasury On-Chain Fund,wellington-management,rwa,us-treasuries,358954981,manual,2026-03-16,
 0x50293dd8889b931eb3441d2664dce8396640b419,ethereum,token,ULTRA,Delta Wellington Ultra Short Treasury On-Chain Fund,wellington-management,rwa,us-treasuries,21469784,manual,2026-03-16,false
-0x50293dd8889b931eb3441d2664dce8396640b419,ethereum,token,ULTRA,Delta Wellington Ultra Short Treasury On-Chain Fund,wellington-management,rwa,us-treasuries,21469784,manual,2026-03-16,false
-0x50293dd8889b931eb3441d2664dce8396640b419,ethereum,token,ULTRA,Delta Wellington Ultra Short Treasury On-Chain Fund,wellington-management,rwa,us-treasuries,21469784,manual,2026-03-16,
 0xfeb26f0943c3885b2cb85a9f933975356c81c33d,arbitrum,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,299993988,manual,2026-03-16,false
-0xfeb26f0943c3885b2cb85a9f933975356c81c33d,arbitrum,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,299993988,manual,2026-03-16,false
-0xfeb26f0943c3885b2cb85a9f933975356c81c33d,arbitrum,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,299993988,manual,2026-03-16,
 0x870fd36b3bf7f5abeeea2c8d4abdf1dc4e33109d,avalanche-c,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,58910263,manual,2026-03-16,
 0x870fd36b3bf7f5abeeea2c8d4abdf1dc4e33109d,avalanche_c,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,58910263,manual,2026-03-16,false
-0x870fd36b3bf7f5abeeea2c8d4abdf1dc4e33109d,avalanche_c,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,58910263,manual,2026-03-16,false
 0x5096b85ed11798fddcb8b5cb27c399c04689c435,base,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,27722103,manual,2026-03-16,false
-0x5096b85ed11798fddcb8b5cb27c399c04689c435,base,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,27722103,manual,2026-03-16,false
-0x5096b85ed11798fddcb8b5cb27c399c04689c435,base,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,27722103,manual,2026-03-16,
 0x1fecf3d9d4fee7f2c02917a66028a48c6706c179,ethereum,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,20750716,manual,2026-03-16,false
-0x1fecf3d9d4fee7f2c02917a66028a48c6706c179,ethereum,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,20750716,manual,2026-03-16,false
-0x1fecf3d9d4fee7f2c02917a66028a48c6706c179,ethereum,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,20750716,manual,2026-03-16,
 0x870fd36b3bf7f5abeeea2c8d4abdf1dc4e33109d,optimism,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,133444860,manual,2026-03-16,false
-0x870fd36b3bf7f5abeeea2c8d4abdf1dc4e33109d,optimism,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,133444860,manual,2026-03-16,false
-0x870fd36b3bf7f5abeeea2c8d4abdf1dc4e33109d,optimism,token,WTGXX,WisdomTree Treasury Money Market Digital Fund,wisdomtree,rwa,us-treasuries,133444860,manual,2026-03-16,
-0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD,avalanche_c,token,EURC,Circle Euro Coin,circle,stablecoin,eur,26857185,manual,2026-04-02,true
 0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD,avalanche_c,token,EURC,Circle Euro Coin,circle,stablecoin,eur,26857185,manual,2026-04-02,true
 0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42,base,token,EURC,Circle Euro Coin,circle,stablecoin,eur,15107859,manual,2026-03-16,true
-0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42,base,token,EURC,Circle Euro Coin,circle,stablecoin,eur,15107859,manual,2026-03-16,true
-0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42,base,token,EURC,Circle Euro Coin,circle,stablecoin,eur,15107859,manual,2026-03-16,
 0x1abaea1f7c830bd89acc67ec4af516284b1bc33c,ethereum,token,EURC,Circle Euro Coin,circle,stablecoin,eur,14807227,manual,2026-03-16,true
-0x1abaea1f7c830bd89acc67ec4af516284b1bc33c,ethereum,token,EURC,Circle Euro Coin,circle,stablecoin,eur,14807227,manual,2026-03-16,true
-0x1abaea1f7c830bd89acc67ec4af516284b1bc33c,ethereum,token,EURC,Circle Euro Coin,circle,stablecoin,eur,14807227,manual,2026-03-16,
-HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr,solana,token,EURC,Circle Euro Coin,circle,stablecoin,eur,332814776,manual,2026-04-02,true
 HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr,solana,token,EURC,Circle Euro Coin,circle,stablecoin,eur,332814776,manual,2026-04-02,true
 GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2,stellar,token,EURC,Circle Euro Coin,circle,stablecoin,eur,47894036,manual,2026-04-06,true
-GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2,stellar,token,EURC,Circle Euro Coin,circle,stablecoin,eur,47894036,manual,2026-04-06,true
-0x1c60ba0a0ed1019e8eb035e6daf4155a5ce2380b,worldchain,token,EURC,Circle Euro Coin,circle,stablecoin,eur,21816275,manual,2026-04-02,true
 0x1c60ba0a0ed1019e8eb035e6daf4155a5ce2380b,worldchain,token,EURC,Circle Euro Coin,circle,stablecoin,eur,21816275,manual,2026-04-02,true
 0xdb25f211ab05b1c97d595516f45794528a807ad8,ethereum,token,EURS,EURS,stasis,stablecoin,eur,5835251,manual,2026-03-16,false
-0xdb25f211ab05b1c97d595516f45794528a807ad8,ethereum,token,EURS,EURS,stasis,stablecoin,eur,5835251,manual,2026-03-16,false
-0xdb25f211ab05b1c97d595516f45794528a807ad8,ethereum,token,EURS,EURS,stasis,stablecoin,eur,5835251,manual,2026-03-16,
 0xc581b735a1688071a1746c968e0798d642ede491,ethereum,token,EURT,EURT,tether,stablecoin,eur,11016156,manual,2026-03-16,false
-0xc581b735a1688071a1746c968e0798d642ede491,ethereum,token,EURT,EURT,tether,stablecoin,eur,11016156,manual,2026-03-16,false
-0xc581b735a1688071a1746c968e0798d642ede491,ethereum,token,EURT,EURT,tether,stablecoin,eur,11016156,manual,2026-03-16,
 0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee,base,token,GHO,Aave GHO Stablecoin,aave,stablecoin,usd,24786494,manual,2026-03-16,false
-0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee,base,token,GHO,Aave GHO Stablecoin,aave,stablecoin,usd,24786494,manual,2026-03-16,false
-0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee,base,token,GHO,Aave GHO Stablecoin,aave,stablecoin,usd,24786494,manual,2026-03-16,
 0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33,arbitrum,token,GHO,GHO,aave,stablecoin,usd,224701178,manual,2026-03-16,false
-0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33,arbitrum,token,GHO,GHO,aave,stablecoin,usd,224701178,manual,2026-03-16,false
-0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33,arbitrum,token,GHO,GHO,aave,stablecoin,usd,224701178,manual,2026-03-16,
 0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f,ethereum,token,GHO,GHO,aave,stablecoin,usd,17698470,manual,2026-03-16,false
-0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f,ethereum,token,GHO,GHO,aave,stablecoin,usd,17698470,manual,2026-03-16,false
-0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f,ethereum,token,GHO,GHO,aave,stablecoin,usd,17698470,manual,2026-03-16,
 0x00000000efe302beaa2b3e6e1b18d08d69a9012a,base,token,AUSD,AUSD,agora,stablecoin,usd,35760121,manual,2026-03-16,false
-0x00000000efe302beaa2b3e6e1b18d08d69a9012a,base,token,AUSD,AUSD,agora,stablecoin,usd,35760121,manual,2026-03-16,false
-0x00000000efe302beaa2b3e6e1b18d08d69a9012a,base,token,AUSD,AUSD,agora,stablecoin,usd,35760121,manual,2026-03-16,
 0x00000000efe302beaa2b3e6e1b18d08d69a9012a,ethereum,token,AUSD,AUSD,agora,stablecoin,usd,20257620,manual,2026-03-16,false
-0x00000000efe302beaa2b3e6e1b18d08d69a9012a,ethereum,token,AUSD,AUSD,agora,stablecoin,usd,20257620,manual,2026-03-16,false
-0x00000000efe302beaa2b3e6e1b18d08d69a9012a,ethereum,token,AUSD,AUSD,agora,stablecoin,usd,20257620,manual,2026-03-16,
 0x4fabb145d64652a948d72533023f6e7a623c7c53,ethereum,token,BUSD,BUSD,binance,stablecoin,usd,8493105,manual,2026-03-16,false
-0x4fabb145d64652a948d72533023f6e7a623c7c53,ethereum,token,BUSD,BUSD,binance,stablecoin,usd,8493105,manual,2026-03-16,false
-0x4fabb145d64652a948d72533023f6e7a623c7c53,ethereum,token,BUSD,BUSD,binance,stablecoin,usd,8493105,manual,2026-03-16,
 0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca,base,token,USDbC,USDbC,circle,stablecoin,usd,2062407,manual,2026-03-16,false
-0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca,base,token,USDbC,USDbC,circle,stablecoin,usd,2062407,manual,2026-03-16,false
-0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca,base,token,USDbC,USDbC,circle,stablecoin,usd,2062407,manual,2026-03-16,
 0xaf88d065e77c8cc2239327c5edb3a432268e5831,arbitrum,token,USDC,USDC,circle,stablecoin,usd,34266938,manual,2026-03-16,false
-0xaf88d065e77c8cc2239327c5edb3a432268e5831,arbitrum,token,USDC,USDC,circle,stablecoin,usd,34266938,manual,2026-03-16,false
-0xaf88d065e77c8cc2239327c5edb3a432268e5831,arbitrum,token,USDC,USDC,circle,stablecoin,usd,34266938,manual,2026-03-16,
 0xff970a61a04b1ca14834a43f5de4533ebddb5cc8,arbitrum,token,USDC,USDC,circle,stablecoin,usd,2609,manual,2026-03-16,false
-0xff970a61a04b1ca14834a43f5de4533ebddb5cc8,arbitrum,token,USDC,USDC,circle,stablecoin,usd,2609,manual,2026-03-16,false
-0xff970a61a04b1ca14834a43f5de4533ebddb5cc8,arbitrum,token,USDC,USDC,circle,stablecoin,usd,2609,manual,2026-03-16,
 0x833589fcd6edb6e08f4c7c32d4f71b54bda02913,base,token,USDC,USDC,circle,stablecoin,usd,2797221,manual,2026-03-16,false
-0x833589fcd6edb6e08f4c7c32d4f71b54bda02913,base,token,USDC,USDC,circle,stablecoin,usd,2797221,manual,2026-03-16,false
-0x833589fcd6edb6e08f4c7c32d4f71b54bda02913,base,token,USDC,USDC,circle,stablecoin,usd,2797221,manual,2026-03-16,
 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,ethereum,token,USDC,USDC,circle,stablecoin,usd,6082465,manual,2026-03-16,false
-0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,ethereum,token,USDC,USDC,circle,stablecoin,usd,6082465,manual,2026-03-16,false
-0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,ethereum,token,USDC,USDC,circle,stablecoin,usd,6082465,manual,2026-03-16,
 0xf939e0a03fb07f59a73314e73794be0e57ac1b4e,ethereum,token,crvUSD,crvUSD,curve-finance,stablecoin,usd,17257952,manual,2026-03-16,false
-0xf939e0a03fb07f59a73314e73794be0e57ac1b4e,ethereum,token,crvUSD,crvUSD,curve-finance,stablecoin,usd,17257952,manual,2026-03-16,false
-0xf939e0a03fb07f59a73314e73794be0e57ac1b4e,ethereum,token,crvUSD,crvUSD,curve-finance,stablecoin,usd,17257952,manual,2026-03-16,
 0xda10009cbd5d07dd0cecc66161fc93d7c9000da1,arbitrum,token,DAI,DAI,dai,stablecoin,usd,1336824,manual,2026-03-16,false
-0xda10009cbd5d07dd0cecc66161fc93d7c9000da1,arbitrum,token,DAI,DAI,dai,stablecoin,usd,1336824,manual,2026-03-16,false
-0xda10009cbd5d07dd0cecc66161fc93d7c9000da1,arbitrum,token,DAI,DAI,dai,stablecoin,usd,1336824,manual,2026-03-16,
 0x4621b7a9c75199271f773ebd9a499dbd165c3191,base,token,DOLA,DOLA,dola,stablecoin,usd,2361818,manual,2026-03-16,false
-0x4621b7a9c75199271f773ebd9a499dbd165c3191,base,token,DOLA,DOLA,dola,stablecoin,usd,2361818,manual,2026-03-16,false
-0x4621b7a9c75199271f773ebd9a499dbd165c3191,base,token,DOLA,DOLA,dola,stablecoin,usd,2361818,manual,2026-03-16,
 0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34,arbitrum,token,USDe,Ethena USDe,ethena,stablecoin,usd,189133001,manual,2026-03-16,false
-0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34,arbitrum,token,USDe,Ethena USDe,ethena,stablecoin,usd,189133001,manual,2026-03-16,false
-0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34,arbitrum,token,USDe,Ethena USDe,ethena,stablecoin,usd,189133001,manual,2026-03-16,
 0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34,base,token,USDe,Ethena USDe,ethena,stablecoin,usd,15768548,manual,2026-03-16,false
-0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34,base,token,USDe,Ethena USDe,ethena,stablecoin,usd,15768548,manual,2026-03-16,false
-0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34,base,token,USDe,Ethena USDe,ethena,stablecoin,usd,15768548,manual,2026-03-16,
 0x4c9edd5852cd905f086c759e8383e09bff1e68b3,ethereum,token,USDe,USDe,ethena,stablecoin,usd,18571358,manual,2026-03-16,false
-0x4c9edd5852cd905f086c759e8383e09bff1e68b3,ethereum,token,USDe,USDe,ethena,stablecoin,usd,18571358,manual,2026-03-16,false
-0x4c9edd5852cd905f086c759e8383e09bff1e68b3,ethereum,token,USDe,USDe,ethena,stablecoin,usd,18571358,manual,2026-03-16,
 0xc139190f447e929f090edeb554d95abb8b18ac1c,ethereum,token,USDtb,Ethena USDtb,ethena,stablecoin,usd,21287284,manual,2026-03-16,false
-0xc139190f447e929f090edeb554d95abb8b18ac1c,ethereum,token,USDtb,Ethena USDtb,ethena,stablecoin,usd,21287284,manual,2026-03-16,false
-0xc139190f447e929f090edeb554d95abb8b18ac1c,ethereum,token,USDtb,Ethena USDtb,ethena,stablecoin,usd,21287284,manual,2026-03-16,
 0x956f47f50a910163d8bf957cf5846d573e7f87ca,ethereum,token,FEI,FEI,fei,stablecoin,usd,12125705,manual,2026-03-16,false
-0x956f47f50a910163d8bf957cf5846d573e7f87ca,ethereum,token,FEI,FEI,fei,stablecoin,usd,12125705,manual,2026-03-16,false
-0x956f47f50a910163d8bf957cf5846d573e7f87ca,ethereum,token,FEI,FEI,fei,stablecoin,usd,12125705,manual,2026-03-16,
 0x7c135549504245b5eae64fc0e99fa5ebabb8e35d,ethereum,token,FIDD,Fidelity Digital Dollar,fidelity,stablecoin,usd,16991820,manual,2026-03-16,false
-0x7c135549504245b5eae64fc0e99fa5ebabb8e35d,ethereum,token,FIDD,Fidelity Digital Dollar,fidelity,stablecoin,usd,16991820,manual,2026-03-16,false
-0x7c135549504245b5eae64fc0e99fa5ebabb8e35d,ethereum,token,FIDD,Fidelity Digital Dollar,fidelity,stablecoin,usd,16991820,manual,2026-03-16,
 0xc5f0f7b66764f6ec8c8dff7ba683102295e16409,ethereum,token,FDUSD,FDUSD,first-digital,stablecoin,usd,17144262,manual,2026-03-16,false
-0xc5f0f7b66764f6ec8c8dff7ba683102295e16409,ethereum,token,FDUSD,FDUSD,first-digital,stablecoin,usd,17144262,manual,2026-03-16,false
-0xc5f0f7b66764f6ec8c8dff7ba683102295e16409,ethereum,token,FDUSD,FDUSD,first-digital,stablecoin,usd,17144262,manual,2026-03-16,
 0x17fc002b466eec40dae837fc4be5c67993ddbd6f,arbitrum,token,FRAX,FRAX,frax-finance,stablecoin,usd,1693791,manual,2026-03-16,false
-0x17fc002b466eec40dae837fc4be5c67993ddbd6f,arbitrum,token,FRAX,FRAX,frax-finance,stablecoin,usd,1693791,manual,2026-03-16,false
-0x17fc002b466eec40dae837fc4be5c67993ddbd6f,arbitrum,token,FRAX,FRAX,frax-finance,stablecoin,usd,1693791,manual,2026-03-16,
 0x853d955acef822db058eb8505911ed77f175b99e,ethereum,token,FRAX,FRAX,frax-finance,stablecoin,usd,11465581,manual,2026-03-16,false
-0x853d955acef822db058eb8505911ed77f175b99e,ethereum,token,FRAX,FRAX,frax-finance,stablecoin,usd,11465581,manual,2026-03-16,false
-0x853d955acef822db058eb8505911ed77f175b99e,ethereum,token,FRAX,FRAX,frax-finance,stablecoin,usd,11465581,manual,2026-03-16,
 0x056fd409e1d7a124bd7017459dfea2f387b6d5cd,ethereum,token,GUSD,GUSD,gemini,stablecoin,usd,6301780,manual,2026-03-16,false
-0x056fd409e1d7a124bd7017459dfea2f387b6d5cd,ethereum,token,GUSD,GUSD,gemini,stablecoin,usd,6301780,manual,2026-03-16,false
-0x056fd409e1d7a124bd7017459dfea2f387b6d5cd,ethereum,token,GUSD,GUSD,gemini,stablecoin,usd,6301780,manual,2026-03-16,
 0x5f98805a4e8be255a32880fdec7f6728c6568ba0,ethereum,token,LUSD,LUSD,liquity,stablecoin,usd,12178594,manual,2026-03-16,false
-0x5f98805a4e8be255a32880fdec7f6728c6568ba0,ethereum,token,LUSD,LUSD,liquity,stablecoin,usd,12178594,manual,2026-03-16,false
-0x5f98805a4e8be255a32880fdec7f6728c6568ba0,ethereum,token,LUSD,LUSD,liquity,stablecoin,usd,12178594,manual,2026-03-16,
 0xa47c8bf37f92abed4a126bda807a7b7498661acd,ethereum,token,UST,UST,luna,stablecoin,usd,11345219,manual,2026-03-16,false
-0xa47c8bf37f92abed4a126bda807a7b7498661acd,ethereum,token,UST,UST,luna,stablecoin,usd,11345219,manual,2026-03-16,false
-0xa47c8bf37f92abed4a126bda807a7b7498661acd,ethereum,token,UST,UST,luna,stablecoin,usd,11345219,manual,2026-03-16,
 0xa693b19d2931d498c5b318df961919bb4aee87a5,ethereum,token,UST,UST,luna,stablecoin,usd,13408366,manual,2026-03-16,false
-0xa693b19d2931d498c5b318df961919bb4aee87a5,ethereum,token,UST,UST,luna,stablecoin,usd,13408366,manual,2026-03-16,false
-0xa693b19d2931d498c5b318df961919bb4aee87a5,ethereum,token,UST,UST,luna,stablecoin,usd,13408366,manual,2026-03-16,
 0x437cc33344a0b27a429f795ff6b469c72698b291,arbitrum,token,wM,M0 Wrapped M,m0,stablecoin,usd,307758620,manual,2026-03-16,false
-0x437cc33344a0b27a429f795ff6b469c72698b291,arbitrum,token,wM,M0 Wrapped M,m0,stablecoin,usd,307758620,manual,2026-03-16,false
-0x437cc33344a0b27a429f795ff6b469c72698b291,arbitrum,token,wM,M0 Wrapped M,m0,stablecoin,usd,307758620,manual,2026-03-16,
 0x437cc33344a0b27a429f795ff6b469c72698b291,ethereum,token,wM,M0 Wrapped M,m0,stablecoin,usd,20527882,manual,2026-03-16,false
-0x437cc33344a0b27a429f795ff6b469c72698b291,ethereum,token,wM,M0 Wrapped M,m0,stablecoin,usd,20527882,manual,2026-03-16,false
-0x437cc33344a0b27a429f795ff6b469c72698b291,ethereum,token,wM,M0 Wrapped M,m0,stablecoin,usd,20527882,manual,2026-03-16,
 0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a,arbitrum,token,MIM,MIM,magic-internet-money,stablecoin,usd,779671,manual,2026-03-16,false
-0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a,arbitrum,token,MIM,MIM,magic-internet-money,stablecoin,usd,779671,manual,2026-03-16,false
-0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a,arbitrum,token,MIM,MIM,magic-internet-money,stablecoin,usd,779671,manual,2026-03-16,
 0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3,ethereum,token,MIM,MIM,magic-internet-money,stablecoin,usd,12505975,manual,2026-03-16,false
-0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3,ethereum,token,MIM,MIM,magic-internet-money,stablecoin,usd,12505975,manual,2026-03-16,false
-0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3,ethereum,token,MIM,MIM,magic-internet-money,stablecoin,usd,12505975,manual,2026-03-16,
 0xe343167631d89b6ffc58b88d6b7fb0228795491d,ethereum,token,USDG,Global Dollar,paxos,stablecoin,usd,20915336,manual,2026-03-16,true
-0xe343167631d89b6ffc58b88d6b7fb0228795491d,ethereum,token,USDG,Global Dollar,paxos,stablecoin,usd,20915336,manual,2026-03-16,true
-0xe343167631d89b6ffc58b88d6b7fb0228795491d,ethereum,token,USDG,Global Dollar,paxos,stablecoin,usd,20915336,manual,2026-03-16,
 0x7f850b0ab1988dd17b69ac564c1e2857949e4dee,arbitrum,token,USDL,USDL Stablecoin,paxos,stablecoin,usd,233572971,manual,2026-03-16,false
-0x7f850b0ab1988dd17b69ac564c1e2857949e4dee,arbitrum,token,USDL,USDL Stablecoin,paxos,stablecoin,usd,233572971,manual,2026-03-16,false
-0x7f850b0ab1988dd17b69ac564c1e2857949e4dee,arbitrum,token,USDL,USDL Stablecoin,paxos,stablecoin,usd,233572971,manual,2026-03-16,
 0x46850ad61c2b7d64d08c9c754f45254596696984,arbitrum,token,PYUSD,PayPal USD,paypal,stablecoin,usd,333898446,manual,2026-03-16,false
-0x46850ad61c2b7d64d08c9c754f45254596696984,arbitrum,token,PYUSD,PayPal USD,paypal,stablecoin,usd,333898446,manual,2026-03-16,false
-0x46850ad61c2b7d64d08c9c754f45254596696984,arbitrum,token,PYUSD,PayPal USD,paypal,stablecoin,usd,333898446,manual,2026-03-16,
 0x6c3ea9036406852006290770bedfcaba0e23a0e8,ethereum,token,PYUSD,PYUSD,paypal,stablecoin,usd,15921958,manual,2026-03-16,false
-0x6c3ea9036406852006290770bedfcaba0e23a0e8,ethereum,token,PYUSD,PYUSD,paypal,stablecoin,usd,15921958,manual,2026-03-16,false
-0x6c3ea9036406852006290770bedfcaba0e23a0e8,ethereum,token,PYUSD,PYUSD,paypal,stablecoin,usd,15921958,manual,2026-03-16,
 0x03ab458634910aad20ef5f1c8ee96f1d6ac54919,ethereum,token,RAI,RAI,rai,stablecoin,usd,11848426,manual,2026-03-16,false
-0x03ab458634910aad20ef5f1c8ee96f1d6ac54919,ethereum,token,RAI,RAI,rai,stablecoin,usd,11848426,manual,2026-03-16,false
-0x03ab458634910aad20ef5f1c8ee96f1d6ac54919,ethereum,token,RAI,RAI,rai,stablecoin,usd,11848426,manual,2026-03-16,
 0x8292bb45bf1ee4d140127049757c2e0ff06317ed,ethereum,token,RLUSD,RLUSD,ripple,stablecoin,usd,20492031,manual,2026-03-16,false
-0x8292bb45bf1ee4d140127049757c2e0ff06317ed,ethereum,token,RLUSD,RLUSD,ripple,stablecoin,usd,20492031,manual,2026-03-16,false
-0x8292bb45bf1ee4d140127049757c2e0ff06317ed,ethereum,token,RLUSD,RLUSD,ripple,stablecoin,usd,20492031,manual,2026-03-16,
 0x50c5725949a6f0c72e6c4a641f24049a917db0cb,base,token,DAI,DAI,sky,stablecoin,usd,1569598,manual,2026-03-16,false
-0x50c5725949a6f0c72e6c4a641f24049a917db0cb,base,token,DAI,DAI,sky,stablecoin,usd,1569598,manual,2026-03-16,false
-0x50c5725949a6f0c72e6c4a641f24049a917db0cb,base,token,DAI,DAI,sky,stablecoin,usd,1569598,manual,2026-03-16,
 0x6b175474e89094c44da98b954eedeac495271d0f,ethereum,token,DAI,DAI,sky,stablecoin,usd,8928158,manual,2026-03-16,false
-0x6b175474e89094c44da98b954eedeac495271d0f,ethereum,token,DAI,DAI,sky,stablecoin,usd,8928158,manual,2026-03-16,false
-0x6b175474e89094c44da98b954eedeac495271d0f,ethereum,token,DAI,DAI,sky,stablecoin,usd,8928158,manual,2026-03-16,
 0x6491c05a82219b8d1479057361ff1654749b876b,arbitrum,token,USDS,Sky USDS,sky,stablecoin,usd,298070730,manual,2026-03-16,false
-0x6491c05a82219b8d1479057361ff1654749b876b,arbitrum,token,USDS,Sky USDS,sky,stablecoin,usd,298070730,manual,2026-03-16,false
-0x6491c05a82219b8d1479057361ff1654749b876b,arbitrum,token,USDS,Sky USDS,sky,stablecoin,usd,298070730,manual,2026-03-16,
 0xdc035d45d973e3ec169d2276ddab16f1e407384f,ethereum,token,USDS,USDS,sky,stablecoin,usd,20663730,manual,2026-03-16,false
-0xdc035d45d973e3ec169d2276ddab16f1e407384f,ethereum,token,USDS,USDS,sky,stablecoin,usd,20663730,manual,2026-03-16,false
-0xdc035d45d973e3ec169d2276ddab16f1e407384f,ethereum,token,USDS,USDS,sky,stablecoin,usd,20663730,manual,2026-03-16,
 0x70e8de73ce538da2beed35d14187f6959a8eca96,ethereum,token,XSGD,XSGD,straitsx,stablecoin,usd,9739765,manual,2026-03-16,false
-0x70e8de73ce538da2beed35d14187f6959a8eca96,ethereum,token,XSGD,XSGD,straitsx,stablecoin,usd,9739765,manual,2026-03-16,false
-0x70e8de73ce538da2beed35d14187f6959a8eca96,ethereum,token,XSGD,XSGD,straitsx,stablecoin,usd,9739765,manual,2026-03-16,
 0x07041776f5007aca2a54844f50503a18a72a8b68,ethereum,token,USAT,Tether USAT,tether,stablecoin,usd,23998151,manual,2026-03-16,false
-0x07041776f5007aca2a54844f50503a18a72a8b68,ethereum,token,USAT,Tether USAT,tether,stablecoin,usd,23998151,manual,2026-03-16,false
-0x07041776f5007aca2a54844f50503a18a72a8b68,ethereum,token,USAT,Tether USAT,tether,stablecoin,usd,23998151,manual,2026-03-16,
 0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9,arbitrum,token,USDT,Tether USD,tether,stablecoin,usd,228105,manual,2026-03-16,false
-0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9,arbitrum,token,USDT,Tether USD,tether,stablecoin,usd,228105,manual,2026-03-16,false
-0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9,arbitrum,token,USDT,Tether USD,tether,stablecoin,usd,228105,manual,2026-03-16,
 0xfde4c96c8593536e31f229ea8f37b2ada2699bb2,base,token,USDT,USDT,tether,stablecoin,usd,12044917,manual,2026-03-16,false
-0xfde4c96c8593536e31f229ea8f37b2ada2699bb2,base,token,USDT,USDT,tether,stablecoin,usd,12044917,manual,2026-03-16,false
-0xfde4c96c8593536e31f229ea8f37b2ada2699bb2,base,token,USDT,USDT,tether,stablecoin,usd,12044917,manual,2026-03-16,
 0xdac17f958d2ee523a2206206994597c13d831ec7,ethereum,token,USDT,USDT,tether,stablecoin,usd,4634748,manual,2026-03-16,false
-0xdac17f958d2ee523a2206206994597c13d831ec7,ethereum,token,USDT,USDT,tether,stablecoin,usd,4634748,manual,2026-03-16,false
-0xdac17f958d2ee523a2206206994597c13d831ec7,ethereum,token,USDT,USDT,tether,stablecoin,usd,4634748,manual,2026-03-16,
 0x102d758f688a4c1c5a80b116bd945d4455460282,base,token,USD₮0,USD₮0,tether,stablecoin,usd,28195144,manual,2026-03-16,false
-0x102d758f688a4c1c5a80b116bd945d4455460282,base,token,USD₮0,USD₮0,tether,stablecoin,usd,28195144,manual,2026-03-16,false
-0x102d758f688a4c1c5a80b116bd945d4455460282,base,token,USD₮0,USD₮0,tether,stablecoin,usd,28195144,manual,2026-03-16,
 0x4d15a3a2286d883af0aa1b3f21367843fac63e07,arbitrum,token,TUSD,TUSD,truefi,stablecoin,usd,2132061,manual,2026-03-16,false
-0x4d15a3a2286d883af0aa1b3f21367843fac63e07,arbitrum,token,TUSD,TUSD,truefi,stablecoin,usd,2132061,manual,2026-03-16,false
-0x4d15a3a2286d883af0aa1b3f21367843fac63e07,arbitrum,token,TUSD,TUSD,truefi,stablecoin,usd,2132061,manual,2026-03-16,
 0x0000000000085d4780b73119b644ae5ecd22b376,ethereum,token,TUSD,TUSD,truefi,stablecoin,usd,6988184,manual,2026-03-16,false
-0x0000000000085d4780b73119b644ae5ecd22b376,ethereum,token,TUSD,TUSD,truefi,stablecoin,usd,6988184,manual,2026-03-16,false
-0x0000000000085d4780b73119b644ae5ecd22b376,ethereum,token,TUSD,TUSD,truefi,stablecoin,usd,6988184,manual,2026-03-16,
 0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef,arbitrum,token,USDai,USDai Stablecoin,usdai,stablecoin,usd,336209932,manual,2026-03-16,false
-0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef,arbitrum,token,USDai,USDai Stablecoin,usdai,stablecoin,usd,336209932,manual,2026-03-16,false
-0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef,arbitrum,token,USDai,USDai Stablecoin,usdai,stablecoin,usd,336209932,manual,2026-03-16,
 0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef,base,token,USDai,USDai Stablecoin,usdai,stablecoin,usd,38305764,manual,2026-03-16,false
-0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef,base,token,USDai,USDai Stablecoin,usdai,stablecoin,usd,38305764,manual,2026-03-16,false
-0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef,base,token,USDai,USDai Stablecoin,usdai,stablecoin,usd,38305764,manual,2026-03-16,
 0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6,ethereum,token,USDD,USDD,usdd,stablecoin,usd,14685838,manual,2026-03-16,false
-0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6,ethereum,token,USDD,USDD,usdd,stablecoin,usd,14685838,manual,2026-03-16,false
-0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6,ethereum,token,USDD,USDD,usdd,stablecoin,usd,14685838,manual,2026-03-16,
 0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110,ethereum,token,USR,USR,usr,stablecoin,usd,20005922,manual,2026-03-16,false
-0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110,ethereum,token,USR,USR,usr,stablecoin,usd,20005922,manual,2026-03-16,false
-0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110,ethereum,token,USR,USR,usr,stablecoin,usd,20005922,manual,2026-03-16,
 0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d,ethereum,token,USD1,USD1,world-liberty-financial,stablecoin,usd,21720503,manual,2026-03-16,false
-0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d,ethereum,token,USD1,USD1,world-liberty-financial,stablecoin,usd,21720503,manual,2026-03-16,false
-0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d,ethereum,token,USD1,USD1,world-liberty-financial,stablecoin,usd,21720503,manual,2026-03-16,
 0xebf2096e01455108badcbaf86ce30b6e5a72aa52,ethereum,token,XIDR,XIDR,xidr,stablecoin,usd,10359505,manual,2026-03-16,false
-0xebf2096e01455108badcbaf86ce30b6e5a72aa52,ethereum,token,XIDR,XIDR,xidr,stablecoin,usd,10359505,manual,2026-03-16,false
-0xebf2096e01455108badcbaf86ce30b6e5a72aa52,ethereum,token,XIDR,XIDR,xidr,stablecoin,usd,10359505,manual,2026-03-16,
 0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2,arbitrum,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,189133410,manual,2026-03-16,false
-0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2,arbitrum,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,189133410,manual,2026-03-16,false
-0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2,arbitrum,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,189133410,manual,2026-03-16,
 0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2,base,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,15768618,manual,2026-03-16,false
-0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2,base,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,15768618,manual,2026-03-16,false
-0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2,base,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,15768618,manual,2026-03-16,
 0x9d39a5de30e57443bff2a8307a4256c8797a3497,ethereum,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,18571359,manual,2026-03-16,false
-0x9d39a5de30e57443bff2a8307a4256c8797a3497,ethereum,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,18571359,manual,2026-03-16,false
-0x9d39a5de30e57443bff2a8307a4256c8797a3497,ethereum,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,18571359,manual,2026-03-16,
 0x51b0f6aed4a421f09d28a5ede1dcf460bcb54d30,arbitrum,token,siUSD,InfiniFi siUSD,infinifi,ybs,usd,420895071,manual,2026-03-16,false
-0x51b0f6aed4a421f09d28a5ede1dcf460bcb54d30,arbitrum,token,siUSD,InfiniFi siUSD,infinifi,ybs,usd,420895071,manual,2026-03-16,false
-0x51b0f6aed4a421f09d28a5ede1dcf460bcb54d30,arbitrum,token,siUSD,InfiniFi siUSD,infinifi,ybs,usd,420895071,manual,2026-03-16,
 0xdbdc1ef57537e34680b898e1febd3d68c7389bcb,ethereum,token,siUSD,InfiniFi siUSD,infinifi,ybs,usd,22540416,manual,2026-03-16,false
-0xdbdc1ef57537e34680b898e1febd3d68c7389bcb,ethereum,token,siUSD,InfiniFi siUSD,infinifi,ybs,usd,22540416,manual,2026-03-16,false
-0xdbdc1ef57537e34680b898e1febd3d68c7389bcb,ethereum,token,siUSD,InfiniFi siUSD,infinifi,ybs,usd,22540416,manual,2026-03-16,
 0xc39a5a616f0ad1ff45077fa2de3f79ab8eb8b8b9,ethereum,token,MPLhysUSDC1,Maple Finance High Yield USDC,maple-finance,ybs,usd,19363393,manual,2026-03-16,false
-0xc39a5a616f0ad1ff45077fa2de3f79ab8eb8b8b9,ethereum,token,MPLhysUSDC1,Maple Finance High Yield USDC,maple-finance,ybs,usd,19363393,manual,2026-03-16,false
-0xc39a5a616f0ad1ff45077fa2de3f79ab8eb8b8b9,ethereum,token,MPLhysUSDC1,Maple Finance High Yield USDC,maple-finance,ybs,usd,19363393,manual,2026-03-16,
 0x41ca7586cc1311807b4605fbb748a3b8862b42b5,arbitrum,token,syrupUSDC,Maple Finance Syrup USDC,maple-finance,ybs,usd,360788969,manual,2026-03-16,false
-0x41ca7586cc1311807b4605fbb748a3b8862b42b5,arbitrum,token,syrupUSDC,Maple Finance Syrup USDC,maple-finance,ybs,usd,360788969,manual,2026-03-16,false
-0x41ca7586cc1311807b4605fbb748a3b8862b42b5,arbitrum,token,syrupUSDC,Maple Finance Syrup USDC,maple-finance,ybs,usd,360788969,manual,2026-03-16,
 0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b,ethereum,token,syrupUSDC,Maple Finance Syrup USDC,maple-finance,ybs,usd,19920366,manual,2026-03-16,false
-0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b,ethereum,token,syrupUSDC,Maple Finance Syrup USDC,maple-finance,ybs,usd,19920366,manual,2026-03-16,false
-0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b,ethereum,token,syrupUSDC,Maple Finance Syrup USDC,maple-finance,ybs,usd,19920366,manual,2026-03-16,
 0x4809010926aec940b550d34a46a52739f996d75d,arbitrum,token,wsrUSD,Reservoir Wrapped srUSD,reservoir,ybs,usd,346617834,manual,2026-03-16,false
-0x4809010926aec940b550d34a46a52739f996d75d,arbitrum,token,wsrUSD,Reservoir Wrapped srUSD,reservoir,ybs,usd,346617834,manual,2026-03-16,false
-0x4809010926aec940b550d34a46a52739f996d75d,arbitrum,token,wsrUSD,Reservoir Wrapped srUSD,reservoir,ybs,usd,346617834,manual,2026-03-16,
 0xd3fd63209fa2d55b07a0f6db36c2f43900be3094,ethereum,token,wsrUSD,Reservoir Wrapped srUSD,reservoir,ybs,usd,22275492,manual,2026-03-16,false
-0xd3fd63209fa2d55b07a0f6db36c2f43900be3094,ethereum,token,wsrUSD,Reservoir Wrapped srUSD,reservoir,ybs,usd,22275492,manual,2026-03-16,false
-0xd3fd63209fa2d55b07a0f6db36c2f43900be3094,ethereum,token,wsrUSD,Reservoir Wrapped srUSD,reservoir,ybs,usd,22275492,manual,2026-03-16,
 0x35e5db674d8e93a03d814fa0ada70731efe8a4b9,arbitrum,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,276753078,manual,2026-03-16,false
-0x35e5db674d8e93a03d814fa0ada70731efe8a4b9,arbitrum,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,276753078,manual,2026-03-16,false
-0x35e5db674d8e93a03d814fa0ada70731efe8a4b9,arbitrum,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,276753078,manual,2026-03-16,
 0xc31389794ffac23331e0d9f611b7953f90aa5fdc,base,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,22660585,manual,2026-03-16,false
-0xc31389794ffac23331e0d9f611b7953f90aa5fdc,base,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,22660585,manual,2026-03-16,false
-0xc31389794ffac23331e0d9f611b7953f90aa5fdc,base,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,22660585,manual,2026-03-16,
 0x4956b52ae2ff65d74ca2d61207523288e4528f96,ethereum,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,20006028,manual,2026-03-16,false
-0x4956b52ae2ff65d74ca2d61207523288e4528f96,ethereum,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,20006028,manual,2026-03-16,false
-0x4956b52ae2ff65d74ca2d61207523288e4528f96,ethereum,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,20006028,manual,2026-03-16,
 0x66cfbd79257dc5217903a36293120282548e2254,arbitrum,token,wstUSR,Resolv Wrapped Staked USR,resolv,ybs,usd,365114128,manual,2026-03-16,false
-0x66cfbd79257dc5217903a36293120282548e2254,arbitrum,token,wstUSR,Resolv Wrapped Staked USR,resolv,ybs,usd,365114128,manual,2026-03-16,false
-0x66cfbd79257dc5217903a36293120282548e2254,arbitrum,token,wstUSR,Resolv Wrapped Staked USR,resolv,ybs,usd,365114128,manual,2026-03-16,
 0xb67675158b412d53fe6b68946483ba920b135ba1,base,token,wstUSR,Resolv Wrapped Staked USR,resolv,ybs,usd,31498868,manual,2026-03-16,false
-0xb67675158b412d53fe6b68946483ba920b135ba1,base,token,wstUSR,Resolv Wrapped Staked USR,resolv,ybs,usd,31498868,manual,2026-03-16,false
-0xb67675158b412d53fe6b68946483ba920b135ba1,base,token,wstUSR,Resolv Wrapped Staked USR,resolv,ybs,usd,31498868,manual,2026-03-16,
 0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055,ethereum,token,wstUSR,Resolv Wrapped Staked USR,resolv,ybs,usd,20577431,manual,2026-03-16,false
-0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055,ethereum,token,wstUSR,Resolv Wrapped Staked USR,resolv,ybs,usd,20577431,manual,2026-03-16,false
-0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055,ethereum,token,wstUSR,Resolv Wrapped Staked USR,resolv,ybs,usd,20577431,manual,2026-03-16,
 0xddb46999f8891663a8f2828d25298f70416d7610,arbitrum,token,sUSDS,Sky Savings USDS,sky,ybs,usd,300480142,manual,2026-03-16,false
-0xddb46999f8891663a8f2828d25298f70416d7610,arbitrum,token,sUSDS,Sky Savings USDS,sky,ybs,usd,300480142,manual,2026-03-16,false
-0xddb46999f8891663a8f2828d25298f70416d7610,arbitrum,token,sUSDS,Sky Savings USDS,sky,ybs,usd,300480142,manual,2026-03-16,
 0x5875eee11cf8398102fdad704c9e96607675467a,base,token,sUSDS,Sky Savings USDS,sky,ybs,usd,20891577,manual,2026-03-16,false
-0x5875eee11cf8398102fdad704c9e96607675467a,base,token,sUSDS,Sky Savings USDS,sky,ybs,usd,20891577,manual,2026-03-16,false
-0x5875eee11cf8398102fdad704c9e96607675467a,base,token,sUSDS,Sky Savings USDS,sky,ybs,usd,20891577,manual,2026-03-16,
 0xa3931d71877c0e7a3148cb7eb4463524fec27fbd,ethereum,token,sUSDS,Sky Savings USDS,sky,ybs,usd,20677434,manual,2026-03-16,false
-0xa3931d71877c0e7a3148cb7eb4463524fec27fbd,ethereum,token,sUSDS,Sky Savings USDS,sky,ybs,usd,20677434,manual,2026-03-16,false
-0xa3931d71877c0e7a3148cb7eb4463524fec27fbd,ethereum,token,sUSDS,Sky Savings USDS,sky,ybs,usd,20677434,manual,2026-03-16,
 0x940098b108fb7d0a7e374f6eded7760787464609,arbitrum,token,sUSDC,Spark Savings USDC,spark,ybs,usd,311940473,manual,2026-03-16,false
-0x940098b108fb7d0a7e374f6eded7760787464609,arbitrum,token,sUSDC,Spark Savings USDC,spark,ybs,usd,311940473,manual,2026-03-16,false
-0x940098b108fb7d0a7e374f6eded7760787464609,arbitrum,token,sUSDC,Spark Savings USDC,spark,ybs,usd,311940473,manual,2026-03-16,
 0x3128a0f7f0ea68e7b7c9b00afa7e41045828e858,base,token,sUSDC,Spark Savings USDC,spark,ybs,usd,27123520,manual,2026-03-16,false
-0x3128a0f7f0ea68e7b7c9b00afa7e41045828e858,base,token,sUSDC,Spark Savings USDC,spark,ybs,usd,27123520,manual,2026-03-16,false
-0x3128a0f7f0ea68e7b7c9b00afa7e41045828e858,base,token,sUSDC,Spark Savings USDC,spark,ybs,usd,27123520,manual,2026-03-16,
 0xbc65ad17c5c0a2a4d159fa5a503f4992c7b545fe,ethereum,token,sUSDC,Spark Savings USDC,spark,ybs,usd,21969024,manual,2026-03-16,false
-0xbc65ad17c5c0a2a4d159fa5a503f4992c7b545fe,ethereum,token,sUSDC,Spark Savings USDC,spark,ybs,usd,21969024,manual,2026-03-16,false
-0xbc65ad17c5c0a2a4d159fa5a503f4992c7b545fe,ethereum,token,sUSDC,Spark Savings USDC,spark,ybs,usd,21969024,manual,2026-03-16,
 0x6eaf19b2fc24552925db245f9ff613157a7dbb4c,arbitrum,token,xUSD,Stream Finance xUSD,stream-finance,ybs,usd,307879463,manual,2026-03-16,false
-0x6eaf19b2fc24552925db245f9ff613157a7dbb4c,arbitrum,token,xUSD,Stream Finance xUSD,stream-finance,ybs,usd,307879463,manual,2026-03-16,false
-0x6eaf19b2fc24552925db245f9ff613157a7dbb4c,arbitrum,token,xUSD,Stream Finance xUSD,stream-finance,ybs,usd,307879463,manual,2026-03-16,
 0x0b2b2b2076d95dda7817e785989fe353fe955ef9,arbitrum,token,sUSDai,USDai Savings,usdai,ybs,usd,336209932,manual,2026-03-16,false
-0x0b2b2b2076d95dda7817e785989fe353fe955ef9,arbitrum,token,sUSDai,USDai Savings,usdai,ybs,usd,336209932,manual,2026-03-16,false
-0x0b2b2b2076d95dda7817e785989fe353fe955ef9,arbitrum,token,sUSDai,USDai Savings,usdai,ybs,usd,336209932,manual,2026-03-16,
 0x0b2b2b2076d95dda7817e785989fe353fe955ef9,base,token,sUSDai,USDai Savings,usdai,ybs,usd,38305764,manual,2026-03-16,false
-0x0b2b2b2076d95dda7817e785989fe353fe955ef9,base,token,sUSDai,USDai Savings,usdai,ybs,usd,38305764,manual,2026-03-16,false
-0x0b2b2b2076d95dda7817e785989fe353fe955ef9,base,token,sUSDai,USDai Savings,usdai,ybs,usd,38305764,manual,2026-03-16,
 0x0b2b2b2076d95dda7817e785989fe353fe955ef9,ethereum,token,sUSDai,USDai Savings,usdai,ybs,usd,22547979,manual,2026-03-16,false
-0x0b2b2b2076d95dda7817e785989fe353fe955ef9,ethereum,token,sUSDai,USDai Savings,usdai,ybs,usd,22547979,manual,2026-03-16,false
-0x0b2b2b2076d95dda7817e785989fe353fe955ef9,ethereum,token,sUSDai,USDai Savings,usdai,ybs,usd,22547979,manual,2026-03-16,
 0x4772d2e014f9fc3a820c444e3313968e9a5c8121,arbitrum,token,yUSD,YieldFi yUSD,yieldfi,ybs,usd,331795970,manual,2026-03-16,false
-0x4772d2e014f9fc3a820c444e3313968e9a5c8121,arbitrum,token,yUSD,YieldFi yUSD,yieldfi,ybs,usd,331795970,manual,2026-03-16,false
-0x4772d2e014f9fc3a820c444e3313968e9a5c8121,arbitrum,token,yUSD,YieldFi yUSD,yieldfi,ybs,usd,331795970,manual,2026-03-16,
 0x19ebd191f7a24ece672ba13a302212b5ef7f35cb,ethereum,token,yUSD,YieldFi yUSD,yieldfi,ybs,usd,22364927,manual,2026-03-16,false
-0x19ebd191f7a24ece672ba13a302212b5ef7f35cb,ethereum,token,yUSD,YieldFi yUSD,yieldfi,ybs,usd,22364927,manual,2026-03-16,false
-0x19ebd191f7a24ece672ba13a302212b5ef7f35cb,ethereum,token,yUSD,YieldFi yUSD,yieldfi,ybs,usd,22364927,manual,2026-03-16,
