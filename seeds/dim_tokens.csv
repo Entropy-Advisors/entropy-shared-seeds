@@ -119,7 +119,7 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0x408a634b8a8f0de729b48574a3a7ec3fe820b00a,polygon,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,48275966,manual,2026-03-16,false,18
 0xa1e4e13c43eb3e24cde4cd15bb6d4b021b5bf79c,polygon,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,42000442,manual,2026-03-16,false,18
 0x530824da86689c9c17cdc2871ff29b058345b44a,ethereum,token,STBT,Matrixdock Short-term Treasury Bill Token,matrixdock,rwa,us-treasuries,16431887,manual,2026-03-16,false,18
-0x59d9356e565ab3a36dd77763fc0d87feaf85508c,arbitrum,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,151351929,manual,2026-03-16,true,18
+0x59d9356e565ab3a36dd77763fc0d87feaf85508c,arbitrum,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,151351929,manual,2026-03-16,false,18
 0x59d9356e565ab3a36dd77763fc0d87feaf85508c,base,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,6698526,manual,2026-03-16,false,18
 0x59d9356e565ab3a36dd77763fc0d87feaf85508c,ethereum,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,17993230,manual,2026-03-16,false,18
 0x59d9356e565ab3a36dd77763fc0d87feaf85508c,optimism,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,112316948,manual,2026-03-16,false,18
@@ -193,7 +193,7 @@ GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2,stellar,token,EURC,Circ
 0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a,arbitrum,token,MIM,MIM,magic-internet-money,stablecoin,usd,779671,manual,2026-03-16,true,18
 0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3,ethereum,token,MIM,MIM,magic-internet-money,stablecoin,usd,12505975,manual,2026-03-16,false,18
 0xe343167631d89b6ffc58b88d6b7fb0228795491d,ethereum,token,USDG,Global Dollar,paxos,stablecoin,usd,20915336,manual,2026-03-16,true,6
-0x7f850b0ab1988dd17b69ac564c1e2857949e4dee,arbitrum,token,USDL,USDL Stablecoin,paxos,stablecoin,usd,233572971,manual,2026-03-16,true,18
+0x7f850b0ab1988dd17b69ac564c1e2857949e4dee,arbitrum,token,USDL,USDL Stablecoin,paxos,stablecoin,usd,233572971,manual,2026-03-16,false,18
 0x46850ad61c2b7d64d08c9c754f45254596696984,arbitrum,token,PYUSD,PayPal USD,paypal,stablecoin,usd,333898446,manual,2026-03-16,true,6
 0x6c3ea9036406852006290770bedfcaba0e23a0e8,ethereum,token,PYUSD,PYUSD,paypal,stablecoin,usd,15921958,manual,2026-03-16,false,6
 0x03ab458634910aad20ef5f1c8ee96f1d6ac54919,ethereum,token,RAI,RAI,rai,stablecoin,usd,11848426,manual,2026-03-16,false,18
