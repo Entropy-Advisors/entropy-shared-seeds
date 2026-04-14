@@ -1,5 +1,5 @@
 address,blockchain,address_type,symbol,name,entity,entity_type,category,start_block,source,date_added,track_holders,decimals
-0x912ce59144191c1204e64559fe8253a0e49e6548,arbitrum,token,ARB,Arbitrum,arbitrum,governance,,70398215,manual,2026-03-16,false,18
+0x912ce59144191c1204e64559fe8253a0e49e6548,arbitrum,token,ARB,Arbitrum,arbitrum,governance,,70398215,manual,2026-03-16,true,18
 0x5a0f93d040de44e78f251b03c43be9cf317dcf64,ethereum,token,JAAA,Janus Henderson Anemoy AAA CLO Fund,centrifuge,rwa,bond-etf,22297839,manual,2026-03-16,false,6
 0x57fcbd6503c8be3b1abad191bc7799ef414a5b31,polygon,token,TXAG,Aurus Tokenized Silver,aurus,rwa,commodities,34297772,manual,2026-03-16,false,18
 0xa6da8c8999c094432c77e7d318951d34019af24b,polygon,token,TXAU,Aurus Tokenized Gold,aurus,rwa,commodities,34296886,manual,2026-03-16,false,18
@@ -119,7 +119,7 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0x408a634b8a8f0de729b48574a3a7ec3fe820b00a,polygon,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,48275966,manual,2026-03-16,false,18
 0xa1e4e13c43eb3e24cde4cd15bb6d4b021b5bf79c,polygon,token,BENJI,Franklin OnChain U.S. Government Money Fund,franklin-templeton,rwa,us-treasuries,42000442,manual,2026-03-16,false,18
 0x530824da86689c9c17cdc2871ff29b058345b44a,ethereum,token,STBT,Matrixdock Short-term Treasury Bill Token,matrixdock,rwa,us-treasuries,16431887,manual,2026-03-16,false,18
-0x59d9356e565ab3a36dd77763fc0d87feaf85508c,arbitrum,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,151351929,manual,2026-03-16,false,18
+0x59d9356e565ab3a36dd77763fc0d87feaf85508c,arbitrum,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,151351929,manual,2026-03-16,true,18
 0x59d9356e565ab3a36dd77763fc0d87feaf85508c,base,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,6698526,manual,2026-03-16,false,18
 0x59d9356e565ab3a36dd77763fc0d87feaf85508c,ethereum,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,17993230,manual,2026-03-16,false,18
 0x59d9356e565ab3a36dd77763fc0d87feaf85508c,optimism,token,USDM,Mountain Protocol USD,mountain-protocol,rwa,us-treasuries,112316948,manual,2026-03-16,false,18
@@ -162,85 +162,85 @@ GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2,stellar,token,EURC,Circ
 0xdb25f211ab05b1c97d595516f45794528a807ad8,ethereum,token,EURS,EURS,stasis,stablecoin,eur,5835251,manual,2026-03-16,false,2
 0xc581b735a1688071a1746c968e0798d642ede491,ethereum,token,EURT,EURT,tether,stablecoin,eur,11016156,manual,2026-03-16,false,6
 0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee,base,token,GHO,Aave GHO Stablecoin,aave,stablecoin,usd,24786494,manual,2026-03-16,false,18
-0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33,arbitrum,token,GHO,GHO,aave,stablecoin,usd,224701178,manual,2026-03-16,false,18
+0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33,arbitrum,token,GHO,GHO,aave,stablecoin,usd,224701178,manual,2026-03-16,true,18
 0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f,ethereum,token,GHO,GHO,aave,stablecoin,usd,17698470,manual,2026-03-16,false,18
 0x00000000efe302beaa2b3e6e1b18d08d69a9012a,base,token,AUSD,AUSD,agora,stablecoin,usd,35760121,manual,2026-03-16,false,6
 0x00000000efe302beaa2b3e6e1b18d08d69a9012a,ethereum,token,AUSD,AUSD,agora,stablecoin,usd,20257620,manual,2026-03-16,false,6
 0x4fabb145d64652a948d72533023f6e7a623c7c53,ethereum,token,BUSD,BUSD,binance,stablecoin,usd,8493105,manual,2026-03-16,false,18
 0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca,base,token,USDbC,USDbC,circle,stablecoin,usd,2062407,manual,2026-03-16,false,6
-0xaf88d065e77c8cc2239327c5edb3a432268e5831,arbitrum,token,USDC,USDC,circle,stablecoin,usd,34266938,manual,2026-03-16,false,6
-0xff970a61a04b1ca14834a43f5de4533ebddb5cc8,arbitrum,token,USDC,USDC,circle,stablecoin,usd,2609,manual,2026-03-16,false,6
+0xaf88d065e77c8cc2239327c5edb3a432268e5831,arbitrum,token,USDC,USDC,circle,stablecoin,usd,34266938,manual,2026-03-16,true,6
+0xff970a61a04b1ca14834a43f5de4533ebddb5cc8,arbitrum,token,USDC,USDC,circle,stablecoin,usd,2609,manual,2026-03-16,true,6
 0x833589fcd6edb6e08f4c7c32d4f71b54bda02913,base,token,USDC,USDC,circle,stablecoin,usd,2797221,manual,2026-03-16,false,6
 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,ethereum,token,USDC,USDC,circle,stablecoin,usd,6082465,manual,2026-03-16,false,6
 0xf939e0a03fb07f59a73314e73794be0e57ac1b4e,ethereum,token,crvUSD,crvUSD,curve-finance,stablecoin,usd,17257952,manual,2026-03-16,false,18
-0xda10009cbd5d07dd0cecc66161fc93d7c9000da1,arbitrum,token,DAI,DAI,dai,stablecoin,usd,1336824,manual,2026-03-16,false,18
+0xda10009cbd5d07dd0cecc66161fc93d7c9000da1,arbitrum,token,DAI,DAI,dai,stablecoin,usd,1336824,manual,2026-03-16,true,18
 0x4621b7a9c75199271f773ebd9a499dbd165c3191,base,token,DOLA,DOLA,dola,stablecoin,usd,2361818,manual,2026-03-16,false,18
-0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34,arbitrum,token,USDe,Ethena USDe,ethena,stablecoin,usd,189133001,manual,2026-03-16,false,18
+0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34,arbitrum,token,USDe,Ethena USDe,ethena,stablecoin,usd,189133001,manual,2026-03-16,true,18
 0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34,base,token,USDe,Ethena USDe,ethena,stablecoin,usd,15768548,manual,2026-03-16,false,18
 0x4c9edd5852cd905f086c759e8383e09bff1e68b3,ethereum,token,USDe,USDe,ethena,stablecoin,usd,18571358,manual,2026-03-16,false,18
 0xc139190f447e929f090edeb554d95abb8b18ac1c,ethereum,token,USDtb,Ethena USDtb,ethena,stablecoin,usd,21287284,manual,2026-03-16,false,18
 0x956f47f50a910163d8bf957cf5846d573e7f87ca,ethereum,token,FEI,FEI,fei,stablecoin,usd,12125705,manual,2026-03-16,false,18
 0x7c135549504245b5eae64fc0e99fa5ebabb8e35d,ethereum,token,FIDD,Fidelity Digital Dollar,fidelity,stablecoin,usd,16991820,manual,2026-03-16,false,18
 0xc5f0f7b66764f6ec8c8dff7ba683102295e16409,ethereum,token,FDUSD,FDUSD,first-digital,stablecoin,usd,17144262,manual,2026-03-16,false,18
-0x17fc002b466eec40dae837fc4be5c67993ddbd6f,arbitrum,token,FRAX,FRAX,frax-finance,stablecoin,usd,1693791,manual,2026-03-16,false,18
+0x17fc002b466eec40dae837fc4be5c67993ddbd6f,arbitrum,token,FRAX,FRAX,frax-finance,stablecoin,usd,1693791,manual,2026-03-16,true,18
 0x853d955acef822db058eb8505911ed77f175b99e,ethereum,token,FRAX,FRAX,frax-finance,stablecoin,usd,11465581,manual,2026-03-16,false,18
 0x056fd409e1d7a124bd7017459dfea2f387b6d5cd,ethereum,token,GUSD,GUSD,gemini,stablecoin,usd,6301780,manual,2026-03-16,false,2
 0x5f98805a4e8be255a32880fdec7f6728c6568ba0,ethereum,token,LUSD,LUSD,liquity,stablecoin,usd,12178594,manual,2026-03-16,false,18
 0xa47c8bf37f92abed4a126bda807a7b7498661acd,ethereum,token,UST,UST,luna,stablecoin,usd,11345219,manual,2026-03-16,false,18
 0xa693b19d2931d498c5b318df961919bb4aee87a5,ethereum,token,UST,UST,luna,stablecoin,usd,13408366,manual,2026-03-16,false,6
-0x437cc33344a0b27a429f795ff6b469c72698b291,arbitrum,token,wM,M0 Wrapped M,m0,stablecoin,usd,307758620,manual,2026-03-16,false,6
+0x437cc33344a0b27a429f795ff6b469c72698b291,arbitrum,token,wM,M0 Wrapped M,m0,stablecoin,usd,307758620,manual,2026-03-16,true,6
 0x437cc33344a0b27a429f795ff6b469c72698b291,ethereum,token,wM,M0 Wrapped M,m0,stablecoin,usd,20527882,manual,2026-03-16,false,6
-0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a,arbitrum,token,MIM,MIM,magic-internet-money,stablecoin,usd,779671,manual,2026-03-16,false,18
+0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a,arbitrum,token,MIM,MIM,magic-internet-money,stablecoin,usd,779671,manual,2026-03-16,true,18
 0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3,ethereum,token,MIM,MIM,magic-internet-money,stablecoin,usd,12505975,manual,2026-03-16,false,18
 0xe343167631d89b6ffc58b88d6b7fb0228795491d,ethereum,token,USDG,Global Dollar,paxos,stablecoin,usd,20915336,manual,2026-03-16,true,6
-0x7f850b0ab1988dd17b69ac564c1e2857949e4dee,arbitrum,token,USDL,USDL Stablecoin,paxos,stablecoin,usd,233572971,manual,2026-03-16,false,18
-0x46850ad61c2b7d64d08c9c754f45254596696984,arbitrum,token,PYUSD,PayPal USD,paypal,stablecoin,usd,333898446,manual,2026-03-16,false,6
+0x7f850b0ab1988dd17b69ac564c1e2857949e4dee,arbitrum,token,USDL,USDL Stablecoin,paxos,stablecoin,usd,233572971,manual,2026-03-16,true,18
+0x46850ad61c2b7d64d08c9c754f45254596696984,arbitrum,token,PYUSD,PayPal USD,paypal,stablecoin,usd,333898446,manual,2026-03-16,true,6
 0x6c3ea9036406852006290770bedfcaba0e23a0e8,ethereum,token,PYUSD,PYUSD,paypal,stablecoin,usd,15921958,manual,2026-03-16,false,6
 0x03ab458634910aad20ef5f1c8ee96f1d6ac54919,ethereum,token,RAI,RAI,rai,stablecoin,usd,11848426,manual,2026-03-16,false,18
 0x8292bb45bf1ee4d140127049757c2e0ff06317ed,ethereum,token,RLUSD,RLUSD,ripple,stablecoin,usd,20492031,manual,2026-03-16,false,18
 0x50c5725949a6f0c72e6c4a641f24049a917db0cb,base,token,DAI,DAI,sky,stablecoin,usd,1569598,manual,2026-03-16,false,18
 0x6b175474e89094c44da98b954eedeac495271d0f,ethereum,token,DAI,DAI,sky,stablecoin,usd,8928158,manual,2026-03-16,false,18
-0x6491c05a82219b8d1479057361ff1654749b876b,arbitrum,token,USDS,Sky USDS,sky,stablecoin,usd,298070730,manual,2026-03-16,false,18
+0x6491c05a82219b8d1479057361ff1654749b876b,arbitrum,token,USDS,Sky USDS,sky,stablecoin,usd,298070730,manual,2026-03-16,true,18
 0xdc035d45d973e3ec169d2276ddab16f1e407384f,ethereum,token,USDS,USDS,sky,stablecoin,usd,20663730,manual,2026-03-16,false,18
 0x70e8de73ce538da2beed35d14187f6959a8eca96,ethereum,token,XSGD,XSGD,straitsx,stablecoin,usd,9739765,manual,2026-03-16,false,6
 0x07041776f5007aca2a54844f50503a18a72a8b68,ethereum,token,USAT,Tether USAT,tether,stablecoin,usd,23998151,manual,2026-03-16,false,6
-0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9,arbitrum,token,USDT,Tether USD,tether,stablecoin,usd,228105,manual,2026-03-16,false,6
+0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9,arbitrum,token,USDT,Tether USD,tether,stablecoin,usd,228105,manual,2026-03-16,true,6
 0xfde4c96c8593536e31f229ea8f37b2ada2699bb2,base,token,USDT,USDT,tether,stablecoin,usd,12044917,manual,2026-03-16,false,6
 0xdac17f958d2ee523a2206206994597c13d831ec7,ethereum,token,USDT,USDT,tether,stablecoin,usd,4634748,manual,2026-03-16,false,6
 0x102d758f688a4c1c5a80b116bd945d4455460282,base,token,USD₮0,USD₮0,tether,stablecoin,usd,28195144,manual,2026-03-16,false,6
-0x4d15a3a2286d883af0aa1b3f21367843fac63e07,arbitrum,token,TUSD,TUSD,truefi,stablecoin,usd,2132061,manual,2026-03-16,false,18
+0x4d15a3a2286d883af0aa1b3f21367843fac63e07,arbitrum,token,TUSD,TUSD,truefi,stablecoin,usd,2132061,manual,2026-03-16,true,18
 0x0000000000085d4780b73119b644ae5ecd22b376,ethereum,token,TUSD,TUSD,truefi,stablecoin,usd,6988184,manual,2026-03-16,false,18
-0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef,arbitrum,token,USDai,USDai Stablecoin,usdai,stablecoin,usd,336209932,manual,2026-03-16,false,18
+0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef,arbitrum,token,USDai,USDai Stablecoin,usdai,stablecoin,usd,336209932,manual,2026-03-16,true,18
 0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef,base,token,USDai,USDai Stablecoin,usdai,stablecoin,usd,38305764,manual,2026-03-16,false,18
 0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6,ethereum,token,USDD,USDD,usdd,stablecoin,usd,14685838,manual,2026-03-16,false,18
 0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110,ethereum,token,USR,USR,usr,stablecoin,usd,20005922,manual,2026-03-16,false,18
 0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d,ethereum,token,USD1,USD1,world-liberty-financial,stablecoin,usd,21720503,manual,2026-03-16,false,18
 0xebf2096e01455108badcbaf86ce30b6e5a72aa52,ethereum,token,XIDR,XIDR,xidr,stablecoin,usd,10359505,manual,2026-03-16,false,6
-0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2,arbitrum,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,189133410,manual,2026-03-16,false,18
+0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2,arbitrum,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,189133410,manual,2026-03-16,true,18
 0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2,base,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,15768618,manual,2026-03-16,false,18
 0x9d39a5de30e57443bff2a8307a4256c8797a3497,ethereum,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,18571359,manual,2026-03-16,false,18
-0x51b0f6aed4a421f09d28a5ede1dcf460bcb54d30,arbitrum,token,siUSD,InfiniFi siUSD,infinifi,ybs,usd,420895071,manual,2026-03-16,false,18
+0x51b0f6aed4a421f09d28a5ede1dcf460bcb54d30,arbitrum,token,siUSD,InfiniFi siUSD,infinifi,ybs,usd,420895071,manual,2026-03-16,true,18
 0xdbdc1ef57537e34680b898e1febd3d68c7389bcb,ethereum,token,siUSD,InfiniFi siUSD,infinifi,ybs,usd,22540416,manual,2026-03-16,false,18
 0xc39a5a616f0ad1ff45077fa2de3f79ab8eb8b8b9,ethereum,token,MPLhysUSDC1,Maple Finance High Yield USDC,maple-finance,ybs,usd,19363393,manual,2026-03-16,false,6
-0x41ca7586cc1311807b4605fbb748a3b8862b42b5,arbitrum,token,syrupUSDC,Maple Finance Syrup USDC,maple-finance,ybs,usd,360788969,manual,2026-03-16,false,6
+0x41ca7586cc1311807b4605fbb748a3b8862b42b5,arbitrum,token,syrupUSDC,Maple Finance Syrup USDC,maple-finance,ybs,usd,360788969,manual,2026-03-16,true,6
 0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b,ethereum,token,syrupUSDC,Maple Finance Syrup USDC,maple-finance,ybs,usd,19920366,manual,2026-03-16,false,6
-0x4809010926aec940b550d34a46a52739f996d75d,arbitrum,token,wsrUSD,Reservoir Wrapped srUSD,reservoir,ybs,usd,346617834,manual,2026-03-16,false,18
+0x4809010926aec940b550d34a46a52739f996d75d,arbitrum,token,wsrUSD,Reservoir Wrapped srUSD,reservoir,ybs,usd,346617834,manual,2026-03-16,true,18
 0xd3fd63209fa2d55b07a0f6db36c2f43900be3094,ethereum,token,wsrUSD,Reservoir Wrapped srUSD,reservoir,ybs,usd,22275492,manual,2026-03-16,false,18
-0x35e5db674d8e93a03d814fa0ada70731efe8a4b9,arbitrum,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,276753078,manual,2026-03-16,false,18
+0x35e5db674d8e93a03d814fa0ada70731efe8a4b9,arbitrum,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,276753078,manual,2026-03-16,true,18
 0xc31389794ffac23331e0d9f611b7953f90aa5fdc,base,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,22660585,manual,2026-03-16,false,18
 0x4956b52ae2ff65d74ca2d61207523288e4528f96,ethereum,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,20006028,manual,2026-03-16,false,18
-0x66cfbd79257dc5217903a36293120282548e2254,arbitrum,token,wstUSR,Resolv Wrapped Staked USR,resolv,ybs,usd,365114128,manual,2026-03-16,false,18
+0x66cfbd79257dc5217903a36293120282548e2254,arbitrum,token,wstUSR,Resolv Wrapped Staked USR,resolv,ybs,usd,365114128,manual,2026-03-16,true,18
 0xb67675158b412d53fe6b68946483ba920b135ba1,base,token,wstUSR,Resolv Wrapped Staked USR,resolv,ybs,usd,31498868,manual,2026-03-16,false,18
 0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055,ethereum,token,wstUSR,Resolv Wrapped Staked USR,resolv,ybs,usd,20577431,manual,2026-03-16,false,18
-0xddb46999f8891663a8f2828d25298f70416d7610,arbitrum,token,sUSDS,Sky Savings USDS,sky,ybs,usd,300480142,manual,2026-03-16,false,18
+0xddb46999f8891663a8f2828d25298f70416d7610,arbitrum,token,sUSDS,Sky Savings USDS,sky,ybs,usd,300480142,manual,2026-03-16,true,18
 0x5875eee11cf8398102fdad704c9e96607675467a,base,token,sUSDS,Sky Savings USDS,sky,ybs,usd,20891577,manual,2026-03-16,false,18
 0xa3931d71877c0e7a3148cb7eb4463524fec27fbd,ethereum,token,sUSDS,Sky Savings USDS,sky,ybs,usd,20677434,manual,2026-03-16,false,18
-0x940098b108fb7d0a7e374f6eded7760787464609,arbitrum,token,sUSDC,Spark Savings USDC,spark,ybs,usd,311940473,manual,2026-03-16,false,18
+0x940098b108fb7d0a7e374f6eded7760787464609,arbitrum,token,sUSDC,Spark Savings USDC,spark,ybs,usd,311940473,manual,2026-03-16,true,18
 0x3128a0f7f0ea68e7b7c9b00afa7e41045828e858,base,token,sUSDC,Spark Savings USDC,spark,ybs,usd,27123520,manual,2026-03-16,false,18
 0xbc65ad17c5c0a2a4d159fa5a503f4992c7b545fe,ethereum,token,sUSDC,Spark Savings USDC,spark,ybs,usd,21969024,manual,2026-03-16,false,18
-0x6eaf19b2fc24552925db245f9ff613157a7dbb4c,arbitrum,token,xUSD,Stream Finance xUSD,stream-finance,ybs,usd,307879463,manual,2026-03-16,false,6
-0x0b2b2b2076d95dda7817e785989fe353fe955ef9,arbitrum,token,sUSDai,USDai Savings,usdai,ybs,usd,336209932,manual,2026-03-16,false,18
+0x6eaf19b2fc24552925db245f9ff613157a7dbb4c,arbitrum,token,xUSD,Stream Finance xUSD,stream-finance,ybs,usd,307879463,manual,2026-03-16,true,6
+0x0b2b2b2076d95dda7817e785989fe353fe955ef9,arbitrum,token,sUSDai,USDai Savings,usdai,ybs,usd,336209932,manual,2026-03-16,true,18
 0x0b2b2b2076d95dda7817e785989fe353fe955ef9,base,token,sUSDai,USDai Savings,usdai,ybs,usd,38305764,manual,2026-03-16,false,18
 0x0b2b2b2076d95dda7817e785989fe353fe955ef9,ethereum,token,sUSDai,USDai Savings,usdai,ybs,usd,22547979,manual,2026-03-16,false,18
-0x4772d2e014f9fc3a820c444e3313968e9a5c8121,arbitrum,token,yUSD,YieldFi yUSD,yieldfi,ybs,usd,331795970,manual,2026-03-16,false,18
+0x4772d2e014f9fc3a820c444e3313968e9a5c8121,arbitrum,token,yUSD,YieldFi yUSD,yieldfi,ybs,usd,331795970,manual,2026-03-16,true,18
 0x19ebd191f7a24ece672ba13a302212b5ef7f35cb,ethereum,token,yUSD,YieldFi yUSD,yieldfi,ybs,usd,22364927,manual,2026-03-16,false,18
