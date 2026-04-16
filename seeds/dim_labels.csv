@@ -255,3 +255,5 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0x50db58e1774cb7922d1bf96a267b52e8bb41c0ce,arbitrum,entity,,Tally: ARB Staking & Tally Support,tally,service-provider,,,manual,2026-03-16,false
 0x5c04e7808455ee0e22c2773328c151d0dd79dc62,arbitrum,entity,,Tally: ARB Staking & Tally Support,tally,service-provider,,,manual,2026-03-16,false
 0xc98786d5a7a03c1e74affcb97ff7ef8a710da09b,arbitrum,entity,,Tally: ARB Staking & Tally Support,tally,service-provider,,,manual,2026-03-16,false
+0x6c3d445b40a01ce4af942bd0a0a05ca33ee7e7b2,arbitrum,entity,,Referral Reward Pool,variational,perps,referral,400333289,manual,2026-04-16,false
+0x84be56470d45b7f6629a66a219a38681f6ba6172,arbitrum,entity,,Referral Router,variational,perps,referral,300691449,manual,2026-04-16,false
