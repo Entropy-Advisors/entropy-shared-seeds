@@ -102,9 +102,11 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0xa71a021ef66b03e45e0d85590432dfcfa1b7174c,arbitrum,entity,,Abracadabra DAO,abracadabra-dao,delegate,,,manual,2026-03-16,false
 0x3d1846ea60001a3bc21438d76f3958422fe89adb,arbitrum,entity,,Alpha Insiders,alpha-insiders,delegate,,,manual,2026-03-16,false
 0xa9e777d56c0ad861f6a03967e080e767ad8d39b6,arbitrum,entity,,APE - AAVE Protocol Embassy,ape-aave-protocol-embassy,delegate,,,manual,2026-03-16,false
+0x4fd86a688f36ada5d6b7eb76bb88e570c9deec86,arbitrum,entity,,aranadigital-arb.eth,aranadigital-arb,delegate,,,manual,2026-04-16,false
 0x8b37a5af68d315cf5a64097d96621f64b5502a22,arbitrum,entity,,Areta,areta,delegate,,,manual,2026-03-16,false
 0x7ae109a63ff4dc852e063a673b40bed85d22e585,arbitrum,entity,,Blockchain at Berkeley,blockchain-at-berkeley,delegate,,,manual,2026-03-16,false
 0xa5df0cf3f95c6cd97d998b9d990a86864095d9b0,arbitrum,entity,,Blockworks Research,blockworks-research,delegate,,,manual,2026-03-16,false
+0xb29a655f3d67b2b6724fb22b2c2303cb660c946b,arbitrum,entity,,bobrossi.eth,bobrossi,delegate,,,manual,2026-04-16,false
 0x6a26afb01ff57e827079658238858d55774ca2d5,arbitrum,entity,,BrianFakhoury,brianfakhoury,delegate,,,manual,2026-03-16,false
 0x88bd639d6b029596b029c61490f29f57b0bf4a3f,arbitrum,entity,,Bruce1,bruce1,delegate,,,manual,2026-03-16,false
 0x2e3bef6830ae84bb4225d318f9f61b6b88c147bf,arbitrum,entity,,Camelot,camelot,delegate,,,manual,2026-03-16,false
@@ -114,6 +116,7 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0x6f9bb7e454f5b3eb2310343f0e99269dc2bb8a1d,arbitrum,entity,,cp0x,cp0x,delegate,,,manual,2026-03-16,false
 0x5b39c3907bd9db69b435a6cbf485915135ffffd6,arbitrum,entity,,DefragDAO,defragdao,delegate,,,manual,2026-03-16,false
 0xad16ebe6ffc7d96624a380f394cd64395b0c6144,arbitrum,entity,,DK (Premia),dk-premia,delegate,,,manual,2026-03-16,false
+0xc7782d8bfbe4219a63ed8773a7b67b1a9b645cfa,arbitrum,entity,,DZack23.eth,dzack23,delegate,,,manual,2026-04-16,false
 0xb4c064f466931b8d0f637654c916e3f203c46f13,arbitrum,entity,,Entropy Advisors,entropy-advisors,delegate,,,manual,2026-03-16,false
 0xe48c655276c23f1534ae2a87a2bf8a8a6585df70,arbitrum,entity,,Eric Wall,eric-wall,delegate,,,manual,2026-03-16,false
 0x0edb976ce9b3b08c7e0a20a89bf1bce0e5f99356,arbitrum,entity,,Event Horizon (Arbitrum Community),event-horizon,delegate,,,manual,2026-03-16,false
@@ -125,6 +128,7 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0x11cd09a0c5b1dc674615783b0772a9bfd53e3a8f,arbitrum,entity,,Gauntlet - Arbitrum,gauntlet-arbitrum,delegate,,,manual,2026-03-16,false
 0xa6e8772af29b29b9202a073f8e36f447689beef6,arbitrum,entity,,GFX Labs,gfx-labs,delegate,,,manual,2026-03-16,false
 0x183d275ac4a046d549ad4dc89c41bff49d632fa3,arbitrum,entity,,GMX,gmx,delegate,,,manual,2026-03-16,false
+0xba875ded061896896654f87e3b0bb908232cd4ea,arbitrum,entity,,Greg Canessa,greg-canessa,delegate,,,manual,2026-04-16,false
 0x839395e20bbb182fa440d08f850e6c7a8f6f0780,arbitrum,entity,,Griff Green,griff-green,delegate,,,manual,2026-03-16,false
 0x4f685b29514eed0c9d929386e86d9cd81981118b,arbitrum,entity,,JoJoTheCow,jojothecow,delegate,,,manual,2026-03-16,false
 0x583e3edc26e1b8620341bce90547197bfe2c1ddd,arbitrum,entity,,karpatkey,karpatkey,delegate,,,manual,2026-03-16,false
@@ -137,10 +141,12 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0xd333bc5c9670c9ceb18f9a2cf02c6e86807a8227,arbitrum,entity,,MaxLomu,maxlomu,delegate,,,manual,2026-03-16,false
 0x0eb5b03c0303f2f47cd81d7be4275af8ed347576,arbitrum,entity,,Merlyn Labs,merlyn-labs,delegate,,,manual,2026-03-16,false
 0x13bdae8c5f0fc40231f0e6a4ad70196f59138548,arbitrum,entity,,Michigan Blockchain,michigan-blockchain,delegate,,,manual,2026-03-16,false
+0x8f73be66ca8c79382f72139be03746343bf5faa0,arbitrum,entity,,mihal.eth,mihal,delegate,,,manual,2026-04-16,false
 0x2ef27b114917dd53f8633440a7c0328fef132e2f,arbitrum,entity,,Mux Protocol,mux-protocol,delegate,,,manual,2026-03-16,false
 0xf4b0556b9b6f53e00a1fdd2b0478ce841991d8fa,arbitrum,entity,,Olimpio,olimpio,delegate,,,manual,2026-03-16,false
 0x4149dfbe618d83c80b0d4d537a7827f3d537b45c,arbitrum,entity,,P2P.org,p2p-org,delegate,,,manual,2026-03-16,false
 0x56721131d21a170fbb084734dcc399a278234298,arbitrum,entity,,Pantera Capital,pantera-capital,delegate,,,manual,2026-03-16,false
+0xf6b6f07862a02c85628b3a9688beae07fea9c863,arbitrum,entity,,Patricio Worthalter,patricio-worthalter,delegate,,,manual,2026-04-16,false
 0xe594469fde6ae29943a64f81d95c20f5f8eb2e04,arbitrum,entity,,Paulo Fonseca,paulo-fonseca,delegate,,,manual,2026-03-16,false
 0xbbe98d590d7eb99f4a236587f2441826396053d3,arbitrum,entity,,PlutusDAO,plutusdao,delegate,,,manual,2026-03-16,false
 0x18bf1a97744539a348304e9d266aac7d446a1582,arbitrum,entity,,Princeton Blockchain Club,princeton-blockchain-club,delegate,,,manual,2026-03-16,false
@@ -149,11 +155,14 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0xababe91a907fadff921720c43abe4098e7245e99,arbitrum,entity,,SEED Gov,seed-gov,delegate,,,manual,2026-03-16,false
 0x9808e45c613eba00ba18fb3d314dc4d4712c4a85,arbitrum,entity,,Soby,soby,delegate,,,manual,2026-03-16,false
 0x978982772b8e4055b921bf9295c0d74eb36bc54e,arbitrum,entity,,Sushi,sushi,delegate,,,manual,2026-03-16,false
+0xfa0142febf46e3f1e33a1c03922c365f882725ca,arbitrum,entity,,Today in DeFi Research,today-in-defi-research,delegate,,,manual,2026-04-16,false
+0x8326d18edfc50b4335113c33b25116ec268ff3fe,arbitrum,entity,,UniswapDAO,uniswapdao,delegate,,,manual,2026-04-16,false
 0x05bd5b09e673405e671493b24ecbf43188d5d4c3,arbitrum,entity,,Utopia Labs,utopia-labs,delegate,,,manual,2026-03-16,false
 0x9d64c41ec3a1f49952de2e16ebb0723022f75008,arbitrum,entity,,Vertex DAO,vertex-dao,delegate,,,manual,2026-03-16,false
 0xd4aa67f778bba2805bc122f18f3d61df59c7a542,arbitrum,entity,,Whiz Wang,whiz-wang,delegate,,,manual,2026-03-16,false
 0xb933aee47c438f22de0747d57fc239fe37878dd1,arbitrum,entity,,Wintermute Governance,wintermute-governance,delegate,,,manual,2026-03-16,false
 0x0a9eeddaa65546ad35d3f0ac9e6f09575e4c9297,arbitrum,entity,,WOOFi,woofi,delegate,,,manual,2026-03-16,false
+0xdb5781a835b60110298ff7205d8ef9678ff1f800,arbitrum,entity,,yoav.eth,yoav,delegate,,,manual,2026-04-16,false
 0xa6a7020b3276e86011a33638f3cd8fe02d5e4b61,arbitrum,entity,,Curve Finance: Curve Finance Grant Request,curve-finance,dex,,,manual,2026-03-16,false
 0xd6c8a4e72584f24bd5517afed6c01d21477c17f6,arbitrum,entity,,Arbitrum Foundation: Foundation Administrative Budget,arbitrum-foundation,foundation,foundation-administrative-budget,,manual,2026-03-16,false
 0x15533b77981cda0f85c4f9a485237df4285d6844,arbitrum,entity,,Arbitrum Foundation: Vesting Vault,arbitrum-foundation,foundation,vesting,,manual,2026-03-16,false
