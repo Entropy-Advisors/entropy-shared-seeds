@@ -7,3 +7,11 @@ seed-paths: ["seeds"]
 seeds:
   entropy_shared_seeds:
     +quote_columns: true
+    dim_proposals:
+      +column_types:
+        dao: varchar(50)
+        number: int
+        id: varchar(100)
+        title: varchar(500)
+        category: varchar(100)
+        theme: varchar(100)
