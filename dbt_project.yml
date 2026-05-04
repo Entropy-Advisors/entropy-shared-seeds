@@ -15,3 +15,10 @@ seeds:
         title: varchar(500)
         category: varchar(100)
         theme: varchar(100)
+    dim_dex_factory_addresses:
+      +column_types:
+        protocol: varchar
+        version: varchar
+        blockchain: varchar
+        address: varchar
+        min_block_number: bigint
