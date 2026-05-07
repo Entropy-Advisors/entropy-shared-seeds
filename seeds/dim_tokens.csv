@@ -245,3 +245,5 @@ GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2,stellar,token,EURC,Circ
 0x4772d2e014f9fc3a820c444e3313968e9a5c8121,arbitrum,token,yUSD,YieldFi yUSD,yieldfi,ybs,usd,331795970,manual,2026-03-16,true,18
 0x19ebd191f7a24ece672ba13a302212b5ef7f35cb,ethereum,token,yUSD,YieldFi yUSD,yieldfi,ybs,usd,22364927,manual,2026-03-16,false,18
 GAP2JFYUBSSY65FIFUN3NTUKP6MQQ52QETQEBDM25PFMQE2EEN2EEURC,stellar,prices,EURC,Circle Euro Coin,circle,stablecoin,eur,,manual,2026-04-29,false,6
+0xe343167631d89b6ffc58b88d6b7fb0228795491d,ink,token,USDG,Global Dollar,paxos,stablecoin,usd,11327836,manual,2026-05-07,true,6
+0x4ae46a509f6b1d9056937ba4500cb143933d2dc8,xlayer,token,USDG,Global Dollar,paxos,stablecoin,usd,36086026,manual,2026-05-07,true,6
