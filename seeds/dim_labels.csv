@@ -225,6 +225,7 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0x1e14a2af06235c1de63edfc0c1523f0a31508a56,arbitrum,entity,,Jake Nyquist,jake-nyquist,security-council,nominee,,manual,2026-04-09,
 0x8338a37fc474d2bb0f29997458baea8b51765df4,arbitrum,entity,,Jake Nyquist,jake-nyquist,security-council,nominee,,manual,2026-04-09,
 0x3e286452b1c66abb08eb5494c3894f40ab5a59af,arbitrum,entity,,John Morrow (Gauntlet),john-morrow,security-council,nominee,,manual,2026-04-09,
+0x78bb97d2f3811256d7f0041e81aaf4b426ef3b67,arbitrum,entity,,John Morrow,john-morrow,security-council,nominee,,manual,2026-05-20,
 0xf948e06c29db647ffe21b9fab9d162c457cd6828,arbitrum,entity,,Josef Gattermayer,josef-gattermayer,security-council,nominee,,manual,2026-04-09,
 0x97cab8ee5547a6e4affad689a25d11b6dd920ef8,arbitrum,entity,,Justin Leroux,justin-leroux,security-council,nominee,,manual,2026-04-09,
 0xe1197e2ab23ee33c99ec91f17198d5264fc7df20,arbitrum,entity,,kemmio,kemmio,security-council,nominee,,manual,2026-04-09,
