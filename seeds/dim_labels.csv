@@ -267,3 +267,8 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0xc98786d5a7a03c1e74affcb97ff7ef8a710da09b,arbitrum,entity,,Tally: ARB Staking & Tally Support,tally,service-provider,,,manual,2026-03-16,false
 0x6c3d445b40a01ce4af942bd0a0a05ca33ee7e7b2,arbitrum,entity,,Referral Reward Pool,variational,perps,referral,400333289,manual,2026-04-16,false
 0x84be56470d45b7f6629a66a219a38681f6ba6172,arbitrum,entity,,Referral Router,variational,perps,referral,300691449,manual,2026-04-16,false
+0xdf8755334ce7a73ccf6b581c02ea649ae3e864b3,ethereum,contract,,Robinhood Chain: ETH Bridge,robinhood,chain,bridge,24994238,manual,2026-06-16,false
+0x85001cc4867c5e1c22da4b79bb8852b9e2a06da0,ethereum,contract,,Robinhood Chain: L1ERC20Gateway,robinhood,chain,bridge,24994239,manual,2026-06-16,false
+0x9368eaebfe6e063c69dcf8126711a6997e0ecee1,ethereum,contract,,Robinhood Chain: L1CustomGateway,robinhood,chain,bridge,24994239,manual,2026-06-16,false
+0xf7e12b9614b509c747ab4423bc4acf923759cf1b,ethereum,contract,,Robinhood Chain: L1WethGateway,robinhood,chain,bridge,24994239,manual,2026-06-16,false
+
