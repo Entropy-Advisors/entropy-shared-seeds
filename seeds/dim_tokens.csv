@@ -216,6 +216,8 @@ GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2,stellar,token,EURC,Circ
 0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110,ethereum,token,USR,USR,usr,stablecoin,usd,20005922,manual,2026-03-16,false,18
 0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d,ethereum,token,USD1,USD1,world-liberty-financial,stablecoin,usd,21720503,manual,2026-03-16,false,18
 0xebf2096e01455108badcbaf86ce30b6e5a72aa52,ethereum,token,XIDR,XIDR,xidr,stablecoin,usd,10359505,manual,2026-03-16,false,6
+0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168,robinhood,token,USDG,Global Dollar,paxos,stablecoin,usd,57,manual,2026-06-16,true,6
+0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34,robinhood,token,USDe,Ethena USDe,ethena,stablecoin,usd,29380,manual,2026-06-16,true,18
 0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2,arbitrum,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,189133410,manual,2026-03-16,true,18
 0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2,base,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,15768618,manual,2026-03-16,false,18
 0x9d39a5de30e57443bff2a8307a4256c8797a3497,ethereum,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,18571359,manual,2026-03-16,false,18
@@ -249,8 +251,6 @@ GAP2JFYUBSSY65FIFUN3NTUKP6MQQ52QETQEBDM25PFMQE2EEN2EEURC,stellar,prices,EURC,Cir
 0x4ae46a509f6b1d9056937ba4500cb143933d2dc8,xlayer,token,USDG,Global Dollar,paxos,stablecoin,usd,36086026,manual,2026-05-07,true,6
 2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH,solana,token,USDG,Global Dollar,paxos,stablecoin,usd,321211480,manual,2026-05-07,true,6
 0x004B506865409877C9fA29bfb1ebA929984B9bbC,arbitrum,token,USDG,Global Dollar,paxos,stablecoin,usd,431365605,manual,2026-06-06,true,6
-0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168,robinhood,token,USDG,Global Dollar,paxos,stablecoin,usd,57,manual,2026-06-16,true,6
-0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34,robinhood,token,USDe,Ethena USDe,ethena,stablecoin,usd,29380,manual,2026-06-16,true,18
 0x40858070814a57FdF33a613ae84fE0a8b4a874f7,robinhood,token,syrupUSDG,Maple Finance Syrup USDG,maple-finance,ybs,usd,33039,manual,2026-06-16,true,6
 0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2,robinhood,token,USDe,Ethena Staked USDe,ethena,ybs,usd,29382,manual,2026-06-16,true,18
 0xde770c84FE66E063336b31737cFE9790f18c4087,robinhood,token,spUSDG,Spark Savings USDG,spark,ybs,usd,31331,manual,2026-06-16,true,6
