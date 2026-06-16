@@ -252,5 +252,5 @@ GAP2JFYUBSSY65FIFUN3NTUKP6MQQ52QETQEBDM25PFMQE2EEN2EEURC,stellar,prices,EURC,Cir
 2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH,solana,token,USDG,Global Dollar,paxos,stablecoin,usd,321211480,manual,2026-05-07,true,6
 0x004B506865409877C9fA29bfb1ebA929984B9bbC,arbitrum,token,USDG,Global Dollar,paxos,stablecoin,usd,431365605,manual,2026-06-06,true,6
 0x40858070814a57FdF33a613ae84fE0a8b4a874f7,robinhood,token,syrupUSDG,Maple Finance Syrup USDG,maple-finance,ybs,usd,33039,manual,2026-06-16,true,6
-0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2,robinhood,token,USDe,Ethena Staked USDe,ethena,ybs,usd,29382,manual,2026-06-16,true,18
+0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2,robinhood,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,29382,manual,2026-06-16,true,18
 0xde770c84FE66E063336b31737cFE9790f18c4087,robinhood,token,spUSDG,Spark Savings USDG,spark,ybs,usd,31331,manual,2026-06-16,true,6
