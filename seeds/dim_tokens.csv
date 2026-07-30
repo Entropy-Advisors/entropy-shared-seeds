@@ -254,3 +254,10 @@ GAP2JFYUBSSY65FIFUN3NTUKP6MQQ52QETQEBDM25PFMQE2EEN2EEURC,stellar,prices,EURC,Cir
 0x40858070814a57FdF33a613ae84fE0a8b4a874f7,robinhood,token,syrupUSDG,Maple Finance Syrup USDG,maple-finance,ybs,usd,33039,manual,2026-06-16,true,6
 0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2,robinhood,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,29382,manual,2026-06-16,true,18
 0xde770c84FE66E063336b31737cFE9790f18c4087,robinhood,token,spUSDG,Spark Savings USDG,spark,ybs,usd,31331,manual,2026-06-16,true,6
+0x4f11d7603d1b0d0f021db552d8a6d88d7fa38ecf,robinhood,token,aUSD,Arrow USD,arrow finance,stablecoin,usd,,dune-labels-export,2026-07-29,true,18
+0x2dc99af320bc317c567f24ee95811dcbd5983dfd,robinhood,token,wstETH,Lido Wrapped Staked ETH,lido,lst,eth,,dune-labels-export,2026-07-29,false,18
+0xa3d68b74bf0528fdd07263c60d6488749044914b,robinhood,token,weETH,ether.fi Wrapped eETH,etherfi,lrt,eth,,dune-labels-export,2026-07-29,false,18
+0x0bd7d308f8e1639fab988df18a8011f41eacad73,robinhood,token,WETH,Wrapped ETH,robinhood,wrapped_eth,eth,,dune-labels-export,2026-07-29,false,18
+0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31,robinhood,token,VIRTUAL,Virtuals Protocol,virtuals,protocol,launchpad,,dune-labels-export,2026-07-29,false,18
+0xf2915d1e3c1b0c769d0c756ec43f1c1f6c99cd03,robinhood,token,ARROW,Arrow,arrow finance,protocol,cdp,,dune-labels-export,2026-07-29,false,18
+0x56910d4409f3a0c78c64dd8d0545ff0705389870,robinhood,token,INDEX,The Index,index finance,protocol,index,,dune-labels-export,2026-07-29,false,18
