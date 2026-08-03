@@ -1,5 +1,5 @@
 address,blockchain,address_type,symbol,name,entity,entity_type,category,start_block,source,date_added,track_holders,decimals
-0x912ce59144191c1204e64559fe8253a0e49e6548,arbitrum,token,ARB,Arbitrum,arbitrum,governance,,70398215,manual,2026-03-16,true,18
+0x912ce59144191c1204e64559fe8253a0e49e6548,arbitrum,token,ARB,Arbitrum,arbitrum,protocol,,70398215,manual,2026-03-16,true,18
 0x5a0f93d040de44e78f251b03c43be9cf317dcf64,ethereum,token,JAAA,Janus Henderson Anemoy AAA CLO Fund,centrifuge,rwa,bond-etf,22297839,manual,2026-03-16,false,6
 0x57fcbd6503c8be3b1abad191bc7799ef414a5b31,polygon,token,TXAG,Aurus Tokenized Silver,aurus,rwa,commodities,34297772,manual,2026-03-16,false,18
 0xa6da8c8999c094432c77e7d318951d34019af24b,polygon,token,TXAU,Aurus Tokenized Gold,aurus,rwa,commodities,34296886,manual,2026-03-16,false,18
