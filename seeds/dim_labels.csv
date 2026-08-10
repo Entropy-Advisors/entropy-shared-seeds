@@ -1,8 +1,9 @@
 address,blockchain,address_type,symbol,name,entity,entity_type,category,start_block,source,date_added,track_holders
 0xe67192302e444a8d28f60f6737a8bc7c672b8ac6,arbitrum,entity,,Event Horizon: Voter Enfranchisement Pool,event-horizon,dao,,,manual,2026-03-16,false
-0x53877685abc912c3c4624dce647e4e17a15c07f6,arbitrum,entity,,Arbitrum DAO: Expansion Program,arbitrum-dao,dao,arbitrum-expansion-program,,manual,2026-03-16,false
-0x40cd7d713d7ae463f95ce5d342ea6e7f5cf7c999,ethereum,entity,,Arbitrum DAO: ParentToChildRewardRouter,arbitrum-dao,dao,arbitrum-expansion-program,,manual,2026-03-16,false
-0x54fe3425f09854e15081fa5b3276afcb4c46fca2,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,arbitrum-expansion-program,,manual,2026-03-16,false
+0x53877685abc912c3c4624dce647e4e17a15c07f6,arbitrum,entity,,Arbitrum DAO: Expansion Program,arbitrum-dao,dao,aep,,manual,2026-03-16,false
+0x40cd7d713d7ae463f95ce5d342ea6e7f5cf7c999,ethereum,entity,,Arbitrum DAO: ParentToChildRewardRouter,arbitrum-dao,dao,aep,,manual,2026-03-16,false
+0x54fe3425f09854e15081fa5b3276afcb4c46fca2,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
+0x54fe3425f09854e15081fa5b3276afcb4c46fca2,ethereum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
 0x13d4ff2a83fbcb8f5fc73ce66cf5928ed0943cb0,arbitrum,entity,,Arbitrum DAO: ADPC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
 0x2b04e32ece44ea0725cba5d6f2846257b7f910be,arbitrum,entity,,Arbitrum DAO: ADPC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
 0x524e480dc669592757b3f22140cc0950a9c2f489,arbitrum,entity,,Arbitrum DAO: ADPC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
@@ -19,9 +20,9 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0x8deba81c874c68c27a09706cdea50d4f727e0711,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
 0xca3373e6b9e4ece34b0f786c9e9c0be749944d73,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
 0xd19ed0e8e723fdb85a6a1480e5345fbcce0bff85,arbitrum,entity,,Arbitrum DAO: ARDC,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x5e7071e5572e32b61122e5c04b8f591804b34b06,arbitrum,entity,,Arbitrum DAO: Bootstrap the first BoLD validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xa02cbbb00c17882f19d53fc5db35e5f5f2d039b5,arbitrum,entity,,Arbitrum DAO: Bootstrap the first BoLD validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0x569bcbcf747a2b67355c242137a0b903c9f72a2b,ethereum,entity,,Arbitrum DAO: Bootstrap the first BoLD validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
+0x5e7071e5572e32b61122e5c04b8f591804b34b06,arbitrum,entity,,Arbitrum DAO: BoLD Validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
+0xa02cbbb00c17882f19d53fc5db35e5f5f2d039b5,arbitrum,entity,,Arbitrum DAO: BoLD Validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
+0x569bcbcf747a2b67355c242137a0b903c9f72a2b,ethereum,entity,,Arbitrum DAO: BoLD Validator,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
 0x073a8f65ed92da9f9f64db0d69f424aa978e1ccd,arbitrum,entity,,Arbitrum DAO: DAO Subsidy Fund,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
 0x40fce28c9f3a0d7b75b917c95960d61d930dca54,arbitrum,entity,,Arbitrum DAO: DAO Subsidy Fund,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
 0x945f1a4f856f90e8b466a4cf70acfb8f78fa1915,arbitrum,entity,,Arbitrum DAO: DAO Subsidy Fund,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
@@ -68,7 +69,7 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0x0bdafb92718759fdb1a90af6a7455e7cf300eb73,arbitrum,entity,,Arbitrum DAO: Stylus Sprint,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
 0x272bbebf956d65178f184b0f8d859fdc7ea3f5b4,arbitrum,entity,,Arbitrum DAO: Stylus Sprint,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
 0x9cfcf93dc53df1c7986eb5ec3cf07a234d94b635,arbitrum,entity,,Arbitrum DAO: Watchdog,arbitrum-dao,dao,dao-funding,,manual,2026-03-16,false
-0xcdc8a164272de1e6ba118228c2a71bbe3684cfa4,arbitrum,entity,,Arbitrum DAO: Steakhouse Fee Rebate,arbitrum-dao,dao,fee-rebate,,manual,2026-03-16,false
+0xcdc8a164272de1e6ba118228c2a71bbe3684cfa4,arbitrum,entity,,Arbitrum DAO: Partner Revenue Share,arbitrum-dao,dao,fee-rebate,,manual,2026-03-16,false
 0xe6ec2174539a849f9f3ec973c66b333ed08c0c18,arbitrum,entity,,Arbitrum DAO: L1 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
 0x2e041280627800801e90e9ac83532fadb6cad99a,arbitrum,entity,,Arbitrum DAO: L1 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
 0xbf5041fc07e1c866d15c749156657b8eed0fb649,arbitrum,entity,,Arbitrum DAO: L2 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
@@ -79,7 +80,8 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0x9fcb6f75d99029f28f6f4a1d277bae49c5cac79f,nova,entity,,Arbitrum DAO: Nova L2 Base Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
 0x3b68a689c929327224dbfce31c1bf72ffd2559ce,nova,entity,,Arbitrum DAO: Nova L2 Surplus Fee,arbitrum-dao,dao,fees,,manual,2026-03-16,false
 0x5fcb496a31b7ae91e7c9078ec662bd7a55cd3079,arbitrum,entity,,Arbitrum DAO: Timeboost Auction Contract,arbitrum-dao,dao,fees,,manual,2026-03-16,false
-0x453fc9b6e5991c574349da4b7849e2b2bad4e99e,arbitrum,entity,,Arbitrum DAO: Multi-Purpose Wallet,arbitrum-dao,dao,multi-purpose-wallet,,manual,2026-03-16,false
+0x453fc9b6e5991c574349da4b7849e2b2bad4e99e,arbitrum,entity,,Arbitrum DAO: Multi-Purpose Wallet,arbitrum-dao,dao,multi-purpose,,manual,2026-03-16,false
+0xac20cd734c65baf48a1476447af7d3e3165dc739,arbitrum,entity,,Arbitrum DAO: Multi-Purpose Wallet,arbitrum-dao,dao,multi-purpose,,manual,2026-03-16,false
 0x7983403dda368aa7d67145a9b81c5c517f364c42,ethereum,entity,,gravity,gravity,dao,orbit-chain,,manual,2026-03-16,false
 0x1eee9b9f024188e54930d2927d7a28e66e7649a7,ethereum,entity,,lasernet,lasernet,dao,orbit-chain,,manual,2026-03-16,false
 0x35381f63091926750f43b2a7401b083263adef83,ethereum,entity,,plume,plume,dao,orbit-chain,,manual,2026-03-16,false
@@ -97,7 +99,6 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0x9e49cefab0e640dd767bef40cd3f8722229b968e,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
 0xcd69da735fc5f794bddb4dbcbc645e3096b8512d,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
 0xe41d54471efa03eff6365795f60545f3caf7c97e,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
-0x54fe3425f09854e15081fa5b3276afcb4c46fca2,ethereum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-03-16,false
 0xe93d59cc0bcecfd4ac204827ef67c5266079e2b5,arbitrum,entity,,404 DAO,404-dao,delegate,,,manual,2026-03-16,false
 0xa71a021ef66b03e45e0d85590432dfcfa1b7174c,arbitrum,entity,,Abracadabra DAO,abracadabra-dao,delegate,,,manual,2026-03-16,false
 0x3d1846ea60001a3bc21438d76f3958422fe89adb,arbitrum,entity,,Alpha Insiders,alpha-insiders,delegate,,,manual,2026-03-16,false
@@ -271,4 +272,9 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0x85001cc4867c5e1c22da4b79bb8852b9e2a06da0,ethereum,contract,,Robinhood Chain: L1ERC20Gateway,robinhood,chain,bridge,24994239,manual,2026-06-16,false
 0x9368eaebfe6e063c69dcf8126711a6997e0ecee1,ethereum,contract,,Robinhood Chain: L1CustomGateway,robinhood,chain,bridge,24994239,manual,2026-06-16,false
 0xf7e12b9614b509c747ab4423bc4acf923759cf1b,ethereum,contract,,Robinhood Chain: L1WethGateway,robinhood,chain,bridge,24994239,manual,2026-06-16,false
+0x60ccfd01066d80be0c04841d123ddd30b381df70,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-10,false
+0xd2e0c19cf50e1ecb90bf724f0cee99eb5e3fb51f,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-10,false
+0xe5134c688a5b505b2de239a6a3ef4afbb665e422,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-10,false
+0x120861b67b8a8e2f737d58922e04440f51e53c84,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-10,false
+0x120861b67b8a8e2f737d58922e04440f51e53c84,ethereum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-10,false
 
