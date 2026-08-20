@@ -22,3 +22,11 @@ seeds:
         blockchain: varchar
         address: varchar
         min_block_number: bigint
+    dim_coin_id_overrides:
+      +column_types:
+        blockchain: varchar
+        address: varchar
+        symbol: varchar
+        coin_id: varchar
+        replaces_coin_id: varchar
+        note: varchar

@@ -1,0 +1,39 @@
+blockchain,address,symbol,coin_id,replaces_coin_id,note
+arbitrum,0x2297aebd383787a160dd0d9f71508148769342e3,BTC.b,bitcoin,avalanche-bridged-btc-arbitrum-one,avalanche bridge - third party
+arbitrum,0xda10009cbd5d07dd0cecc66161fc93d7c9000da1,DAI,dai,makerdao-arbitrum-bridged-dai-arbitrum-one,canonical bridge
+arbitrum,0xff970a61a04b1ca14834a43f5de4533ebddb5cc8,USDC,usd-coin,usd-coin-ethereum-bridged,USDC.e canonical bridge
+arbitrum,0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f,WBTC,wrapped-bitcoin,arbitrum-bridged-wbtc-arbitrum-one,canonical bridge
+arbitrum,0x35751007a407ca6feffe80b3cb397736d2cf4dbe,weETH,wrapped-eeth,arbitrum-bridged-wrapped-eeth,canonical bridge
+arbitrum,0x82af49447d8a07e3bd95bd0d56f35241523fbab1,WETH,weth,arbitrum-bridged-weth-arbitrum-one,canonical bridge
+arbitrum,0x5979d7b546e38e414f7e9822514be443a4800529,wstETH,wrapped-steth,arbitrum-bridged-wsteth-arbitrum,canonical bridge
+base,0x50c5725949a6f0c72e6c4a641f24049a917db0cb,DAI,dai,l2-standard-bridged-dai-base,canonical bridge
+base,0xfde4c96c8593536e31f229ea8f37b2ada2699bb2,USDT,tether,l2-standard-bridged-usdt-base,canonical bridge
+base,0x4200000000000000000000000000000000000006,WETH,weth,l2-standard-bridged-weth-base,l2 predeploy
+base,0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452,wstETH,wrapped-steth,superbridge-bridged-wsteth-base,canonical bridge
+ink,0xf1815bd50389c46847f0bda824ec8da914045d14,USDC.e,usd-coin,stargate-bridged-usdc,stargate bridge - third party
+ink,0x4200000000000000000000000000000000000006,WETH,weth,ink-bridged-weth-ink,l2 predeploy
+linea,0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5,DAI,dai,bridged-dai-stablecoin-linea,canonical bridge
+linea,0x636b22bc471c955a8db60f28d4795066a8201fa3,UNI,uniswap,linea-bridged-uni-linea,canonical bridge
+linea,0x176211869ca2b568f2a7d4ee941e073a821ee1ff,USDC,usd-coin,bridged-usd-coin-linea,canonical bridge
+linea,0xa219439258ca9da29e9cc4ce5596924745e12b93,USDT,tether,bridged-tether-linea,canonical bridge
+linea,0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4,WBTC,wrapped-bitcoin,linea-bridged-wbtc-linea,canonical bridge
+linea,0xb5bedd42000b71fdde22d3ee8a79bd49a568fc8f,wstETH,wrapped-steth,linea-bridged-wsteth-linea,canonical bridge
+optimism,0xda10009cbd5d07dd0cecc66161fc93d7c9000da1,DAI,dai,makerdao-optimism-bridged-dai-optimism,canonical bridge
+optimism,0x7f5c764cbc14f9669b88837ca1490cca17c31607,USDC,usd-coin,bridged-usd-coin-optimism,USDC.e canonical bridge
+optimism,0x94b008aa00579c1307b0ef2c499ad98a8ce58e58,USDT,tether,bridged-usdt,canonical bridge
+optimism,0x4200000000000000000000000000000000000006,WETH,weth,l2-standard-bridged-weth-optimism,l2 predeploy
+optimism,0x1f32b1c2345538c0c6f582fcb022739c4a194ebb,wstETH,wrapped-steth,superbridge-bridged-wsteth-optimism,canonical bridge
+polygon,0x8f3cf7ad23cd3cadbd9735aff958023239c6a063,DAI,dai,polygon-pos-bridged-dai-polygon-pos,canonical bridge
+polygon,0x2791bca1f2de4661ed88a30c99a7a9449aa84174,USDC,usd-coin,bridged-usdc-polygon-pos-bridge,USDC.e canonical bridge
+polygon,0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6,WBTC,wrapped-bitcoin,polygon-bridged-wbtc-polygon-pos,canonical bridge
+polygon,0x7ceb23fd6bc0add59e62ac25578270cff1b9f619,WETH,weth,polygon-pos-bridged-weth-polygon-pos,canonical bridge
+polygon,0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd,wstETH,wrapped-steth,polygon-bridged-wsteth-polygon,canonical bridge
+unichain,0x588ce4f028d8e7b53b687865d6a67b3a54c75518,USDT,tether,unichain-bridged-usdt-unichain,canonical bridge
+unichain,0x927b51f251480a681271180da4de28d44ec4afb8,WBTC,wrapped-bitcoin,unichain-bridged-wbtc-unichain-2,canonical bridge
+unichain,0x4200000000000000000000000000000000000006,WETH,weth,unichain-bridged-weth-unichain,l2 predeploy
+zksync,0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656,DAI,dai,zksync-erc20-bridged-dai-zksync,canonical bridge
+zksync,0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4,USDC,usd-coin,zksync-bridged-usdc-zksync,canonical bridge
+zksync,0x493257fd37edb34451f62edf8d2a0c418852ba4c,USDT,tether,bridged-usdt,canonical bridge
+zksync,0xbbeb516fb02a01611cbbe0453fe3c580d7281011,WBTC,wrapped-bitcoin,zksync-bridged-wbtc-zksync,canonical bridge
+zksync,0x5aea5775959fbc2557cc8789bc1bf90a239d9a91,WETH,weth,bridged-weth,canonical bridge
+zksync,0x703b52f2b28febcb60e1372858af5b18849fe867,wstETH,wrapped-steth,txsync-bridged-wsteth-zksync,canonical bridge
