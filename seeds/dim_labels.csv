@@ -278,3 +278,7 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0x120861b67b8a8e2f737d58922e04440f51e53c84,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-10,false
 0x120861b67b8a8e2f737d58922e04440f51e53c84,ethereum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-10,false
 
+0x0045c0d4223376968f17b4792ed38b2bfc86711f,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-24,false
+0xd8e35e2450003cd8d50cc804aee4db0a8872b7a9,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-24,false
+0x4d1d9d7741740a3e2ffc5507ac643dba5e81cae5,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-24,false
+0x5ce3c2bdd8fe4d35a20a18cbafab22447de68abe,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-24,false
