@@ -2,6 +2,7 @@ blockchain,address,symbol,coin_id,replaces_coin_id,note
 arbitrum,0x2297aebd383787a160dd0d9f71508148769342e3,BTC.b,bitcoin,avalanche-bridged-btc-arbitrum-one,avalanche bridge - third party
 arbitrum,0xda10009cbd5d07dd0cecc66161fc93d7c9000da1,DAI,dai,makerdao-arbitrum-bridged-dai-arbitrum-one,canonical bridge
 arbitrum,0xff970a61a04b1ca14834a43f5de4533ebddb5cc8,USDC,usd-coin,usd-coin-ethereum-bridged,USDC.e canonical bridge
+arbitrum,0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9,USDT,tether,usdt0,canonical bridge
 arbitrum,0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f,WBTC,wrapped-bitcoin,arbitrum-bridged-wbtc-arbitrum-one,canonical bridge
 arbitrum,0x35751007a407ca6feffe80b3cb397736d2cf4dbe,weETH,wrapped-eeth,arbitrum-bridged-wrapped-eeth,canonical bridge
 arbitrum,0x82af49447d8a07e3bd95bd0d56f35241523fbab1,WETH,weth,arbitrum-bridged-weth-arbitrum-one,canonical bridge
@@ -25,6 +26,7 @@ optimism,0x4200000000000000000000000000000000000006,WETH,weth,l2-standard-bridge
 optimism,0x1f32b1c2345538c0c6f582fcb022739c4a194ebb,wstETH,wrapped-steth,superbridge-bridged-wsteth-optimism,canonical bridge
 polygon,0x8f3cf7ad23cd3cadbd9735aff958023239c6a063,DAI,dai,polygon-pos-bridged-dai-polygon-pos,canonical bridge
 polygon,0x2791bca1f2de4661ed88a30c99a7a9449aa84174,USDC,usd-coin,bridged-usdc-polygon-pos-bridge,USDC.e canonical bridge
+polygon,0xc2132d05d31c914a87c6611c10748aeb04b58e8f,USDT,tether,usdt0,canonical bridge
 polygon,0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6,WBTC,wrapped-bitcoin,polygon-bridged-wbtc-polygon-pos,canonical bridge
 polygon,0x7ceb23fd6bc0add59e62ac25578270cff1b9f619,WETH,weth,polygon-pos-bridged-weth-polygon-pos,canonical bridge
 polygon,0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd,wstETH,wrapped-steth,polygon-bridged-wsteth-polygon,canonical bridge
