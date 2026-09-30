@@ -261,12 +261,12 @@ GAP2JFYUBSSY65FIFUN3NTUKP6MQQ52QETQEBDM25PFMQE2EEN2EEURC,stellar,prices,EURC,Cir
 0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31,robinhood,token,VIRTUAL,Virtuals Protocol,virtuals,protocol,launchpad,,dune-labels-export,2026-07-29,false,18
 0xf2915d1e3c1b0c769d0c756ec43f1c1f6c99cd03,robinhood,token,ARROW,Arrow,arrow finance,protocol,cdp,,dune-labels-export,2026-07-29,false,18
 0x56910d4409f3a0c78c64dd8d0545ff0705389870,robinhood,token,INDEX,The Index,index finance,protocol,index,,dune-labels-export,2026-07-29,false,18
-0x1412632f2b89e87bfa20c1318a43ced25f1d7b76,arbitrum,token,eurSAFO,Spiko Amundi Overnight Swap Fund (EUR),spiko,rwa,money-market,443506627,manual,2026-09-30,false,5
-0x0c709396739b9cfb72bcea6ac691ce0ddf66479c,arbitrum,token,SAFO,Spiko Amundi Overnight Swap Fund,spiko,rwa,money-market,445236221,manual,2026-09-30,false,5
-0xbe023308ac2ef7e1c3799f4e6a3003ee6d342635,arbitrum,token,gbpSAFO,Spiko Amundi Overnight Swap Fund (GBP),spiko,rwa,money-market,444879960,manual,2026-09-30,false,5
-0x72f9e2dfa5eed8a6f1bf4fe1edea896849ff1e9a,arbitrum,token,eurSAFOd,Spiko Amundi Overnight Swap Fund (EUR) - D,spiko,rwa,money-market,459699066,manual,2026-09-30,false,5
-0xd7d3e185ff6fb01e984a5379d8e4af616c4aa31e,arbitrum,token,SAFOd,Spiko Amundi Overnight Swap Fund - D,spiko,rwa,money-market,459699066,manual,2026-09-30,false,5
-0x8713e9d0703ca1cb01fc452f2b9fef2b9bd29871,arbitrum,token,gbpSAFOd,Spiko Amundi Overnight Swap Fund (GBP) - D,spiko,rwa,money-market,510127823,manual,2026-09-30,false,5
-0x903d5990119bc799423e9c25c56518ba7dd19474,arbitrum,token,UKTBL,Spiko UK T-Bills Money Market Fund,spiko,rwa,uk-gov-bonds,404389384,manual,2026-09-30,false,5
-0x0e389c83bc1d16d86412476f6103027555c03265,arbitrum,token,eurSPKCC,Spiko Digital Assets Cash and Carry Fund (EUR hedged),spiko,rwa,private-funds,387036869,manual,2026-09-30,false,5
-0x99f70a0e1786402a6796c6b0aa997ef340a5c6da,arbitrum,token,SPKCC,Spiko Digital Assets Cash and Carry Fund,spiko,rwa,private-funds,387397896,manual,2026-09-30,false,5
+0x1412632f2b89e87bfa20c1318a43ced25f1d7b76,arbitrum,token,eurSAFO,Spiko Amundi Overnight Swap Fund (EUR),spiko,rwa,money-market,436136455,manual,2026-09-30,false,5
+0x0c709396739b9cfb72bcea6ac691ce0ddf66479c,arbitrum,token,SAFO,Spiko Amundi Overnight Swap Fund,spiko,rwa,money-market,436119197,manual,2026-09-30,false,5
+0xbe023308ac2ef7e1c3799f4e6a3003ee6d342635,arbitrum,token,gbpSAFO,Spiko Amundi Overnight Swap Fund (GBP),spiko,rwa,money-market,436160471,manual,2026-09-30,false,5
+0x72f9e2dfa5eed8a6f1bf4fe1edea896849ff1e9a,arbitrum,token,eurSAFOd,Spiko Amundi Overnight Swap Fund (EUR) - D,spiko,rwa,money-market,454806200,manual,2026-09-30,false,5
+0xd7d3e185ff6fb01e984a5379d8e4af616c4aa31e,arbitrum,token,SAFOd,Spiko Amundi Overnight Swap Fund - D,spiko,rwa,money-market,454799680,manual,2026-09-30,false,5
+0x8713e9d0703ca1cb01fc452f2b9fef2b9bd29871,arbitrum,token,gbpSAFOd,Spiko Amundi Overnight Swap Fund (GBP) - D,spiko,rwa,money-market,488628552,manual,2026-09-30,false,5
+0x903d5990119bc799423e9c25c56518ba7dd19474,arbitrum,token,UKTBL,Spiko UK T-Bills Money Market Fund,spiko,rwa,uk-gov-bonds,358265508,manual,2026-09-30,false,5
+0x0e389c83bc1d16d86412476f6103027555c03265,arbitrum,token,eurSPKCC,Spiko Digital Assets Cash and Carry Fund (EUR hedged),spiko,rwa,private-funds,358265630,manual,2026-09-30,false,5
+0x99f70a0e1786402a6796c6b0aa997ef340a5c6da,arbitrum,token,SPKCC,Spiko Digital Assets Cash and Carry Fund,spiko,rwa,private-funds,358265591,manual,2026-09-30,false,5
