@@ -282,3 +282,6 @@ address,blockchain,address_type,symbol,name,entity,entity_type,category,start_bl
 0xd8e35e2450003cd8d50cc804aee4db0a8872b7a9,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-24,false
 0x4d1d9d7741740a3e2ffc5507ac643dba5e81cae5,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-24,false
 0x5ce3c2bdd8fe4d35a20a18cbafab22447de68abe,arbitrum,entity,,Arbitrum DAO: Treasury Management,arbitrum-dao,dao,treasury-management,,manual,2026-08-24,false
+0x0000000000b1ae06c96ab73ff4360d7aeaab56f0,ethereum,contract,,LCX: DEX Aggregator,lcx,dex,aggregator,,manual,2026-11-03,false
+0x0000000000b1ae06c96ab73ff4360d7aeaab56f0,arbitrum,contract,,LCX: DEX Aggregator,lcx,dex,aggregator,,manual,2026-11-03,false
+0x0000000000654902b6ed6cc240cc81cb4c4a3dff,robinhood,contract,,LCX: DEX Aggregator,lcx,dex,aggregator,,manual,2026-11-03,false
