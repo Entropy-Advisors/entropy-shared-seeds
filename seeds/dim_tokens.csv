@@ -223,9 +223,11 @@ GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2,stellar,token,EURC,Circ
 0x9d39a5de30e57443bff2a8307a4256c8797a3497,ethereum,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,18571359,manual,2026-03-16,false,18
 0x51b0f6aed4a421f09d28a5ede1dcf460bcb54d30,arbitrum,token,siUSD,InfiniFi siUSD,infinifi,ybs,usd,420895071,manual,2026-03-16,true,18
 0xdbdc1ef57537e34680b898e1febd3d68c7389bcb,ethereum,token,siUSD,InfiniFi siUSD,infinifi,ybs,usd,22540416,manual,2026-03-16,false,18
-0xc39a5a616f0ad1ff45077fa2de3f79ab8eb8b8b9,ethereum,token,MPLhysUSDC1,Maple Finance High Yield USDC,maple-finance,ybs,usd,19363393,manual,2026-03-16,false,6
-0x41ca7586cc1311807b4605fbb748a3b8862b42b5,arbitrum,token,syrupUSDC,Maple Finance Syrup USDC,maple-finance,ybs,usd,360788969,manual,2026-03-16,true,6
-0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b,ethereum,token,syrupUSDC,Maple Finance Syrup USDC,maple-finance,ybs,usd,19920366,manual,2026-03-16,false,6
+0xc39a5a616f0ad1ff45077fa2de3f79ab8eb8b8b9,ethereum,token,MPLhysUSDC1,Maple Finance High Yield USDC,maple,ybs,usd,19363393,manual,2026-03-16,false,6
+0x41ca7586cc1311807b4605fbb748a3b8862b42b5,arbitrum,token,syrupUSDC,Maple Finance Syrup USDC,maple,ybs,usd,360788969,manual,2026-03-16,true,6
+0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b,ethereum,token,syrupUSDC,Maple Finance Syrup USDC,maple,ybs,usd,19920366,manual,2026-03-16,false,6
+0x356b8d89c1e1239cbbb9de4815c39a1474d5ba7d,ethereum,token,syrupUSDT,Maple Finance Syrup USDT,maple,ybs,usd,20434756,manual,2026-11-09,false,6
+0x87b65c4aaffa76881f9e96f3e7ed945ddfc3cd7a,ethereum,token,syrupUSDG,Maple Finance Syrup USDG,maple,ybs,usd,25173105,manual,2026-11-09,false,6
 0x4809010926aec940b550d34a46a52739f996d75d,arbitrum,token,wsrUSD,Reservoir Wrapped srUSD,reservoir,ybs,usd,346617834,manual,2026-03-16,true,18
 0xd3fd63209fa2d55b07a0f6db36c2f43900be3094,ethereum,token,wsrUSD,Reservoir Wrapped srUSD,reservoir,ybs,usd,22275492,manual,2026-03-16,false,18
 0x35e5db674d8e93a03d814fa0ada70731efe8a4b9,arbitrum,token,RLP,Resolv Liquidity Pool,resolv,ybs,usd,276753078,manual,2026-03-16,true,18
@@ -251,7 +253,7 @@ GAP2JFYUBSSY65FIFUN3NTUKP6MQQ52QETQEBDM25PFMQE2EEN2EEURC,stellar,prices,EURC,Cir
 0x4ae46a509f6b1d9056937ba4500cb143933d2dc8,xlayer,token,USDG,Global Dollar,paxos,stablecoin,usd,36086026,manual,2026-05-07,true,6
 2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH,solana,token,USDG,Global Dollar,paxos,stablecoin,usd,321211480,manual,2026-05-07,true,6
 0x004B506865409877C9fA29bfb1ebA929984B9bbC,arbitrum,token,USDG,Global Dollar,paxos,stablecoin,usd,431365605,manual,2026-06-06,true,6
-0x40858070814a57FdF33a613ae84fE0a8b4a874f7,robinhood,token,syrupUSDG,Maple Finance Syrup USDG,maple-finance,ybs,usd,33039,manual,2026-06-16,true,6
+0x40858070814a57FdF33a613ae84fE0a8b4a874f7,robinhood,token,syrupUSDG,Maple Finance Syrup USDG,maple,ybs,usd,33039,manual,2026-06-16,true,6
 0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2,robinhood,token,sUSDe,Ethena Staked USDe,ethena,ybs,usd,29382,manual,2026-06-16,true,18
 0xde770c84FE66E063336b31737cFE9790f18c4087,robinhood,token,spUSDG,Spark Savings USDG,spark,ybs,usd,31331,manual,2026-06-16,true,6
 0x4f11d7603d1b0d0f021db552d8a6d88d7fa38ecf,robinhood,token,aUSD,Arrow USD,arrow finance,stablecoin,usd,,dune-labels-export,2026-07-29,true,18
